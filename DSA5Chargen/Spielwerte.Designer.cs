@@ -355,6 +355,127 @@
             this.metroLabel248 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel249 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel250 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel172 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel173 = new MetroFramework.Controls.MetroLabel();
+            this.numericUpDown39 = new System.Windows.Forms.NumericUpDown();
+            this.metroTextBox32 = new MetroFramework.Controls.MetroTextBox();
+            this.metroLabel174 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel175 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel176 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel177 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel178 = new MetroFramework.Controls.MetroLabel();
+            this.numericUpDown40 = new System.Windows.Forms.NumericUpDown();
+            this.metroTextBox33 = new MetroFramework.Controls.MetroTextBox();
+            this.metroLabel179 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel180 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel181 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel182 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel183 = new MetroFramework.Controls.MetroLabel();
+            this.numericUpDown41 = new System.Windows.Forms.NumericUpDown();
+            this.metroTextBox34 = new MetroFramework.Controls.MetroTextBox();
+            this.metroLabel184 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel185 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel186 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel251 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel252 = new MetroFramework.Controls.MetroLabel();
+            this.numericUpDown53 = new System.Windows.Forms.NumericUpDown();
+            this.metroTextBox46 = new MetroFramework.Controls.MetroTextBox();
+            this.metroLabel253 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel254 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel255 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel256 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel257 = new MetroFramework.Controls.MetroLabel();
+            this.numericUpDown54 = new System.Windows.Forms.NumericUpDown();
+            this.metroTextBox47 = new MetroFramework.Controls.MetroTextBox();
+            this.metroLabel258 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel259 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel260 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel261 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel262 = new MetroFramework.Controls.MetroLabel();
+            this.numericUpDown55 = new System.Windows.Forms.NumericUpDown();
+            this.metroTextBox48 = new MetroFramework.Controls.MetroTextBox();
+            this.metroLabel263 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel264 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel265 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel266 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel267 = new MetroFramework.Controls.MetroLabel();
+            this.numericUpDown56 = new System.Windows.Forms.NumericUpDown();
+            this.metroTextBox49 = new MetroFramework.Controls.MetroTextBox();
+            this.metroLabel268 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel269 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel270 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel271 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel272 = new MetroFramework.Controls.MetroLabel();
+            this.numericUpDown57 = new System.Windows.Forms.NumericUpDown();
+            this.metroTextBox50 = new MetroFramework.Controls.MetroTextBox();
+            this.metroLabel273 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel274 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel275 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel276 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel277 = new MetroFramework.Controls.MetroLabel();
+            this.numericUpDown58 = new System.Windows.Forms.NumericUpDown();
+            this.metroTextBox51 = new MetroFramework.Controls.MetroTextBox();
+            this.metroLabel278 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel279 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel280 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel281 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel282 = new MetroFramework.Controls.MetroLabel();
+            this.numericUpDown59 = new System.Windows.Forms.NumericUpDown();
+            this.metroTextBox52 = new MetroFramework.Controls.MetroTextBox();
+            this.metroLabel283 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel284 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel285 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel286 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel287 = new MetroFramework.Controls.MetroLabel();
+            this.numericUpDown60 = new System.Windows.Forms.NumericUpDown();
+            this.metroTextBox53 = new MetroFramework.Controls.MetroTextBox();
+            this.metroLabel288 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel289 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel290 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel291 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel292 = new MetroFramework.Controls.MetroLabel();
+            this.numericUpDown66 = new System.Windows.Forms.NumericUpDown();
+            this.metroTextBox59 = new MetroFramework.Controls.MetroTextBox();
+            this.metroLabel318 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel319 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel320 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel321 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel322 = new MetroFramework.Controls.MetroLabel();
+            this.numericUpDown67 = new System.Windows.Forms.NumericUpDown();
+            this.metroTextBox60 = new MetroFramework.Controls.MetroTextBox();
+            this.metroLabel323 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel324 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel325 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel326 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel327 = new MetroFramework.Controls.MetroLabel();
+            this.numericUpDown68 = new System.Windows.Forms.NumericUpDown();
+            this.metroTextBox61 = new MetroFramework.Controls.MetroTextBox();
+            this.metroLabel328 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel329 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel330 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel331 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel332 = new MetroFramework.Controls.MetroLabel();
+            this.numericUpDown69 = new System.Windows.Forms.NumericUpDown();
+            this.metroTextBox62 = new MetroFramework.Controls.MetroTextBox();
+            this.metroLabel333 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel334 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel335 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel336 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel337 = new MetroFramework.Controls.MetroLabel();
+            this.numericUpDown70 = new System.Windows.Forms.NumericUpDown();
+            this.metroTextBox63 = new MetroFramework.Controls.MetroTextBox();
+            this.metroLabel338 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel339 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel340 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel341 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel342 = new MetroFramework.Controls.MetroLabel();
+            this.numericUpDown71 = new System.Windows.Forms.NumericUpDown();
+            this.metroTextBox64 = new MetroFramework.Controls.MetroTextBox();
+            this.metroLabel343 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel344 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel345 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel346 = new MetroFramework.Controls.MetroLabel();
+            this.metroLabel347 = new MetroFramework.Controls.MetroLabel();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown8)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown7)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown6)).BeginInit();
@@ -404,6 +525,23 @@
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown50)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown51)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown52)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown39)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown40)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown41)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown53)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown54)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown55)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown56)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown57)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown58)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown59)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown60)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown66)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown67)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown68)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown69)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown70)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown71)).BeginInit();
             this.SuspendLayout();
             // 
             // numericUpDown8
@@ -3309,11 +3447,1171 @@
             this.metroLabel250.TabIndex = 310;
             this.metroLabel250.Text = "TALENT";
             // 
+            // metroLabel172
+            // 
+            this.metroLabel172.AutoSize = true;
+            this.metroLabel172.Location = new System.Drawing.Point(742, 391);
+            this.metroLabel172.Name = "metroLabel172";
+            this.metroLabel172.Size = new System.Drawing.Size(64, 19);
+            this.metroLabel172.TabIndex = 397;
+            this.metroLabel172.Text = "FF/FF/KO";
+            // 
+            // metroLabel173
+            // 
+            this.metroLabel173.AutoSize = true;
+            this.metroLabel173.FontWeight = MetroFramework.MetroLabelWeight.Bold;
+            this.metroLabel173.Location = new System.Drawing.Point(601, 391);
+            this.metroLabel173.Name = "metroLabel173";
+            this.metroLabel173.Size = new System.Drawing.Size(130, 19);
+            this.metroLabel173.TabIndex = 396;
+            this.metroLabel173.Text = "Handwerkstalente";
+            // 
+            // numericUpDown39
+            // 
+            this.numericUpDown39.Location = new System.Drawing.Point(899, 677);
+            this.numericUpDown39.Name = "numericUpDown39";
+            this.numericUpDown39.Size = new System.Drawing.Size(47, 20);
+            this.numericUpDown39.TabIndex = 474;
+            // 
+            // metroTextBox32
+            // 
+            this.metroTextBox32.Location = new System.Drawing.Point(975, 676);
+            this.metroTextBox32.Name = "metroTextBox32";
+            this.metroTextBox32.Size = new System.Drawing.Size(155, 20);
+            this.metroTextBox32.TabIndex = 473;
+            this.metroTextBox32.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // metroLabel174
+            // 
+            this.metroLabel174.AutoSize = true;
+            this.metroLabel174.Location = new System.Drawing.Point(952, 677);
+            this.metroLabel174.Name = "metroLabel174";
+            this.metroLabel174.Size = new System.Drawing.Size(15, 19);
+            this.metroLabel174.TabIndex = 472;
+            this.metroLabel174.Text = "-";
+            // 
+            // metroLabel175
+            // 
+            this.metroLabel175.AutoSize = true;
+            this.metroLabel175.Location = new System.Drawing.Point(861, 677);
+            this.metroLabel175.Name = "metroLabel175";
+            this.metroLabel175.Size = new System.Drawing.Size(17, 19);
+            this.metroLabel175.TabIndex = 471;
+            this.metroLabel175.Text = "B";
+            // 
+            // metroLabel176
+            // 
+            this.metroLabel176.AutoSize = true;
+            this.metroLabel176.Location = new System.Drawing.Point(831, 677);
+            this.metroLabel176.Name = "metroLabel176";
+            this.metroLabel176.Size = new System.Drawing.Size(23, 19);
+            this.metroLabel176.TabIndex = 470;
+            this.metroLabel176.Text = "JA";
+            // 
+            // metroLabel177
+            // 
+            this.metroLabel177.AutoSize = true;
+            this.metroLabel177.Location = new System.Drawing.Point(742, 677);
+            this.metroLabel177.Name = "metroLabel177";
+            this.metroLabel177.Size = new System.Drawing.Size(69, 19);
+            this.metroLabel177.TabIndex = 469;
+            this.metroLabel177.Text = "MU/IN/GE";
+            // 
+            // metroLabel178
+            // 
+            this.metroLabel178.AutoSize = true;
+            this.metroLabel178.Location = new System.Drawing.Point(601, 677);
+            this.metroLabel178.Name = "metroLabel178";
+            this.metroLabel178.Size = new System.Drawing.Size(113, 19);
+            this.metroLabel178.TabIndex = 468;
+            this.metroLabel178.Text = "Lederbearbeitung";
+            // 
+            // numericUpDown40
+            // 
+            this.numericUpDown40.Location = new System.Drawing.Point(899, 651);
+            this.numericUpDown40.Name = "numericUpDown40";
+            this.numericUpDown40.Size = new System.Drawing.Size(47, 20);
+            this.numericUpDown40.TabIndex = 467;
+            // 
+            // metroTextBox33
+            // 
+            this.metroTextBox33.Location = new System.Drawing.Point(975, 650);
+            this.metroTextBox33.Name = "metroTextBox33";
+            this.metroTextBox33.Size = new System.Drawing.Size(155, 20);
+            this.metroTextBox33.TabIndex = 466;
+            this.metroTextBox33.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // metroLabel179
+            // 
+            this.metroLabel179.AutoSize = true;
+            this.metroLabel179.Location = new System.Drawing.Point(952, 651);
+            this.metroLabel179.Name = "metroLabel179";
+            this.metroLabel179.Size = new System.Drawing.Size(15, 19);
+            this.metroLabel179.TabIndex = 465;
+            this.metroLabel179.Text = "-";
+            // 
+            // metroLabel180
+            // 
+            this.metroLabel180.AutoSize = true;
+            this.metroLabel180.Location = new System.Drawing.Point(861, 651);
+            this.metroLabel180.Name = "metroLabel180";
+            this.metroLabel180.Size = new System.Drawing.Size(17, 19);
+            this.metroLabel180.TabIndex = 464;
+            this.metroLabel180.Text = "B";
+            // 
+            // metroLabel181
+            // 
+            this.metroLabel181.AutoSize = true;
+            this.metroLabel181.Location = new System.Drawing.Point(831, 651);
+            this.metroLabel181.Name = "metroLabel181";
+            this.metroLabel181.Size = new System.Drawing.Size(23, 19);
+            this.metroLabel181.TabIndex = 463;
+            this.metroLabel181.Text = "JA";
+            // 
+            // metroLabel182
+            // 
+            this.metroLabel182.AutoSize = true;
+            this.metroLabel182.Location = new System.Drawing.Point(742, 651);
+            this.metroLabel182.Name = "metroLabel182";
+            this.metroLabel182.Size = new System.Drawing.Size(69, 19);
+            this.metroLabel182.TabIndex = 462;
+            this.metroLabel182.Text = "MU/IN/GE";
+            // 
+            // metroLabel183
+            // 
+            this.metroLabel183.AutoSize = true;
+            this.metroLabel183.Location = new System.Drawing.Point(601, 651);
+            this.metroLabel183.Name = "metroLabel183";
+            this.metroLabel183.Size = new System.Drawing.Size(153, 19);
+            this.metroLabel183.TabIndex = 461;
+            this.metroLabel183.Text = "Lebensmittelbearbeitung";
+            // 
+            // numericUpDown41
+            // 
+            this.numericUpDown41.Location = new System.Drawing.Point(899, 625);
+            this.numericUpDown41.Name = "numericUpDown41";
+            this.numericUpDown41.Size = new System.Drawing.Size(47, 20);
+            this.numericUpDown41.TabIndex = 460;
+            // 
+            // metroTextBox34
+            // 
+            this.metroTextBox34.Location = new System.Drawing.Point(975, 624);
+            this.metroTextBox34.Name = "metroTextBox34";
+            this.metroTextBox34.Size = new System.Drawing.Size(155, 20);
+            this.metroTextBox34.TabIndex = 459;
+            this.metroTextBox34.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // metroLabel184
+            // 
+            this.metroLabel184.AutoSize = true;
+            this.metroLabel184.Location = new System.Drawing.Point(952, 625);
+            this.metroLabel184.Name = "metroLabel184";
+            this.metroLabel184.Size = new System.Drawing.Size(15, 19);
+            this.metroLabel184.TabIndex = 458;
+            this.metroLabel184.Text = "-";
+            // 
+            // metroLabel185
+            // 
+            this.metroLabel185.AutoSize = true;
+            this.metroLabel185.Location = new System.Drawing.Point(861, 625);
+            this.metroLabel185.Name = "metroLabel185";
+            this.metroLabel185.Size = new System.Drawing.Size(17, 19);
+            this.metroLabel185.TabIndex = 457;
+            this.metroLabel185.Text = "B";
+            // 
+            // metroLabel186
+            // 
+            this.metroLabel186.AutoSize = true;
+            this.metroLabel186.Location = new System.Drawing.Point(831, 625);
+            this.metroLabel186.Name = "metroLabel186";
+            this.metroLabel186.Size = new System.Drawing.Size(23, 19);
+            this.metroLabel186.TabIndex = 456;
+            this.metroLabel186.Text = "JA";
+            // 
+            // metroLabel251
+            // 
+            this.metroLabel251.AutoSize = true;
+            this.metroLabel251.Location = new System.Drawing.Point(742, 625);
+            this.metroLabel251.Name = "metroLabel251";
+            this.metroLabel251.Size = new System.Drawing.Size(69, 19);
+            this.metroLabel251.TabIndex = 455;
+            this.metroLabel251.Text = "MU/IN/GE";
+            // 
+            // metroLabel252
+            // 
+            this.metroLabel252.AutoSize = true;
+            this.metroLabel252.Location = new System.Drawing.Point(601, 625);
+            this.metroLabel252.Name = "metroLabel252";
+            this.metroLabel252.Size = new System.Drawing.Size(106, 19);
+            this.metroLabel252.TabIndex = 454;
+            this.metroLabel252.Text = "Holzbearbeitung";
+            // 
+            // numericUpDown53
+            // 
+            this.numericUpDown53.Location = new System.Drawing.Point(899, 599);
+            this.numericUpDown53.Name = "numericUpDown53";
+            this.numericUpDown53.Size = new System.Drawing.Size(47, 20);
+            this.numericUpDown53.TabIndex = 453;
+            // 
+            // metroTextBox46
+            // 
+            this.metroTextBox46.Location = new System.Drawing.Point(975, 598);
+            this.metroTextBox46.Name = "metroTextBox46";
+            this.metroTextBox46.Size = new System.Drawing.Size(155, 20);
+            this.metroTextBox46.TabIndex = 452;
+            this.metroTextBox46.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // metroLabel253
+            // 
+            this.metroLabel253.AutoSize = true;
+            this.metroLabel253.Location = new System.Drawing.Point(952, 599);
+            this.metroLabel253.Name = "metroLabel253";
+            this.metroLabel253.Size = new System.Drawing.Size(15, 19);
+            this.metroLabel253.TabIndex = 451;
+            this.metroLabel253.Text = "-";
+            // 
+            // metroLabel254
+            // 
+            this.metroLabel254.AutoSize = true;
+            this.metroLabel254.Location = new System.Drawing.Point(861, 599);
+            this.metroLabel254.Name = "metroLabel254";
+            this.metroLabel254.Size = new System.Drawing.Size(17, 19);
+            this.metroLabel254.TabIndex = 450;
+            this.metroLabel254.Text = "B";
+            // 
+            // metroLabel255
+            // 
+            this.metroLabel255.AutoSize = true;
+            this.metroLabel255.Location = new System.Drawing.Point(831, 599);
+            this.metroLabel255.Name = "metroLabel255";
+            this.metroLabel255.Size = new System.Drawing.Size(23, 19);
+            this.metroLabel255.TabIndex = 449;
+            this.metroLabel255.Text = "JA";
+            // 
+            // metroLabel256
+            // 
+            this.metroLabel256.AutoSize = true;
+            this.metroLabel256.Location = new System.Drawing.Point(742, 599);
+            this.metroLabel256.Name = "metroLabel256";
+            this.metroLabel256.Size = new System.Drawing.Size(69, 19);
+            this.metroLabel256.TabIndex = 448;
+            this.metroLabel256.Text = "MU/IN/GE";
+            // 
+            // metroLabel257
+            // 
+            this.metroLabel257.AutoSize = true;
+            this.metroLabel257.Location = new System.Drawing.Point(601, 599);
+            this.metroLabel257.Name = "metroLabel257";
+            this.metroLabel257.Size = new System.Drawing.Size(119, 19);
+            this.metroLabel257.TabIndex = 447;
+            this.metroLabel257.Text = "Heilkunde Wunden";
+            // 
+            // numericUpDown54
+            // 
+            this.numericUpDown54.Location = new System.Drawing.Point(899, 573);
+            this.numericUpDown54.Name = "numericUpDown54";
+            this.numericUpDown54.Size = new System.Drawing.Size(47, 20);
+            this.numericUpDown54.TabIndex = 446;
+            // 
+            // metroTextBox47
+            // 
+            this.metroTextBox47.Location = new System.Drawing.Point(975, 572);
+            this.metroTextBox47.Name = "metroTextBox47";
+            this.metroTextBox47.Size = new System.Drawing.Size(155, 20);
+            this.metroTextBox47.TabIndex = 445;
+            this.metroTextBox47.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // metroLabel258
+            // 
+            this.metroLabel258.AutoSize = true;
+            this.metroLabel258.Location = new System.Drawing.Point(952, 573);
+            this.metroLabel258.Name = "metroLabel258";
+            this.metroLabel258.Size = new System.Drawing.Size(15, 19);
+            this.metroLabel258.TabIndex = 444;
+            this.metroLabel258.Text = "-";
+            // 
+            // metroLabel259
+            // 
+            this.metroLabel259.AutoSize = true;
+            this.metroLabel259.Location = new System.Drawing.Point(861, 573);
+            this.metroLabel259.Name = "metroLabel259";
+            this.metroLabel259.Size = new System.Drawing.Size(17, 19);
+            this.metroLabel259.TabIndex = 443;
+            this.metroLabel259.Text = "B";
+            // 
+            // metroLabel260
+            // 
+            this.metroLabel260.AutoSize = true;
+            this.metroLabel260.Location = new System.Drawing.Point(831, 573);
+            this.metroLabel260.Name = "metroLabel260";
+            this.metroLabel260.Size = new System.Drawing.Size(23, 19);
+            this.metroLabel260.TabIndex = 442;
+            this.metroLabel260.Text = "JA";
+            // 
+            // metroLabel261
+            // 
+            this.metroLabel261.AutoSize = true;
+            this.metroLabel261.Location = new System.Drawing.Point(742, 573);
+            this.metroLabel261.Name = "metroLabel261";
+            this.metroLabel261.Size = new System.Drawing.Size(69, 19);
+            this.metroLabel261.TabIndex = 441;
+            this.metroLabel261.Text = "MU/IN/GE";
+            // 
+            // metroLabel262
+            // 
+            this.metroLabel262.AutoSize = true;
+            this.metroLabel262.Location = new System.Drawing.Point(601, 573);
+            this.metroLabel262.Name = "metroLabel262";
+            this.metroLabel262.Size = new System.Drawing.Size(101, 19);
+            this.metroLabel262.TabIndex = 440;
+            this.metroLabel262.Text = "Heilkunde Seele";
+            // 
+            // numericUpDown55
+            // 
+            this.numericUpDown55.Location = new System.Drawing.Point(899, 547);
+            this.numericUpDown55.Name = "numericUpDown55";
+            this.numericUpDown55.Size = new System.Drawing.Size(47, 20);
+            this.numericUpDown55.TabIndex = 439;
+            // 
+            // metroTextBox48
+            // 
+            this.metroTextBox48.Location = new System.Drawing.Point(975, 546);
+            this.metroTextBox48.Name = "metroTextBox48";
+            this.metroTextBox48.Size = new System.Drawing.Size(155, 20);
+            this.metroTextBox48.TabIndex = 438;
+            this.metroTextBox48.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // metroLabel263
+            // 
+            this.metroLabel263.AutoSize = true;
+            this.metroLabel263.Location = new System.Drawing.Point(952, 547);
+            this.metroLabel263.Name = "metroLabel263";
+            this.metroLabel263.Size = new System.Drawing.Size(15, 19);
+            this.metroLabel263.TabIndex = 437;
+            this.metroLabel263.Text = "-";
+            // 
+            // metroLabel264
+            // 
+            this.metroLabel264.AutoSize = true;
+            this.metroLabel264.Location = new System.Drawing.Point(861, 547);
+            this.metroLabel264.Name = "metroLabel264";
+            this.metroLabel264.Size = new System.Drawing.Size(17, 19);
+            this.metroLabel264.TabIndex = 436;
+            this.metroLabel264.Text = "B";
+            // 
+            // metroLabel265
+            // 
+            this.metroLabel265.AutoSize = true;
+            this.metroLabel265.Location = new System.Drawing.Point(831, 547);
+            this.metroLabel265.Name = "metroLabel265";
+            this.metroLabel265.Size = new System.Drawing.Size(23, 19);
+            this.metroLabel265.TabIndex = 435;
+            this.metroLabel265.Text = "JA";
+            // 
+            // metroLabel266
+            // 
+            this.metroLabel266.AutoSize = true;
+            this.metroLabel266.Location = new System.Drawing.Point(742, 547);
+            this.metroLabel266.Name = "metroLabel266";
+            this.metroLabel266.Size = new System.Drawing.Size(69, 19);
+            this.metroLabel266.TabIndex = 434;
+            this.metroLabel266.Text = "MU/IN/GE";
+            // 
+            // metroLabel267
+            // 
+            this.metroLabel267.AutoSize = true;
+            this.metroLabel267.Location = new System.Drawing.Point(601, 547);
+            this.metroLabel267.Name = "metroLabel267";
+            this.metroLabel267.Size = new System.Drawing.Size(137, 19);
+            this.metroLabel267.TabIndex = 433;
+            this.metroLabel267.Text = "Heilkunde Krankheiten";
+            // 
+            // numericUpDown56
+            // 
+            this.numericUpDown56.Location = new System.Drawing.Point(899, 521);
+            this.numericUpDown56.Name = "numericUpDown56";
+            this.numericUpDown56.Size = new System.Drawing.Size(47, 20);
+            this.numericUpDown56.TabIndex = 432;
+            // 
+            // metroTextBox49
+            // 
+            this.metroTextBox49.Location = new System.Drawing.Point(975, 520);
+            this.metroTextBox49.Name = "metroTextBox49";
+            this.metroTextBox49.Size = new System.Drawing.Size(155, 20);
+            this.metroTextBox49.TabIndex = 431;
+            this.metroTextBox49.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // metroLabel268
+            // 
+            this.metroLabel268.AutoSize = true;
+            this.metroLabel268.Location = new System.Drawing.Point(952, 521);
+            this.metroLabel268.Name = "metroLabel268";
+            this.metroLabel268.Size = new System.Drawing.Size(15, 19);
+            this.metroLabel268.TabIndex = 430;
+            this.metroLabel268.Text = "-";
+            // 
+            // metroLabel269
+            // 
+            this.metroLabel269.AutoSize = true;
+            this.metroLabel269.Location = new System.Drawing.Point(861, 521);
+            this.metroLabel269.Name = "metroLabel269";
+            this.metroLabel269.Size = new System.Drawing.Size(17, 19);
+            this.metroLabel269.TabIndex = 429;
+            this.metroLabel269.Text = "B";
+            // 
+            // metroLabel270
+            // 
+            this.metroLabel270.AutoSize = true;
+            this.metroLabel270.Location = new System.Drawing.Point(831, 521);
+            this.metroLabel270.Name = "metroLabel270";
+            this.metroLabel270.Size = new System.Drawing.Size(23, 19);
+            this.metroLabel270.TabIndex = 428;
+            this.metroLabel270.Text = "JA";
+            // 
+            // metroLabel271
+            // 
+            this.metroLabel271.AutoSize = true;
+            this.metroLabel271.Location = new System.Drawing.Point(742, 521);
+            this.metroLabel271.Name = "metroLabel271";
+            this.metroLabel271.Size = new System.Drawing.Size(69, 19);
+            this.metroLabel271.TabIndex = 427;
+            this.metroLabel271.Text = "MU/IN/GE";
+            // 
+            // metroLabel272
+            // 
+            this.metroLabel272.AutoSize = true;
+            this.metroLabel272.Location = new System.Drawing.Point(601, 521);
+            this.metroLabel272.Name = "metroLabel272";
+            this.metroLabel272.Size = new System.Drawing.Size(90, 19);
+            this.metroLabel272.TabIndex = 426;
+            this.metroLabel272.Text = "Heilkunde Gift";
+            // 
+            // numericUpDown57
+            // 
+            this.numericUpDown57.Location = new System.Drawing.Point(899, 495);
+            this.numericUpDown57.Name = "numericUpDown57";
+            this.numericUpDown57.Size = new System.Drawing.Size(47, 20);
+            this.numericUpDown57.TabIndex = 425;
+            // 
+            // metroTextBox50
+            // 
+            this.metroTextBox50.Location = new System.Drawing.Point(975, 494);
+            this.metroTextBox50.Name = "metroTextBox50";
+            this.metroTextBox50.Size = new System.Drawing.Size(155, 20);
+            this.metroTextBox50.TabIndex = 424;
+            this.metroTextBox50.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // metroLabel273
+            // 
+            this.metroLabel273.AutoSize = true;
+            this.metroLabel273.Location = new System.Drawing.Point(952, 495);
+            this.metroLabel273.Name = "metroLabel273";
+            this.metroLabel273.Size = new System.Drawing.Size(15, 19);
+            this.metroLabel273.TabIndex = 423;
+            this.metroLabel273.Text = "-";
+            // 
+            // metroLabel274
+            // 
+            this.metroLabel274.AutoSize = true;
+            this.metroLabel274.Location = new System.Drawing.Point(861, 495);
+            this.metroLabel274.Name = "metroLabel274";
+            this.metroLabel274.Size = new System.Drawing.Size(17, 19);
+            this.metroLabel274.TabIndex = 422;
+            this.metroLabel274.Text = "B";
+            // 
+            // metroLabel275
+            // 
+            this.metroLabel275.AutoSize = true;
+            this.metroLabel275.Location = new System.Drawing.Point(831, 495);
+            this.metroLabel275.Name = "metroLabel275";
+            this.metroLabel275.Size = new System.Drawing.Size(23, 19);
+            this.metroLabel275.TabIndex = 421;
+            this.metroLabel275.Text = "JA";
+            // 
+            // metroLabel276
+            // 
+            this.metroLabel276.AutoSize = true;
+            this.metroLabel276.Location = new System.Drawing.Point(742, 495);
+            this.metroLabel276.Name = "metroLabel276";
+            this.metroLabel276.Size = new System.Drawing.Size(69, 19);
+            this.metroLabel276.TabIndex = 420;
+            this.metroLabel276.Text = "MU/IN/GE";
+            // 
+            // metroLabel277
+            // 
+            this.metroLabel277.AutoSize = true;
+            this.metroLabel277.Location = new System.Drawing.Point(601, 495);
+            this.metroLabel277.Name = "metroLabel277";
+            this.metroLabel277.Size = new System.Drawing.Size(50, 19);
+            this.metroLabel277.TabIndex = 419;
+            this.metroLabel277.Text = "Handel";
+            // 
+            // numericUpDown58
+            // 
+            this.numericUpDown58.Location = new System.Drawing.Point(899, 469);
+            this.numericUpDown58.Name = "numericUpDown58";
+            this.numericUpDown58.Size = new System.Drawing.Size(47, 20);
+            this.numericUpDown58.TabIndex = 418;
+            // 
+            // metroTextBox51
+            // 
+            this.metroTextBox51.Location = new System.Drawing.Point(975, 468);
+            this.metroTextBox51.Name = "metroTextBox51";
+            this.metroTextBox51.Size = new System.Drawing.Size(155, 20);
+            this.metroTextBox51.TabIndex = 417;
+            this.metroTextBox51.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // metroLabel278
+            // 
+            this.metroLabel278.AutoSize = true;
+            this.metroLabel278.Location = new System.Drawing.Point(952, 469);
+            this.metroLabel278.Name = "metroLabel278";
+            this.metroLabel278.Size = new System.Drawing.Size(15, 19);
+            this.metroLabel278.TabIndex = 416;
+            this.metroLabel278.Text = "-";
+            // 
+            // metroLabel279
+            // 
+            this.metroLabel279.AutoSize = true;
+            this.metroLabel279.Location = new System.Drawing.Point(861, 469);
+            this.metroLabel279.Name = "metroLabel279";
+            this.metroLabel279.Size = new System.Drawing.Size(17, 19);
+            this.metroLabel279.TabIndex = 415;
+            this.metroLabel279.Text = "B";
+            // 
+            // metroLabel280
+            // 
+            this.metroLabel280.AutoSize = true;
+            this.metroLabel280.Location = new System.Drawing.Point(831, 469);
+            this.metroLabel280.Name = "metroLabel280";
+            this.metroLabel280.Size = new System.Drawing.Size(23, 19);
+            this.metroLabel280.TabIndex = 414;
+            this.metroLabel280.Text = "JA";
+            // 
+            // metroLabel281
+            // 
+            this.metroLabel281.AutoSize = true;
+            this.metroLabel281.Location = new System.Drawing.Point(742, 469);
+            this.metroLabel281.Name = "metroLabel281";
+            this.metroLabel281.Size = new System.Drawing.Size(69, 19);
+            this.metroLabel281.TabIndex = 413;
+            this.metroLabel281.Text = "MU/IN/GE";
+            // 
+            // metroLabel282
+            // 
+            this.metroLabel282.AutoSize = true;
+            this.metroLabel282.Location = new System.Drawing.Point(601, 469);
+            this.metroLabel282.Name = "metroLabel282";
+            this.metroLabel282.Size = new System.Drawing.Size(69, 19);
+            this.metroLabel282.TabIndex = 412;
+            this.metroLabel282.Text = "Fahrzeuge";
+            // 
+            // numericUpDown59
+            // 
+            this.numericUpDown59.Location = new System.Drawing.Point(899, 443);
+            this.numericUpDown59.Name = "numericUpDown59";
+            this.numericUpDown59.Size = new System.Drawing.Size(47, 20);
+            this.numericUpDown59.TabIndex = 411;
+            // 
+            // metroTextBox52
+            // 
+            this.metroTextBox52.Location = new System.Drawing.Point(975, 442);
+            this.metroTextBox52.Name = "metroTextBox52";
+            this.metroTextBox52.Size = new System.Drawing.Size(155, 20);
+            this.metroTextBox52.TabIndex = 410;
+            this.metroTextBox52.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // metroLabel283
+            // 
+            this.metroLabel283.AutoSize = true;
+            this.metroLabel283.Location = new System.Drawing.Point(952, 443);
+            this.metroLabel283.Name = "metroLabel283";
+            this.metroLabel283.Size = new System.Drawing.Size(15, 19);
+            this.metroLabel283.TabIndex = 409;
+            this.metroLabel283.Text = "-";
+            // 
+            // metroLabel284
+            // 
+            this.metroLabel284.AutoSize = true;
+            this.metroLabel284.Location = new System.Drawing.Point(861, 443);
+            this.metroLabel284.Name = "metroLabel284";
+            this.metroLabel284.Size = new System.Drawing.Size(17, 19);
+            this.metroLabel284.TabIndex = 408;
+            this.metroLabel284.Text = "B";
+            // 
+            // metroLabel285
+            // 
+            this.metroLabel285.AutoSize = true;
+            this.metroLabel285.Location = new System.Drawing.Point(831, 443);
+            this.metroLabel285.Name = "metroLabel285";
+            this.metroLabel285.Size = new System.Drawing.Size(23, 19);
+            this.metroLabel285.TabIndex = 407;
+            this.metroLabel285.Text = "JA";
+            // 
+            // metroLabel286
+            // 
+            this.metroLabel286.AutoSize = true;
+            this.metroLabel286.Location = new System.Drawing.Point(742, 443);
+            this.metroLabel286.Name = "metroLabel286";
+            this.metroLabel286.Size = new System.Drawing.Size(69, 19);
+            this.metroLabel286.TabIndex = 406;
+            this.metroLabel286.Text = "MU/IN/GE";
+            // 
+            // metroLabel287
+            // 
+            this.metroLabel287.AutoSize = true;
+            this.metroLabel287.Location = new System.Drawing.Point(601, 443);
+            this.metroLabel287.Name = "metroLabel287";
+            this.metroLabel287.Size = new System.Drawing.Size(100, 19);
+            this.metroLabel287.TabIndex = 405;
+            this.metroLabel287.Text = "Boote && Schiffe";
+            // 
+            // numericUpDown60
+            // 
+            this.numericUpDown60.Location = new System.Drawing.Point(899, 417);
+            this.numericUpDown60.Name = "numericUpDown60";
+            this.numericUpDown60.Size = new System.Drawing.Size(47, 20);
+            this.numericUpDown60.TabIndex = 404;
+            // 
+            // metroTextBox53
+            // 
+            this.metroTextBox53.Location = new System.Drawing.Point(975, 416);
+            this.metroTextBox53.Name = "metroTextBox53";
+            this.metroTextBox53.Size = new System.Drawing.Size(155, 20);
+            this.metroTextBox53.TabIndex = 403;
+            this.metroTextBox53.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // metroLabel288
+            // 
+            this.metroLabel288.AutoSize = true;
+            this.metroLabel288.Location = new System.Drawing.Point(952, 417);
+            this.metroLabel288.Name = "metroLabel288";
+            this.metroLabel288.Size = new System.Drawing.Size(15, 19);
+            this.metroLabel288.TabIndex = 402;
+            this.metroLabel288.Text = "-";
+            // 
+            // metroLabel289
+            // 
+            this.metroLabel289.AutoSize = true;
+            this.metroLabel289.Location = new System.Drawing.Point(861, 417);
+            this.metroLabel289.Name = "metroLabel289";
+            this.metroLabel289.Size = new System.Drawing.Size(17, 19);
+            this.metroLabel289.TabIndex = 401;
+            this.metroLabel289.Text = "B";
+            // 
+            // metroLabel290
+            // 
+            this.metroLabel290.AutoSize = true;
+            this.metroLabel290.Location = new System.Drawing.Point(831, 417);
+            this.metroLabel290.Name = "metroLabel290";
+            this.metroLabel290.Size = new System.Drawing.Size(23, 19);
+            this.metroLabel290.TabIndex = 400;
+            this.metroLabel290.Text = "JA";
+            // 
+            // metroLabel291
+            // 
+            this.metroLabel291.AutoSize = true;
+            this.metroLabel291.Location = new System.Drawing.Point(742, 417);
+            this.metroLabel291.Name = "metroLabel291";
+            this.metroLabel291.Size = new System.Drawing.Size(69, 19);
+            this.metroLabel291.TabIndex = 399;
+            this.metroLabel291.Text = "MU/IN/GE";
+            // 
+            // metroLabel292
+            // 
+            this.metroLabel292.AutoSize = true;
+            this.metroLabel292.Location = new System.Drawing.Point(601, 417);
+            this.metroLabel292.Name = "metroLabel292";
+            this.metroLabel292.Size = new System.Drawing.Size(59, 19);
+            this.metroLabel292.TabIndex = 398;
+            this.metroLabel292.Text = "Alchimie";
+            // 
+            // numericUpDown66
+            // 
+            this.numericUpDown66.Location = new System.Drawing.Point(899, 834);
+            this.numericUpDown66.Name = "numericUpDown66";
+            this.numericUpDown66.Size = new System.Drawing.Size(47, 20);
+            this.numericUpDown66.TabIndex = 516;
+            // 
+            // metroTextBox59
+            // 
+            this.metroTextBox59.Location = new System.Drawing.Point(975, 833);
+            this.metroTextBox59.Name = "metroTextBox59";
+            this.metroTextBox59.Size = new System.Drawing.Size(155, 20);
+            this.metroTextBox59.TabIndex = 515;
+            this.metroTextBox59.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // metroLabel318
+            // 
+            this.metroLabel318.AutoSize = true;
+            this.metroLabel318.Location = new System.Drawing.Point(952, 834);
+            this.metroLabel318.Name = "metroLabel318";
+            this.metroLabel318.Size = new System.Drawing.Size(15, 19);
+            this.metroLabel318.TabIndex = 514;
+            this.metroLabel318.Text = "-";
+            // 
+            // metroLabel319
+            // 
+            this.metroLabel319.AutoSize = true;
+            this.metroLabel319.Location = new System.Drawing.Point(861, 834);
+            this.metroLabel319.Name = "metroLabel319";
+            this.metroLabel319.Size = new System.Drawing.Size(17, 19);
+            this.metroLabel319.TabIndex = 513;
+            this.metroLabel319.Text = "B";
+            // 
+            // metroLabel320
+            // 
+            this.metroLabel320.AutoSize = true;
+            this.metroLabel320.Location = new System.Drawing.Point(831, 834);
+            this.metroLabel320.Name = "metroLabel320";
+            this.metroLabel320.Size = new System.Drawing.Size(23, 19);
+            this.metroLabel320.TabIndex = 512;
+            this.metroLabel320.Text = "JA";
+            // 
+            // metroLabel321
+            // 
+            this.metroLabel321.AutoSize = true;
+            this.metroLabel321.Location = new System.Drawing.Point(742, 834);
+            this.metroLabel321.Name = "metroLabel321";
+            this.metroLabel321.Size = new System.Drawing.Size(69, 19);
+            this.metroLabel321.TabIndex = 511;
+            this.metroLabel321.Text = "MU/IN/GE";
+            // 
+            // metroLabel322
+            // 
+            this.metroLabel322.AutoSize = true;
+            this.metroLabel322.Location = new System.Drawing.Point(601, 834);
+            this.metroLabel322.Name = "metroLabel322";
+            this.metroLabel322.Size = new System.Drawing.Size(107, 19);
+            this.metroLabel322.TabIndex = 510;
+            this.metroLabel322.Text = "Stoffbearbeitung";
+            // 
+            // numericUpDown67
+            // 
+            this.numericUpDown67.Location = new System.Drawing.Point(899, 808);
+            this.numericUpDown67.Name = "numericUpDown67";
+            this.numericUpDown67.Size = new System.Drawing.Size(47, 20);
+            this.numericUpDown67.TabIndex = 509;
+            // 
+            // metroTextBox60
+            // 
+            this.metroTextBox60.Location = new System.Drawing.Point(975, 807);
+            this.metroTextBox60.Name = "metroTextBox60";
+            this.metroTextBox60.Size = new System.Drawing.Size(155, 20);
+            this.metroTextBox60.TabIndex = 508;
+            this.metroTextBox60.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // metroLabel323
+            // 
+            this.metroLabel323.AutoSize = true;
+            this.metroLabel323.Location = new System.Drawing.Point(952, 808);
+            this.metroLabel323.Name = "metroLabel323";
+            this.metroLabel323.Size = new System.Drawing.Size(15, 19);
+            this.metroLabel323.TabIndex = 507;
+            this.metroLabel323.Text = "-";
+            // 
+            // metroLabel324
+            // 
+            this.metroLabel324.AutoSize = true;
+            this.metroLabel324.Location = new System.Drawing.Point(861, 808);
+            this.metroLabel324.Name = "metroLabel324";
+            this.metroLabel324.Size = new System.Drawing.Size(17, 19);
+            this.metroLabel324.TabIndex = 506;
+            this.metroLabel324.Text = "B";
+            // 
+            // metroLabel325
+            // 
+            this.metroLabel325.AutoSize = true;
+            this.metroLabel325.Location = new System.Drawing.Point(831, 808);
+            this.metroLabel325.Name = "metroLabel325";
+            this.metroLabel325.Size = new System.Drawing.Size(23, 19);
+            this.metroLabel325.TabIndex = 505;
+            this.metroLabel325.Text = "JA";
+            // 
+            // metroLabel326
+            // 
+            this.metroLabel326.AutoSize = true;
+            this.metroLabel326.Location = new System.Drawing.Point(742, 808);
+            this.metroLabel326.Name = "metroLabel326";
+            this.metroLabel326.Size = new System.Drawing.Size(69, 19);
+            this.metroLabel326.TabIndex = 504;
+            this.metroLabel326.Text = "MU/IN/GE";
+            // 
+            // metroLabel327
+            // 
+            this.metroLabel327.AutoSize = true;
+            this.metroLabel327.Location = new System.Drawing.Point(601, 808);
+            this.metroLabel327.Name = "metroLabel327";
+            this.metroLabel327.Size = new System.Drawing.Size(108, 19);
+            this.metroLabel327.TabIndex = 503;
+            this.metroLabel327.Text = "Steinbearbeitung";
+            // 
+            // numericUpDown68
+            // 
+            this.numericUpDown68.Location = new System.Drawing.Point(899, 782);
+            this.numericUpDown68.Name = "numericUpDown68";
+            this.numericUpDown68.Size = new System.Drawing.Size(47, 20);
+            this.numericUpDown68.TabIndex = 502;
+            // 
+            // metroTextBox61
+            // 
+            this.metroTextBox61.Location = new System.Drawing.Point(975, 781);
+            this.metroTextBox61.Name = "metroTextBox61";
+            this.metroTextBox61.Size = new System.Drawing.Size(155, 20);
+            this.metroTextBox61.TabIndex = 501;
+            this.metroTextBox61.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // metroLabel328
+            // 
+            this.metroLabel328.AutoSize = true;
+            this.metroLabel328.Location = new System.Drawing.Point(952, 782);
+            this.metroLabel328.Name = "metroLabel328";
+            this.metroLabel328.Size = new System.Drawing.Size(15, 19);
+            this.metroLabel328.TabIndex = 500;
+            this.metroLabel328.Text = "-";
+            // 
+            // metroLabel329
+            // 
+            this.metroLabel329.AutoSize = true;
+            this.metroLabel329.Location = new System.Drawing.Point(861, 782);
+            this.metroLabel329.Name = "metroLabel329";
+            this.metroLabel329.Size = new System.Drawing.Size(17, 19);
+            this.metroLabel329.TabIndex = 499;
+            this.metroLabel329.Text = "B";
+            // 
+            // metroLabel330
+            // 
+            this.metroLabel330.AutoSize = true;
+            this.metroLabel330.Location = new System.Drawing.Point(831, 782);
+            this.metroLabel330.Name = "metroLabel330";
+            this.metroLabel330.Size = new System.Drawing.Size(23, 19);
+            this.metroLabel330.TabIndex = 498;
+            this.metroLabel330.Text = "JA";
+            // 
+            // metroLabel331
+            // 
+            this.metroLabel331.AutoSize = true;
+            this.metroLabel331.Location = new System.Drawing.Point(742, 782);
+            this.metroLabel331.Name = "metroLabel331";
+            this.metroLabel331.Size = new System.Drawing.Size(69, 19);
+            this.metroLabel331.TabIndex = 497;
+            this.metroLabel331.Text = "MU/IN/GE";
+            // 
+            // metroLabel332
+            // 
+            this.metroLabel332.AutoSize = true;
+            this.metroLabel332.Location = new System.Drawing.Point(601, 782);
+            this.metroLabel332.Name = "metroLabel332";
+            this.metroLabel332.Size = new System.Drawing.Size(108, 19);
+            this.metroLabel332.TabIndex = 496;
+            this.metroLabel332.Text = "Schlösserknacken";
+            // 
+            // numericUpDown69
+            // 
+            this.numericUpDown69.Location = new System.Drawing.Point(899, 756);
+            this.numericUpDown69.Name = "numericUpDown69";
+            this.numericUpDown69.Size = new System.Drawing.Size(47, 20);
+            this.numericUpDown69.TabIndex = 495;
+            // 
+            // metroTextBox62
+            // 
+            this.metroTextBox62.Location = new System.Drawing.Point(975, 755);
+            this.metroTextBox62.Name = "metroTextBox62";
+            this.metroTextBox62.Size = new System.Drawing.Size(155, 20);
+            this.metroTextBox62.TabIndex = 494;
+            this.metroTextBox62.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // metroLabel333
+            // 
+            this.metroLabel333.AutoSize = true;
+            this.metroLabel333.Location = new System.Drawing.Point(952, 756);
+            this.metroLabel333.Name = "metroLabel333";
+            this.metroLabel333.Size = new System.Drawing.Size(15, 19);
+            this.metroLabel333.TabIndex = 493;
+            this.metroLabel333.Text = "-";
+            // 
+            // metroLabel334
+            // 
+            this.metroLabel334.AutoSize = true;
+            this.metroLabel334.Location = new System.Drawing.Point(861, 756);
+            this.metroLabel334.Name = "metroLabel334";
+            this.metroLabel334.Size = new System.Drawing.Size(17, 19);
+            this.metroLabel334.TabIndex = 492;
+            this.metroLabel334.Text = "B";
+            // 
+            // metroLabel335
+            // 
+            this.metroLabel335.AutoSize = true;
+            this.metroLabel335.Location = new System.Drawing.Point(831, 756);
+            this.metroLabel335.Name = "metroLabel335";
+            this.metroLabel335.Size = new System.Drawing.Size(23, 19);
+            this.metroLabel335.TabIndex = 491;
+            this.metroLabel335.Text = "JA";
+            // 
+            // metroLabel336
+            // 
+            this.metroLabel336.AutoSize = true;
+            this.metroLabel336.Location = new System.Drawing.Point(742, 756);
+            this.metroLabel336.Name = "metroLabel336";
+            this.metroLabel336.Size = new System.Drawing.Size(69, 19);
+            this.metroLabel336.TabIndex = 490;
+            this.metroLabel336.Text = "MU/IN/GE";
+            // 
+            // metroLabel337
+            // 
+            this.metroLabel337.AutoSize = true;
+            this.metroLabel337.Location = new System.Drawing.Point(601, 756);
+            this.metroLabel337.Name = "metroLabel337";
+            this.metroLabel337.Size = new System.Drawing.Size(71, 19);
+            this.metroLabel337.TabIndex = 489;
+            this.metroLabel337.Text = "Musizieren";
+            // 
+            // numericUpDown70
+            // 
+            this.numericUpDown70.Location = new System.Drawing.Point(899, 730);
+            this.numericUpDown70.Name = "numericUpDown70";
+            this.numericUpDown70.Size = new System.Drawing.Size(47, 20);
+            this.numericUpDown70.TabIndex = 488;
+            // 
+            // metroTextBox63
+            // 
+            this.metroTextBox63.Location = new System.Drawing.Point(975, 729);
+            this.metroTextBox63.Name = "metroTextBox63";
+            this.metroTextBox63.Size = new System.Drawing.Size(155, 20);
+            this.metroTextBox63.TabIndex = 487;
+            this.metroTextBox63.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // metroLabel338
+            // 
+            this.metroLabel338.AutoSize = true;
+            this.metroLabel338.Location = new System.Drawing.Point(952, 730);
+            this.metroLabel338.Name = "metroLabel338";
+            this.metroLabel338.Size = new System.Drawing.Size(15, 19);
+            this.metroLabel338.TabIndex = 486;
+            this.metroLabel338.Text = "-";
+            // 
+            // metroLabel339
+            // 
+            this.metroLabel339.AutoSize = true;
+            this.metroLabel339.Location = new System.Drawing.Point(861, 730);
+            this.metroLabel339.Name = "metroLabel339";
+            this.metroLabel339.Size = new System.Drawing.Size(17, 19);
+            this.metroLabel339.TabIndex = 485;
+            this.metroLabel339.Text = "B";
+            // 
+            // metroLabel340
+            // 
+            this.metroLabel340.AutoSize = true;
+            this.metroLabel340.Location = new System.Drawing.Point(831, 730);
+            this.metroLabel340.Name = "metroLabel340";
+            this.metroLabel340.Size = new System.Drawing.Size(23, 19);
+            this.metroLabel340.TabIndex = 484;
+            this.metroLabel340.Text = "JA";
+            // 
+            // metroLabel341
+            // 
+            this.metroLabel341.AutoSize = true;
+            this.metroLabel341.Location = new System.Drawing.Point(742, 730);
+            this.metroLabel341.Name = "metroLabel341";
+            this.metroLabel341.Size = new System.Drawing.Size(69, 19);
+            this.metroLabel341.TabIndex = 483;
+            this.metroLabel341.Text = "MU/IN/GE";
+            // 
+            // metroLabel342
+            // 
+            this.metroLabel342.AutoSize = true;
+            this.metroLabel342.Location = new System.Drawing.Point(601, 730);
+            this.metroLabel342.Name = "metroLabel342";
+            this.metroLabel342.Size = new System.Drawing.Size(116, 19);
+            this.metroLabel342.TabIndex = 482;
+            this.metroLabel342.Text = "Metallbearbeitung";
+            // 
+            // numericUpDown71
+            // 
+            this.numericUpDown71.Location = new System.Drawing.Point(899, 704);
+            this.numericUpDown71.Name = "numericUpDown71";
+            this.numericUpDown71.Size = new System.Drawing.Size(47, 20);
+            this.numericUpDown71.TabIndex = 481;
+            // 
+            // metroTextBox64
+            // 
+            this.metroTextBox64.Location = new System.Drawing.Point(975, 703);
+            this.metroTextBox64.Name = "metroTextBox64";
+            this.metroTextBox64.Size = new System.Drawing.Size(155, 20);
+            this.metroTextBox64.TabIndex = 480;
+            this.metroTextBox64.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // metroLabel343
+            // 
+            this.metroLabel343.AutoSize = true;
+            this.metroLabel343.Location = new System.Drawing.Point(952, 704);
+            this.metroLabel343.Name = "metroLabel343";
+            this.metroLabel343.Size = new System.Drawing.Size(15, 19);
+            this.metroLabel343.TabIndex = 479;
+            this.metroLabel343.Text = "-";
+            // 
+            // metroLabel344
+            // 
+            this.metroLabel344.AutoSize = true;
+            this.metroLabel344.Location = new System.Drawing.Point(861, 704);
+            this.metroLabel344.Name = "metroLabel344";
+            this.metroLabel344.Size = new System.Drawing.Size(17, 19);
+            this.metroLabel344.TabIndex = 478;
+            this.metroLabel344.Text = "B";
+            // 
+            // metroLabel345
+            // 
+            this.metroLabel345.AutoSize = true;
+            this.metroLabel345.Location = new System.Drawing.Point(831, 704);
+            this.metroLabel345.Name = "metroLabel345";
+            this.metroLabel345.Size = new System.Drawing.Size(23, 19);
+            this.metroLabel345.TabIndex = 477;
+            this.metroLabel345.Text = "JA";
+            // 
+            // metroLabel346
+            // 
+            this.metroLabel346.AutoSize = true;
+            this.metroLabel346.Location = new System.Drawing.Point(742, 704);
+            this.metroLabel346.Name = "metroLabel346";
+            this.metroLabel346.Size = new System.Drawing.Size(69, 19);
+            this.metroLabel346.TabIndex = 476;
+            this.metroLabel346.Text = "MU/IN/GE";
+            // 
+            // metroLabel347
+            // 
+            this.metroLabel347.AutoSize = true;
+            this.metroLabel347.Location = new System.Drawing.Point(601, 704);
+            this.metroLabel347.Name = "metroLabel347";
+            this.metroLabel347.Size = new System.Drawing.Size(115, 19);
+            this.metroLabel347.TabIndex = 475;
+            this.metroLabel347.Text = "Malen && Zeichnen";
+            // 
             // Spielwerte
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1433, 1006);
+            this.Controls.Add(this.numericUpDown66);
+            this.Controls.Add(this.metroTextBox59);
+            this.Controls.Add(this.metroLabel318);
+            this.Controls.Add(this.metroLabel319);
+            this.Controls.Add(this.metroLabel320);
+            this.Controls.Add(this.metroLabel321);
+            this.Controls.Add(this.metroLabel322);
+            this.Controls.Add(this.numericUpDown67);
+            this.Controls.Add(this.metroTextBox60);
+            this.Controls.Add(this.metroLabel323);
+            this.Controls.Add(this.metroLabel324);
+            this.Controls.Add(this.metroLabel325);
+            this.Controls.Add(this.metroLabel326);
+            this.Controls.Add(this.metroLabel327);
+            this.Controls.Add(this.numericUpDown68);
+            this.Controls.Add(this.metroTextBox61);
+            this.Controls.Add(this.metroLabel328);
+            this.Controls.Add(this.metroLabel329);
+            this.Controls.Add(this.metroLabel330);
+            this.Controls.Add(this.metroLabel331);
+            this.Controls.Add(this.metroLabel332);
+            this.Controls.Add(this.numericUpDown69);
+            this.Controls.Add(this.metroTextBox62);
+            this.Controls.Add(this.metroLabel333);
+            this.Controls.Add(this.metroLabel334);
+            this.Controls.Add(this.metroLabel335);
+            this.Controls.Add(this.metroLabel336);
+            this.Controls.Add(this.metroLabel337);
+            this.Controls.Add(this.numericUpDown70);
+            this.Controls.Add(this.metroTextBox63);
+            this.Controls.Add(this.metroLabel338);
+            this.Controls.Add(this.metroLabel339);
+            this.Controls.Add(this.metroLabel340);
+            this.Controls.Add(this.metroLabel341);
+            this.Controls.Add(this.metroLabel342);
+            this.Controls.Add(this.numericUpDown71);
+            this.Controls.Add(this.metroTextBox64);
+            this.Controls.Add(this.metroLabel343);
+            this.Controls.Add(this.metroLabel344);
+            this.Controls.Add(this.metroLabel345);
+            this.Controls.Add(this.metroLabel346);
+            this.Controls.Add(this.metroLabel347);
+            this.Controls.Add(this.numericUpDown39);
+            this.Controls.Add(this.metroTextBox32);
+            this.Controls.Add(this.metroLabel174);
+            this.Controls.Add(this.metroLabel175);
+            this.Controls.Add(this.metroLabel176);
+            this.Controls.Add(this.metroLabel177);
+            this.Controls.Add(this.metroLabel178);
+            this.Controls.Add(this.numericUpDown40);
+            this.Controls.Add(this.metroTextBox33);
+            this.Controls.Add(this.metroLabel179);
+            this.Controls.Add(this.metroLabel180);
+            this.Controls.Add(this.metroLabel181);
+            this.Controls.Add(this.metroLabel182);
+            this.Controls.Add(this.metroLabel183);
+            this.Controls.Add(this.numericUpDown41);
+            this.Controls.Add(this.metroTextBox34);
+            this.Controls.Add(this.metroLabel184);
+            this.Controls.Add(this.metroLabel185);
+            this.Controls.Add(this.metroLabel186);
+            this.Controls.Add(this.metroLabel251);
+            this.Controls.Add(this.metroLabel252);
+            this.Controls.Add(this.numericUpDown53);
+            this.Controls.Add(this.metroTextBox46);
+            this.Controls.Add(this.metroLabel253);
+            this.Controls.Add(this.metroLabel254);
+            this.Controls.Add(this.metroLabel255);
+            this.Controls.Add(this.metroLabel256);
+            this.Controls.Add(this.metroLabel257);
+            this.Controls.Add(this.numericUpDown54);
+            this.Controls.Add(this.metroTextBox47);
+            this.Controls.Add(this.metroLabel258);
+            this.Controls.Add(this.metroLabel259);
+            this.Controls.Add(this.metroLabel260);
+            this.Controls.Add(this.metroLabel261);
+            this.Controls.Add(this.metroLabel262);
+            this.Controls.Add(this.numericUpDown55);
+            this.Controls.Add(this.metroTextBox48);
+            this.Controls.Add(this.metroLabel263);
+            this.Controls.Add(this.metroLabel264);
+            this.Controls.Add(this.metroLabel265);
+            this.Controls.Add(this.metroLabel266);
+            this.Controls.Add(this.metroLabel267);
+            this.Controls.Add(this.numericUpDown56);
+            this.Controls.Add(this.metroTextBox49);
+            this.Controls.Add(this.metroLabel268);
+            this.Controls.Add(this.metroLabel269);
+            this.Controls.Add(this.metroLabel270);
+            this.Controls.Add(this.metroLabel271);
+            this.Controls.Add(this.metroLabel272);
+            this.Controls.Add(this.numericUpDown57);
+            this.Controls.Add(this.metroTextBox50);
+            this.Controls.Add(this.metroLabel273);
+            this.Controls.Add(this.metroLabel274);
+            this.Controls.Add(this.metroLabel275);
+            this.Controls.Add(this.metroLabel276);
+            this.Controls.Add(this.metroLabel277);
+            this.Controls.Add(this.numericUpDown58);
+            this.Controls.Add(this.metroTextBox51);
+            this.Controls.Add(this.metroLabel278);
+            this.Controls.Add(this.metroLabel279);
+            this.Controls.Add(this.metroLabel280);
+            this.Controls.Add(this.metroLabel281);
+            this.Controls.Add(this.metroLabel282);
+            this.Controls.Add(this.numericUpDown59);
+            this.Controls.Add(this.metroTextBox52);
+            this.Controls.Add(this.metroLabel283);
+            this.Controls.Add(this.metroLabel284);
+            this.Controls.Add(this.metroLabel285);
+            this.Controls.Add(this.metroLabel286);
+            this.Controls.Add(this.metroLabel287);
+            this.Controls.Add(this.numericUpDown60);
+            this.Controls.Add(this.metroTextBox53);
+            this.Controls.Add(this.metroLabel288);
+            this.Controls.Add(this.metroLabel289);
+            this.Controls.Add(this.metroLabel290);
+            this.Controls.Add(this.metroLabel291);
+            this.Controls.Add(this.metroLabel292);
+            this.Controls.Add(this.metroLabel172);
+            this.Controls.Add(this.metroLabel173);
             this.Controls.Add(this.numericUpDown42);
             this.Controls.Add(this.metroTextBox35);
             this.Controls.Add(this.metroLabel187);
@@ -3692,6 +4990,23 @@
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown50)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown51)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown52)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown39)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown40)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown41)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown53)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown54)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown55)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown56)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown57)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown58)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown59)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown60)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown66)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown67)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown68)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown69)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown70)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown71)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -4026,5 +5341,126 @@
         private MetroFramework.Controls.MetroLabel metroLabel248;
         private MetroFramework.Controls.MetroLabel metroLabel249;
         private MetroFramework.Controls.MetroLabel metroLabel250;
+        private MetroFramework.Controls.MetroLabel metroLabel172;
+        private MetroFramework.Controls.MetroLabel metroLabel173;
+        private System.Windows.Forms.NumericUpDown numericUpDown39;
+        private MetroFramework.Controls.MetroTextBox metroTextBox32;
+        private MetroFramework.Controls.MetroLabel metroLabel174;
+        private MetroFramework.Controls.MetroLabel metroLabel175;
+        private MetroFramework.Controls.MetroLabel metroLabel176;
+        private MetroFramework.Controls.MetroLabel metroLabel177;
+        private MetroFramework.Controls.MetroLabel metroLabel178;
+        private System.Windows.Forms.NumericUpDown numericUpDown40;
+        private MetroFramework.Controls.MetroTextBox metroTextBox33;
+        private MetroFramework.Controls.MetroLabel metroLabel179;
+        private MetroFramework.Controls.MetroLabel metroLabel180;
+        private MetroFramework.Controls.MetroLabel metroLabel181;
+        private MetroFramework.Controls.MetroLabel metroLabel182;
+        private MetroFramework.Controls.MetroLabel metroLabel183;
+        private System.Windows.Forms.NumericUpDown numericUpDown41;
+        private MetroFramework.Controls.MetroTextBox metroTextBox34;
+        private MetroFramework.Controls.MetroLabel metroLabel184;
+        private MetroFramework.Controls.MetroLabel metroLabel185;
+        private MetroFramework.Controls.MetroLabel metroLabel186;
+        private MetroFramework.Controls.MetroLabel metroLabel251;
+        private MetroFramework.Controls.MetroLabel metroLabel252;
+        private System.Windows.Forms.NumericUpDown numericUpDown53;
+        private MetroFramework.Controls.MetroTextBox metroTextBox46;
+        private MetroFramework.Controls.MetroLabel metroLabel253;
+        private MetroFramework.Controls.MetroLabel metroLabel254;
+        private MetroFramework.Controls.MetroLabel metroLabel255;
+        private MetroFramework.Controls.MetroLabel metroLabel256;
+        private MetroFramework.Controls.MetroLabel metroLabel257;
+        private System.Windows.Forms.NumericUpDown numericUpDown54;
+        private MetroFramework.Controls.MetroTextBox metroTextBox47;
+        private MetroFramework.Controls.MetroLabel metroLabel258;
+        private MetroFramework.Controls.MetroLabel metroLabel259;
+        private MetroFramework.Controls.MetroLabel metroLabel260;
+        private MetroFramework.Controls.MetroLabel metroLabel261;
+        private MetroFramework.Controls.MetroLabel metroLabel262;
+        private System.Windows.Forms.NumericUpDown numericUpDown55;
+        private MetroFramework.Controls.MetroTextBox metroTextBox48;
+        private MetroFramework.Controls.MetroLabel metroLabel263;
+        private MetroFramework.Controls.MetroLabel metroLabel264;
+        private MetroFramework.Controls.MetroLabel metroLabel265;
+        private MetroFramework.Controls.MetroLabel metroLabel266;
+        private MetroFramework.Controls.MetroLabel metroLabel267;
+        private System.Windows.Forms.NumericUpDown numericUpDown56;
+        private MetroFramework.Controls.MetroTextBox metroTextBox49;
+        private MetroFramework.Controls.MetroLabel metroLabel268;
+        private MetroFramework.Controls.MetroLabel metroLabel269;
+        private MetroFramework.Controls.MetroLabel metroLabel270;
+        private MetroFramework.Controls.MetroLabel metroLabel271;
+        private MetroFramework.Controls.MetroLabel metroLabel272;
+        private System.Windows.Forms.NumericUpDown numericUpDown57;
+        private MetroFramework.Controls.MetroTextBox metroTextBox50;
+        private MetroFramework.Controls.MetroLabel metroLabel273;
+        private MetroFramework.Controls.MetroLabel metroLabel274;
+        private MetroFramework.Controls.MetroLabel metroLabel275;
+        private MetroFramework.Controls.MetroLabel metroLabel276;
+        private MetroFramework.Controls.MetroLabel metroLabel277;
+        private System.Windows.Forms.NumericUpDown numericUpDown58;
+        private MetroFramework.Controls.MetroTextBox metroTextBox51;
+        private MetroFramework.Controls.MetroLabel metroLabel278;
+        private MetroFramework.Controls.MetroLabel metroLabel279;
+        private MetroFramework.Controls.MetroLabel metroLabel280;
+        private MetroFramework.Controls.MetroLabel metroLabel281;
+        private MetroFramework.Controls.MetroLabel metroLabel282;
+        private System.Windows.Forms.NumericUpDown numericUpDown59;
+        private MetroFramework.Controls.MetroTextBox metroTextBox52;
+        private MetroFramework.Controls.MetroLabel metroLabel283;
+        private MetroFramework.Controls.MetroLabel metroLabel284;
+        private MetroFramework.Controls.MetroLabel metroLabel285;
+        private MetroFramework.Controls.MetroLabel metroLabel286;
+        private MetroFramework.Controls.MetroLabel metroLabel287;
+        private System.Windows.Forms.NumericUpDown numericUpDown60;
+        private MetroFramework.Controls.MetroTextBox metroTextBox53;
+        private MetroFramework.Controls.MetroLabel metroLabel288;
+        private MetroFramework.Controls.MetroLabel metroLabel289;
+        private MetroFramework.Controls.MetroLabel metroLabel290;
+        private MetroFramework.Controls.MetroLabel metroLabel291;
+        private MetroFramework.Controls.MetroLabel metroLabel292;
+        private System.Windows.Forms.NumericUpDown numericUpDown66;
+        private MetroFramework.Controls.MetroTextBox metroTextBox59;
+        private MetroFramework.Controls.MetroLabel metroLabel318;
+        private MetroFramework.Controls.MetroLabel metroLabel319;
+        private MetroFramework.Controls.MetroLabel metroLabel320;
+        private MetroFramework.Controls.MetroLabel metroLabel321;
+        private MetroFramework.Controls.MetroLabel metroLabel322;
+        private System.Windows.Forms.NumericUpDown numericUpDown67;
+        private MetroFramework.Controls.MetroTextBox metroTextBox60;
+        private MetroFramework.Controls.MetroLabel metroLabel323;
+        private MetroFramework.Controls.MetroLabel metroLabel324;
+        private MetroFramework.Controls.MetroLabel metroLabel325;
+        private MetroFramework.Controls.MetroLabel metroLabel326;
+        private MetroFramework.Controls.MetroLabel metroLabel327;
+        private System.Windows.Forms.NumericUpDown numericUpDown68;
+        private MetroFramework.Controls.MetroTextBox metroTextBox61;
+        private MetroFramework.Controls.MetroLabel metroLabel328;
+        private MetroFramework.Controls.MetroLabel metroLabel329;
+        private MetroFramework.Controls.MetroLabel metroLabel330;
+        private MetroFramework.Controls.MetroLabel metroLabel331;
+        private MetroFramework.Controls.MetroLabel metroLabel332;
+        private System.Windows.Forms.NumericUpDown numericUpDown69;
+        private MetroFramework.Controls.MetroTextBox metroTextBox62;
+        private MetroFramework.Controls.MetroLabel metroLabel333;
+        private MetroFramework.Controls.MetroLabel metroLabel334;
+        private MetroFramework.Controls.MetroLabel metroLabel335;
+        private MetroFramework.Controls.MetroLabel metroLabel336;
+        private MetroFramework.Controls.MetroLabel metroLabel337;
+        private System.Windows.Forms.NumericUpDown numericUpDown70;
+        private MetroFramework.Controls.MetroTextBox metroTextBox63;
+        private MetroFramework.Controls.MetroLabel metroLabel338;
+        private MetroFramework.Controls.MetroLabel metroLabel339;
+        private MetroFramework.Controls.MetroLabel metroLabel340;
+        private MetroFramework.Controls.MetroLabel metroLabel341;
+        private MetroFramework.Controls.MetroLabel metroLabel342;
+        private System.Windows.Forms.NumericUpDown numericUpDown71;
+        private MetroFramework.Controls.MetroTextBox metroTextBox64;
+        private MetroFramework.Controls.MetroLabel metroLabel343;
+        private MetroFramework.Controls.MetroLabel metroLabel344;
+        private MetroFramework.Controls.MetroLabel metroLabel345;
+        private MetroFramework.Controls.MetroLabel metroLabel346;
+        private MetroFramework.Controls.MetroLabel metroLabel347;
     }
 }
