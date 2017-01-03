@@ -34,32 +34,32 @@ namespace DSA5Chargen
             this.txtBox_name = new MetroFramework.Controls.MetroTextBox();
             this.lbl_familie = new MetroFramework.Controls.MetroLabel();
             this.txtBox_familie = new MetroFramework.Controls.MetroTextBox();
-            this.metroTextBox1 = new MetroFramework.Controls.MetroTextBox();
+            this.txtBox_gebdatum = new MetroFramework.Controls.MetroTextBox();
             this.lbl_gebdate = new MetroFramework.Controls.MetroLabel();
             this.metroLabel2 = new MetroFramework.Controls.MetroLabel();
-            this.metroTextBox3 = new MetroFramework.Controls.MetroTextBox();
+            this.txtBox_Haarfarbe = new MetroFramework.Controls.MetroTextBox();
             this.metroLabel3 = new MetroFramework.Controls.MetroLabel();
-            this.metroTextBox4 = new MetroFramework.Controls.MetroTextBox();
+            this.txtBox_Kultur = new MetroFramework.Controls.MetroTextBox();
             this.metroLabel4 = new MetroFramework.Controls.MetroLabel();
-            this.metroTextBox5 = new MetroFramework.Controls.MetroTextBox();
+            this.txtBox_Titel = new MetroFramework.Controls.MetroTextBox();
             this.metroLabel5 = new MetroFramework.Controls.MetroLabel();
-            this.metroTextBox6 = new MetroFramework.Controls.MetroTextBox();
+            this.txtBox_Gebort = new MetroFramework.Controls.MetroTextBox();
             this.metroLabel6 = new MetroFramework.Controls.MetroLabel();
-            this.metroTextBox7 = new MetroFramework.Controls.MetroTextBox();
+            this.txtBox_Alter = new MetroFramework.Controls.MetroTextBox();
             this.metroLabel7 = new MetroFramework.Controls.MetroLabel();
-            this.metroTextBox8 = new MetroFramework.Controls.MetroTextBox();
+            this.txtBox_Größe = new MetroFramework.Controls.MetroTextBox();
             this.metroLabel8 = new MetroFramework.Controls.MetroLabel();
-            this.metroTextBox9 = new MetroFramework.Controls.MetroTextBox();
+            this.txtBox_Augenfarbe = new MetroFramework.Controls.MetroTextBox();
             this.metroLabel9 = new MetroFramework.Controls.MetroLabel();
-            this.metroTextBox10 = new MetroFramework.Controls.MetroTextBox();
+            this.txtBox_Profession = new MetroFramework.Controls.MetroTextBox();
             this.metroLabel10 = new MetroFramework.Controls.MetroLabel();
-            this.metroTextBox11 = new MetroFramework.Controls.MetroTextBox();
+            this.txtBox_Sozialstatus = new MetroFramework.Controls.MetroTextBox();
             this.metroLabel11 = new MetroFramework.Controls.MetroLabel();
-            this.metroTextBox12 = new MetroFramework.Controls.MetroTextBox();
+            this.txtBox_Gewicht = new MetroFramework.Controls.MetroTextBox();
             this.metroLabel12 = new MetroFramework.Controls.MetroLabel();
-            this.metroTextBox13 = new MetroFramework.Controls.MetroTextBox();
+            this.txtBox_Geschlecht = new MetroFramework.Controls.MetroTextBox();
             this.metroLabel1 = new MetroFramework.Controls.MetroLabel();
-            this.metroTextBox14 = new MetroFramework.Controls.MetroTextBox();
+            this.txtBox_Charakteristika = new MetroFramework.Controls.MetroTextBox();
             this.metroLabel13 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel14 = new MetroFramework.Controls.MetroLabel();
             this.richTextBox1 = new System.Windows.Forms.RichTextBox();
@@ -79,9 +79,9 @@ namespace DSA5Chargen
             this.button8 = new MetroFramework.Controls.MetroButton();
             this.button9 = new MetroFramework.Controls.MetroButton();
             this.metroLabel18 = new MetroFramework.Controls.MetroLabel();
-            this.comboBox1 = new MetroFramework.Controls.MetroComboBox();
+            this.cb_Erfahrungsgrad = new MetroFramework.Controls.MetroComboBox();
             this.metroLabel19 = new MetroFramework.Controls.MetroLabel();
-            this.metroTextBox15 = new MetroFramework.Controls.MetroTextBox();
+            this.txtBox_e = new MetroFramework.Controls.MetroTextBox();
             this.metroLabel20 = new MetroFramework.Controls.MetroLabel();
             this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
             this.numericUpDown2 = new System.Windows.Forms.NumericUpDown();
@@ -107,21 +107,21 @@ namespace DSA5Chargen
             this.metroLabel34 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel35 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel36 = new MetroFramework.Controls.MetroLabel();
-            this.metroTextBox16 = new MetroFramework.Controls.MetroTextBox();
-            this.metroTextBox17 = new MetroFramework.Controls.MetroTextBox();
-            this.metroTextBox18 = new MetroFramework.Controls.MetroTextBox();
-            this.metroTextBox19 = new MetroFramework.Controls.MetroTextBox();
-            this.metroTextBox20 = new MetroFramework.Controls.MetroTextBox();
-            this.metroTextBox21 = new MetroFramework.Controls.MetroTextBox();
-            this.metroTextBox22 = new MetroFramework.Controls.MetroTextBox();
-            this.metroTextBox23 = new MetroFramework.Controls.MetroTextBox();
-            this.metroTextBox24 = new MetroFramework.Controls.MetroTextBox();
-            this.comboBox2 = new System.Windows.Forms.ComboBox();
+            this.txtBox_f = new MetroFramework.Controls.MetroTextBox();
+            this.txtBox_g = new MetroFramework.Controls.MetroTextBox();
+            this.txtBox_h = new MetroFramework.Controls.MetroTextBox();
+            this.txtBox_i = new MetroFramework.Controls.MetroTextBox();
+            this.txtBox_j = new MetroFramework.Controls.MetroTextBox();
+            this.txtBox_k = new MetroFramework.Controls.MetroTextBox();
+            this.txtBox_l = new MetroFramework.Controls.MetroTextBox();
+            this.txtBox_m = new MetroFramework.Controls.MetroTextBox();
+            this.txtBox_n = new MetroFramework.Controls.MetroTextBox();
+            this.cb_Spezies = new System.Windows.Forms.ComboBox();
             this.metroLabel37 = new MetroFramework.Controls.MetroLabel();
-            this.metroTextBox2 = new MetroFramework.Controls.MetroTextBox();
-            this.metroTextBox25 = new MetroFramework.Controls.MetroTextBox();
-            this.metroTextBox26 = new MetroFramework.Controls.MetroTextBox();
-            this.metroTextBox27 = new MetroFramework.Controls.MetroTextBox();
+            this.txtBox_o = new MetroFramework.Controls.MetroTextBox();
+            this.txtBox_p = new MetroFramework.Controls.MetroTextBox();
+            this.txtBox_q = new MetroFramework.Controls.MetroTextBox();
+            this.txtBox_r = new MetroFramework.Controls.MetroTextBox();
             this.metroLabel38 = new MetroFramework.Controls.MetroLabel();
             this.metroButton1 = new MetroFramework.Controls.MetroButton();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
@@ -166,12 +166,12 @@ namespace DSA5Chargen
             this.txtBox_familie.Size = new System.Drawing.Size(231, 20);
             this.txtBox_familie.TabIndex = 3;
             // 
-            // metroTextBox1
+            // txtBox_gebdatum
             // 
-            this.metroTextBox1.Location = new System.Drawing.Point(121, 109);
-            this.metroTextBox1.Name = "metroTextBox1";
-            this.metroTextBox1.Size = new System.Drawing.Size(231, 20);
-            this.metroTextBox1.TabIndex = 5;
+            this.txtBox_gebdatum.Location = new System.Drawing.Point(121, 109);
+            this.txtBox_gebdatum.Name = "txtBox_gebdatum";
+            this.txtBox_gebdatum.Size = new System.Drawing.Size(231, 20);
+            this.txtBox_gebdatum.TabIndex = 5;
             // 
             // lbl_gebdate
             // 
@@ -191,12 +191,12 @@ namespace DSA5Chargen
             this.metroLabel2.TabIndex = 6;
             this.metroLabel2.Text = "Spezies";
             // 
-            // metroTextBox3
+            // txtBox_Haarfarbe
             // 
-            this.metroTextBox3.Location = new System.Drawing.Point(121, 161);
-            this.metroTextBox3.Name = "metroTextBox3";
-            this.metroTextBox3.Size = new System.Drawing.Size(231, 20);
-            this.metroTextBox3.TabIndex = 9;
+            this.txtBox_Haarfarbe.Location = new System.Drawing.Point(121, 161);
+            this.txtBox_Haarfarbe.Name = "txtBox_Haarfarbe";
+            this.txtBox_Haarfarbe.Size = new System.Drawing.Size(231, 20);
+            this.txtBox_Haarfarbe.TabIndex = 9;
             // 
             // metroLabel3
             // 
@@ -207,12 +207,12 @@ namespace DSA5Chargen
             this.metroLabel3.TabIndex = 8;
             this.metroLabel3.Text = "Haarfarbe";
             // 
-            // metroTextBox4
+            // txtBox_Kultur
             // 
-            this.metroTextBox4.Location = new System.Drawing.Point(121, 187);
-            this.metroTextBox4.Name = "metroTextBox4";
-            this.metroTextBox4.Size = new System.Drawing.Size(231, 20);
-            this.metroTextBox4.TabIndex = 11;
+            this.txtBox_Kultur.Location = new System.Drawing.Point(121, 187);
+            this.txtBox_Kultur.Name = "txtBox_Kultur";
+            this.txtBox_Kultur.Size = new System.Drawing.Size(231, 20);
+            this.txtBox_Kultur.TabIndex = 11;
             // 
             // metroLabel4
             // 
@@ -223,12 +223,12 @@ namespace DSA5Chargen
             this.metroLabel4.TabIndex = 10;
             this.metroLabel4.Text = "Kultur";
             // 
-            // metroTextBox5
+            // txtBox_Titel
             // 
-            this.metroTextBox5.Location = new System.Drawing.Point(121, 213);
-            this.metroTextBox5.Name = "metroTextBox5";
-            this.metroTextBox5.Size = new System.Drawing.Size(231, 20);
-            this.metroTextBox5.TabIndex = 13;
+            this.txtBox_Titel.Location = new System.Drawing.Point(121, 213);
+            this.txtBox_Titel.Name = "txtBox_Titel";
+            this.txtBox_Titel.Size = new System.Drawing.Size(231, 20);
+            this.txtBox_Titel.TabIndex = 13;
             // 
             // metroLabel5
             // 
@@ -239,12 +239,12 @@ namespace DSA5Chargen
             this.metroLabel5.TabIndex = 12;
             this.metroLabel5.Text = "Titel";
             // 
-            // metroTextBox6
+            // txtBox_Gebort
             // 
-            this.metroTextBox6.Location = new System.Drawing.Point(492, 61);
-            this.metroTextBox6.Name = "metroTextBox6";
-            this.metroTextBox6.Size = new System.Drawing.Size(231, 20);
-            this.metroTextBox6.TabIndex = 15;
+            this.txtBox_Gebort.Location = new System.Drawing.Point(492, 61);
+            this.txtBox_Gebort.Name = "txtBox_Gebort";
+            this.txtBox_Gebort.Size = new System.Drawing.Size(231, 20);
+            this.txtBox_Gebort.TabIndex = 15;
             // 
             // metroLabel6
             // 
@@ -255,12 +255,12 @@ namespace DSA5Chargen
             this.metroLabel6.TabIndex = 14;
             this.metroLabel6.Text = "Geburstort";
             // 
-            // metroTextBox7
+            // txtBox_Alter
             // 
-            this.metroTextBox7.Location = new System.Drawing.Point(492, 87);
-            this.metroTextBox7.Name = "metroTextBox7";
-            this.metroTextBox7.Size = new System.Drawing.Size(231, 20);
-            this.metroTextBox7.TabIndex = 17;
+            this.txtBox_Alter.Location = new System.Drawing.Point(492, 87);
+            this.txtBox_Alter.Name = "txtBox_Alter";
+            this.txtBox_Alter.Size = new System.Drawing.Size(231, 20);
+            this.txtBox_Alter.TabIndex = 17;
             // 
             // metroLabel7
             // 
@@ -271,12 +271,12 @@ namespace DSA5Chargen
             this.metroLabel7.TabIndex = 16;
             this.metroLabel7.Text = "Alter";
             // 
-            // metroTextBox8
+            // txtBox_Größe
             // 
-            this.metroTextBox8.Location = new System.Drawing.Point(492, 113);
-            this.metroTextBox8.Name = "metroTextBox8";
-            this.metroTextBox8.Size = new System.Drawing.Size(231, 20);
-            this.metroTextBox8.TabIndex = 19;
+            this.txtBox_Größe.Location = new System.Drawing.Point(492, 113);
+            this.txtBox_Größe.Name = "txtBox_Größe";
+            this.txtBox_Größe.Size = new System.Drawing.Size(231, 20);
+            this.txtBox_Größe.TabIndex = 19;
             // 
             // metroLabel8
             // 
@@ -287,12 +287,12 @@ namespace DSA5Chargen
             this.metroLabel8.TabIndex = 18;
             this.metroLabel8.Text = "Größe";
             // 
-            // metroTextBox9
+            // txtBox_Augenfarbe
             // 
-            this.metroTextBox9.Location = new System.Drawing.Point(492, 139);
-            this.metroTextBox9.Name = "metroTextBox9";
-            this.metroTextBox9.Size = new System.Drawing.Size(231, 20);
-            this.metroTextBox9.TabIndex = 21;
+            this.txtBox_Augenfarbe.Location = new System.Drawing.Point(492, 139);
+            this.txtBox_Augenfarbe.Name = "txtBox_Augenfarbe";
+            this.txtBox_Augenfarbe.Size = new System.Drawing.Size(231, 20);
+            this.txtBox_Augenfarbe.TabIndex = 21;
             // 
             // metroLabel9
             // 
@@ -303,12 +303,12 @@ namespace DSA5Chargen
             this.metroLabel9.TabIndex = 20;
             this.metroLabel9.Text = "Augenfarbe";
             // 
-            // metroTextBox10
+            // txtBox_Profession
             // 
-            this.metroTextBox10.Location = new System.Drawing.Point(492, 165);
-            this.metroTextBox10.Name = "metroTextBox10";
-            this.metroTextBox10.Size = new System.Drawing.Size(231, 20);
-            this.metroTextBox10.TabIndex = 23;
+            this.txtBox_Profession.Location = new System.Drawing.Point(492, 165);
+            this.txtBox_Profession.Name = "txtBox_Profession";
+            this.txtBox_Profession.Size = new System.Drawing.Size(231, 20);
+            this.txtBox_Profession.TabIndex = 23;
             // 
             // metroLabel10
             // 
@@ -319,12 +319,12 @@ namespace DSA5Chargen
             this.metroLabel10.TabIndex = 22;
             this.metroLabel10.Text = "Profession";
             // 
-            // metroTextBox11
+            // txtBox_Sozialstatus
             // 
-            this.metroTextBox11.Location = new System.Drawing.Point(492, 191);
-            this.metroTextBox11.Name = "metroTextBox11";
-            this.metroTextBox11.Size = new System.Drawing.Size(231, 20);
-            this.metroTextBox11.TabIndex = 25;
+            this.txtBox_Sozialstatus.Location = new System.Drawing.Point(492, 191);
+            this.txtBox_Sozialstatus.Name = "txtBox_Sozialstatus";
+            this.txtBox_Sozialstatus.Size = new System.Drawing.Size(231, 20);
+            this.txtBox_Sozialstatus.TabIndex = 25;
             // 
             // metroLabel11
             // 
@@ -335,12 +335,12 @@ namespace DSA5Chargen
             this.metroLabel11.TabIndex = 24;
             this.metroLabel11.Text = "Sozialstatus";
             // 
-            // metroTextBox12
+            // txtBox_Gewicht
             // 
-            this.metroTextBox12.Location = new System.Drawing.Point(492, 217);
-            this.metroTextBox12.Name = "metroTextBox12";
-            this.metroTextBox12.Size = new System.Drawing.Size(231, 20);
-            this.metroTextBox12.TabIndex = 27;
+            this.txtBox_Gewicht.Location = new System.Drawing.Point(492, 217);
+            this.txtBox_Gewicht.Name = "txtBox_Gewicht";
+            this.txtBox_Gewicht.Size = new System.Drawing.Size(231, 20);
+            this.txtBox_Gewicht.TabIndex = 27;
             // 
             // metroLabel12
             // 
@@ -351,12 +351,12 @@ namespace DSA5Chargen
             this.metroLabel12.TabIndex = 26;
             this.metroLabel12.Text = "Gewicht";
             // 
-            // metroTextBox13
+            // txtBox_Geschlecht
             // 
-            this.metroTextBox13.Location = new System.Drawing.Point(121, 239);
-            this.metroTextBox13.Name = "metroTextBox13";
-            this.metroTextBox13.Size = new System.Drawing.Size(231, 20);
-            this.metroTextBox13.TabIndex = 29;
+            this.txtBox_Geschlecht.Location = new System.Drawing.Point(121, 239);
+            this.txtBox_Geschlecht.Name = "txtBox_Geschlecht";
+            this.txtBox_Geschlecht.Size = new System.Drawing.Size(231, 20);
+            this.txtBox_Geschlecht.TabIndex = 29;
             // 
             // metroLabel1
             // 
@@ -367,12 +367,12 @@ namespace DSA5Chargen
             this.metroLabel1.TabIndex = 28;
             this.metroLabel1.Text = "Geschlecht";
             // 
-            // metroTextBox14
+            // txtBox_Charakteristika
             // 
-            this.metroTextBox14.Location = new System.Drawing.Point(121, 265);
-            this.metroTextBox14.Name = "metroTextBox14";
-            this.metroTextBox14.Size = new System.Drawing.Size(602, 20);
-            this.metroTextBox14.TabIndex = 31;
+            this.txtBox_Charakteristika.Location = new System.Drawing.Point(121, 265);
+            this.txtBox_Charakteristika.Name = "txtBox_Charakteristika";
+            this.txtBox_Charakteristika.Size = new System.Drawing.Size(602, 20);
+            this.txtBox_Charakteristika.TabIndex = 31;
             // 
             // metroLabel13
             // 
@@ -583,11 +583,11 @@ namespace DSA5Chargen
             this.metroLabel18.TabIndex = 49;
             this.metroLabel18.Text = "Erfahrungsgrad";
             // 
-            // comboBox1
+            // cb_Erfahrungsgrad
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.ItemHeight = 23;
-            this.comboBox1.Items.AddRange(new object[] {
+            this.cb_Erfahrungsgrad.FormattingEnabled = true;
+            this.cb_Erfahrungsgrad.ItemHeight = 23;
+            this.cb_Erfahrungsgrad.Items.AddRange(new object[] {
             "Unerfahren (900)",
             "Durschnittlich (1.000)",
             "Erfahren (1.100)",
@@ -595,10 +595,10 @@ namespace DSA5Chargen
             "Meisterlich (1.400)",
             "Brillant (1.700)",
             "Legendär (2.000)"});
-            this.comboBox1.Location = new System.Drawing.Point(741, 82);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(155, 29);
-            this.comboBox1.TabIndex = 50;
+            this.cb_Erfahrungsgrad.Location = new System.Drawing.Point(741, 82);
+            this.cb_Erfahrungsgrad.Name = "cb_Erfahrungsgrad";
+            this.cb_Erfahrungsgrad.Size = new System.Drawing.Size(155, 29);
+            this.cb_Erfahrungsgrad.TabIndex = 50;
             // 
             // metroLabel19
             // 
@@ -609,15 +609,15 @@ namespace DSA5Chargen
             this.metroLabel19.TabIndex = 51;
             this.metroLabel19.Text = "Verfügbar";
             // 
-            // metroTextBox15
+            // txtBox_e
             // 
-            this.metroTextBox15.Enabled = false;
-            this.metroTextBox15.Location = new System.Drawing.Point(741, 138);
-            this.metroTextBox15.Name = "metroTextBox15";
-            this.metroTextBox15.Size = new System.Drawing.Size(155, 20);
-            this.metroTextBox15.TabIndex = 52;
-            this.metroTextBox15.Text = "1.100";
-            this.metroTextBox15.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.txtBox_e.Enabled = false;
+            this.txtBox_e.Location = new System.Drawing.Point(741, 138);
+            this.txtBox_e.Name = "txtBox_e";
+            this.txtBox_e.Size = new System.Drawing.Size(155, 20);
+            this.txtBox_e.TabIndex = 52;
+            this.txtBox_e.Text = "1.100";
+            this.txtBox_e.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // metroLabel20
             // 
@@ -908,81 +908,81 @@ namespace DSA5Chargen
             this.metroLabel36.TabIndex = 77;
             this.metroLabel36.Text = "Schicksalspunkte";
             // 
-            // metroTextBox16
+            // txtBox_f
             // 
-            this.metroTextBox16.Location = new System.Drawing.Point(854, 420);
-            this.metroTextBox16.Name = "metroTextBox16";
-            this.metroTextBox16.Size = new System.Drawing.Size(45, 20);
-            this.metroTextBox16.TabIndex = 78;
+            this.txtBox_f.Location = new System.Drawing.Point(854, 420);
+            this.txtBox_f.Name = "txtBox_f";
+            this.txtBox_f.Size = new System.Drawing.Size(45, 20);
+            this.txtBox_f.TabIndex = 78;
             // 
-            // metroTextBox17
+            // txtBox_g
             // 
-            this.metroTextBox17.Location = new System.Drawing.Point(854, 450);
-            this.metroTextBox17.Name = "metroTextBox17";
-            this.metroTextBox17.Size = new System.Drawing.Size(45, 20);
-            this.metroTextBox17.TabIndex = 79;
+            this.txtBox_g.Location = new System.Drawing.Point(854, 450);
+            this.txtBox_g.Name = "txtBox_g";
+            this.txtBox_g.Size = new System.Drawing.Size(45, 20);
+            this.txtBox_g.TabIndex = 79;
             // 
-            // metroTextBox18
+            // txtBox_h
             // 
-            this.metroTextBox18.Location = new System.Drawing.Point(854, 480);
-            this.metroTextBox18.Name = "metroTextBox18";
-            this.metroTextBox18.Size = new System.Drawing.Size(45, 20);
-            this.metroTextBox18.TabIndex = 80;
+            this.txtBox_h.Location = new System.Drawing.Point(854, 480);
+            this.txtBox_h.Name = "txtBox_h";
+            this.txtBox_h.Size = new System.Drawing.Size(45, 20);
+            this.txtBox_h.TabIndex = 80;
             // 
-            // metroTextBox19
+            // txtBox_i
             // 
-            this.metroTextBox19.Location = new System.Drawing.Point(854, 510);
-            this.metroTextBox19.Name = "metroTextBox19";
-            this.metroTextBox19.Size = new System.Drawing.Size(45, 20);
-            this.metroTextBox19.TabIndex = 81;
+            this.txtBox_i.Location = new System.Drawing.Point(854, 510);
+            this.txtBox_i.Name = "txtBox_i";
+            this.txtBox_i.Size = new System.Drawing.Size(45, 20);
+            this.txtBox_i.TabIndex = 81;
             // 
-            // metroTextBox20
+            // txtBox_j
             // 
-            this.metroTextBox20.Location = new System.Drawing.Point(854, 540);
-            this.metroTextBox20.Name = "metroTextBox20";
-            this.metroTextBox20.Size = new System.Drawing.Size(45, 20);
-            this.metroTextBox20.TabIndex = 82;
+            this.txtBox_j.Location = new System.Drawing.Point(854, 540);
+            this.txtBox_j.Name = "txtBox_j";
+            this.txtBox_j.Size = new System.Drawing.Size(45, 20);
+            this.txtBox_j.TabIndex = 82;
             // 
-            // metroTextBox21
+            // txtBox_k
             // 
-            this.metroTextBox21.Location = new System.Drawing.Point(854, 570);
-            this.metroTextBox21.Name = "metroTextBox21";
-            this.metroTextBox21.Size = new System.Drawing.Size(45, 20);
-            this.metroTextBox21.TabIndex = 83;
+            this.txtBox_k.Location = new System.Drawing.Point(854, 570);
+            this.txtBox_k.Name = "txtBox_k";
+            this.txtBox_k.Size = new System.Drawing.Size(45, 20);
+            this.txtBox_k.TabIndex = 83;
             // 
-            // metroTextBox22
+            // txtBox_l
             // 
-            this.metroTextBox22.Location = new System.Drawing.Point(854, 600);
-            this.metroTextBox22.Name = "metroTextBox22";
-            this.metroTextBox22.Size = new System.Drawing.Size(45, 20);
-            this.metroTextBox22.TabIndex = 84;
+            this.txtBox_l.Location = new System.Drawing.Point(854, 600);
+            this.txtBox_l.Name = "txtBox_l";
+            this.txtBox_l.Size = new System.Drawing.Size(45, 20);
+            this.txtBox_l.TabIndex = 84;
             // 
-            // metroTextBox23
+            // txtBox_m
             // 
-            this.metroTextBox23.Location = new System.Drawing.Point(854, 630);
-            this.metroTextBox23.Name = "metroTextBox23";
-            this.metroTextBox23.Size = new System.Drawing.Size(45, 20);
-            this.metroTextBox23.TabIndex = 85;
+            this.txtBox_m.Location = new System.Drawing.Point(854, 630);
+            this.txtBox_m.Name = "txtBox_m";
+            this.txtBox_m.Size = new System.Drawing.Size(45, 20);
+            this.txtBox_m.TabIndex = 85;
             // 
-            // metroTextBox24
+            // txtBox_n
             // 
-            this.metroTextBox24.Location = new System.Drawing.Point(854, 660);
-            this.metroTextBox24.Name = "metroTextBox24";
-            this.metroTextBox24.Size = new System.Drawing.Size(45, 20);
-            this.metroTextBox24.TabIndex = 86;
+            this.txtBox_n.Location = new System.Drawing.Point(854, 660);
+            this.txtBox_n.Name = "txtBox_n";
+            this.txtBox_n.Size = new System.Drawing.Size(45, 20);
+            this.txtBox_n.TabIndex = 86;
             // 
-            // comboBox2
+            // cb_Spezies
             // 
-            this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Items.AddRange(new object[] {
+            this.cb_Spezies.FormattingEnabled = true;
+            this.cb_Spezies.Items.AddRange(new object[] {
             "Mensch",
             "Elf",
             "Zwerg",
             "Halbelf"});
-            this.comboBox2.Location = new System.Drawing.Point(121, 136);
-            this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(231, 21);
-            this.comboBox2.TabIndex = 87;
+            this.cb_Spezies.Location = new System.Drawing.Point(121, 136);
+            this.cb_Spezies.Name = "cb_Spezies";
+            this.cb_Spezies.Size = new System.Drawing.Size(231, 21);
+            this.cb_Spezies.TabIndex = 87;
             // 
             // metroLabel37
             // 
@@ -993,33 +993,33 @@ namespace DSA5Chargen
             this.metroLabel37.TabIndex = 88;
             this.metroLabel37.Text = "Wert";
             // 
-            // metroTextBox2
+            // txtBox_o
             // 
-            this.metroTextBox2.Location = new System.Drawing.Point(905, 510);
-            this.metroTextBox2.Name = "metroTextBox2";
-            this.metroTextBox2.Size = new System.Drawing.Size(45, 20);
-            this.metroTextBox2.TabIndex = 92;
+            this.txtBox_o.Location = new System.Drawing.Point(905, 510);
+            this.txtBox_o.Name = "txtBox_o";
+            this.txtBox_o.Size = new System.Drawing.Size(45, 20);
+            this.txtBox_o.TabIndex = 92;
             // 
-            // metroTextBox25
+            // txtBox_p
             // 
-            this.metroTextBox25.Location = new System.Drawing.Point(905, 480);
-            this.metroTextBox25.Name = "metroTextBox25";
-            this.metroTextBox25.Size = new System.Drawing.Size(45, 20);
-            this.metroTextBox25.TabIndex = 91;
+            this.txtBox_p.Location = new System.Drawing.Point(905, 480);
+            this.txtBox_p.Name = "txtBox_p";
+            this.txtBox_p.Size = new System.Drawing.Size(45, 20);
+            this.txtBox_p.TabIndex = 91;
             // 
-            // metroTextBox26
+            // txtBox_q
             // 
-            this.metroTextBox26.Location = new System.Drawing.Point(905, 450);
-            this.metroTextBox26.Name = "metroTextBox26";
-            this.metroTextBox26.Size = new System.Drawing.Size(45, 20);
-            this.metroTextBox26.TabIndex = 90;
+            this.txtBox_q.Location = new System.Drawing.Point(905, 450);
+            this.txtBox_q.Name = "txtBox_q";
+            this.txtBox_q.Size = new System.Drawing.Size(45, 20);
+            this.txtBox_q.TabIndex = 90;
             // 
-            // metroTextBox27
+            // txtBox_r
             // 
-            this.metroTextBox27.Location = new System.Drawing.Point(905, 420);
-            this.metroTextBox27.Name = "metroTextBox27";
-            this.metroTextBox27.Size = new System.Drawing.Size(45, 20);
-            this.metroTextBox27.TabIndex = 89;
+            this.txtBox_r.Location = new System.Drawing.Point(905, 420);
+            this.txtBox_r.Name = "txtBox_r";
+            this.txtBox_r.Size = new System.Drawing.Size(45, 20);
+            this.txtBox_r.TabIndex = 89;
             // 
             // metroLabel38
             // 
@@ -1046,21 +1046,21 @@ namespace DSA5Chargen
             this.ClientSize = new System.Drawing.Size(987, 817);
             this.Controls.Add(this.metroButton1);
             this.Controls.Add(this.metroLabel38);
-            this.Controls.Add(this.metroTextBox2);
-            this.Controls.Add(this.metroTextBox25);
-            this.Controls.Add(this.metroTextBox26);
-            this.Controls.Add(this.metroTextBox27);
+            this.Controls.Add(this.txtBox_Augenfarbe);
+            this.Controls.Add(this.txtBox_Profession);
+            this.Controls.Add(this.txtBox_Sozialstatus);
+            this.Controls.Add(this.txtBox_Gewicht);
             this.Controls.Add(this.metroLabel37);
-            this.Controls.Add(this.comboBox2);
-            this.Controls.Add(this.metroTextBox24);
-            this.Controls.Add(this.metroTextBox23);
-            this.Controls.Add(this.metroTextBox22);
-            this.Controls.Add(this.metroTextBox21);
-            this.Controls.Add(this.metroTextBox20);
-            this.Controls.Add(this.metroTextBox19);
-            this.Controls.Add(this.metroTextBox18);
-            this.Controls.Add(this.metroTextBox17);
-            this.Controls.Add(this.metroTextBox16);
+            this.Controls.Add(this.cb_Spezies);
+            this.Controls.Add(this.txtBox_e);
+            this.Controls.Add(this.txtBox_f);
+            this.Controls.Add(this.txtBox_g);
+            this.Controls.Add(this.txtBox_h);
+            this.Controls.Add(this.txtBox_i);
+            this.Controls.Add(this.txtBox_j);
+            this.Controls.Add(this.txtBox_k);
+            this.Controls.Add(this.txtBox_l);
+            this.Controls.Add(this.txtBox_m);
             this.Controls.Add(this.metroLabel36);
             this.Controls.Add(this.metroLabel32);
             this.Controls.Add(this.metroLabel33);
@@ -1086,9 +1086,9 @@ namespace DSA5Chargen
             this.Controls.Add(this.metroLabel21);
             this.Controls.Add(this.numericUpDown1);
             this.Controls.Add(this.metroLabel20);
-            this.Controls.Add(this.metroTextBox15);
+            this.Controls.Add(this.txtBox_n);
             this.Controls.Add(this.metroLabel19);
-            this.Controls.Add(this.comboBox1);
+            this.Controls.Add(this.cb_Erfahrungsgrad);
             this.Controls.Add(this.metroLabel18);
             this.Controls.Add(this.button7);
             this.Controls.Add(this.button8);
@@ -1107,32 +1107,32 @@ namespace DSA5Chargen
             this.Controls.Add(this.metroLabel15);
             this.Controls.Add(this.richTextBox1);
             this.Controls.Add(this.metroLabel14);
-            this.Controls.Add(this.metroTextBox14);
+            this.Controls.Add(this.txtBox_Charakteristika);
             this.Controls.Add(this.metroLabel13);
-            this.Controls.Add(this.metroTextBox13);
+            this.Controls.Add(this.txtBox_Geschlecht);
             this.Controls.Add(this.metroLabel1);
-            this.Controls.Add(this.metroTextBox12);
+            this.Controls.Add(this.txtBox_o);
             this.Controls.Add(this.metroLabel12);
-            this.Controls.Add(this.metroTextBox11);
+            this.Controls.Add(this.txtBox_p);
             this.Controls.Add(this.metroLabel11);
-            this.Controls.Add(this.metroTextBox10);
+            this.Controls.Add(this.txtBox_q);
             this.Controls.Add(this.metroLabel10);
-            this.Controls.Add(this.metroTextBox9);
+            this.Controls.Add(this.txtBox_r);
             this.Controls.Add(this.metroLabel9);
-            this.Controls.Add(this.metroTextBox8);
+            this.Controls.Add(this.txtBox_Größe);
             this.Controls.Add(this.metroLabel8);
-            this.Controls.Add(this.metroTextBox7);
+            this.Controls.Add(this.txtBox_Alter);
             this.Controls.Add(this.metroLabel7);
-            this.Controls.Add(this.metroTextBox6);
+            this.Controls.Add(this.txtBox_Gebort);
             this.Controls.Add(this.metroLabel6);
-            this.Controls.Add(this.metroTextBox5);
+            this.Controls.Add(this.txtBox_Titel);
             this.Controls.Add(this.metroLabel5);
-            this.Controls.Add(this.metroTextBox4);
+            this.Controls.Add(this.txtBox_Kultur);
             this.Controls.Add(this.metroLabel4);
-            this.Controls.Add(this.metroTextBox3);
+            this.Controls.Add(this.txtBox_Haarfarbe);
             this.Controls.Add(this.metroLabel3);
             this.Controls.Add(this.metroLabel2);
-            this.Controls.Add(this.metroTextBox1);
+            this.Controls.Add(this.txtBox_gebdatum);
             this.Controls.Add(this.lbl_gebdate);
             this.Controls.Add(this.txtBox_familie);
             this.Controls.Add(this.lbl_familie);
@@ -1144,6 +1144,7 @@ namespace DSA5Chargen
             this.ShowIcon = false;
             this.Text = "Persönliche Daten";
             this.TopMost = true;
+            this.VisibleChanged += new System.EventHandler(this.persönliche_daten_VisibleChanged);
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown3)).EndInit();
@@ -1163,32 +1164,32 @@ namespace DSA5Chargen
         private MetroTextBox txtBox_name;
         private MetroLabel lbl_familie;
         private MetroTextBox txtBox_familie;
-        private MetroTextBox metroTextBox1;
+        private MetroTextBox txtBox_gebdatum;
         private MetroLabel lbl_gebdate;
         private MetroLabel metroLabel2;
-        private MetroTextBox metroTextBox3;
+        private MetroTextBox txtBox_Haarfarbe;
         private MetroLabel metroLabel3;
-        private MetroTextBox metroTextBox4;
+        private MetroTextBox txtBox_Kultur;
         private MetroLabel metroLabel4;
-        private MetroTextBox metroTextBox5;
+        private MetroTextBox txtBox_Titel;
         private MetroLabel metroLabel5;
-        private MetroTextBox metroTextBox6;
+        private MetroTextBox txtBox_Gebort;
         private MetroLabel metroLabel6;
-        private MetroTextBox metroTextBox7;
+        private MetroTextBox txtBox_Alter;
         private MetroLabel metroLabel7;
-        private MetroTextBox metroTextBox8;
+        private MetroTextBox txtBox_Größe;
         private MetroLabel metroLabel8;
-        private MetroTextBox metroTextBox9;
+        private MetroTextBox txtBox_Augenfarbe;
         private MetroLabel metroLabel9;
-        private MetroTextBox metroTextBox10;
+        private MetroTextBox txtBox_Profession;
         private MetroLabel metroLabel10;
-        private MetroTextBox metroTextBox11;
+        private MetroTextBox txtBox_Sozialstatus;
         private MetroLabel metroLabel11;
-        private MetroTextBox metroTextBox12;
+        private MetroTextBox txtBox_Gewicht;
         private MetroLabel metroLabel12;
-        private MetroTextBox metroTextBox13;
+        private MetroTextBox txtBox_Geschlecht;
         private MetroLabel metroLabel1;
-        private MetroTextBox metroTextBox14;
+        private MetroTextBox txtBox_Charakteristika;
         private MetroLabel metroLabel13;
         private MetroLabel metroLabel14;
         private System.Windows.Forms.RichTextBox richTextBox1;
@@ -1208,9 +1209,9 @@ namespace DSA5Chargen
         private MetroButton button8;
         private MetroButton button9;
         private MetroLabel metroLabel18;
-        private MetroComboBox comboBox1;
+        private MetroComboBox cb_Erfahrungsgrad;
         private MetroLabel metroLabel19;
-        private MetroTextBox metroTextBox15;
+        private MetroTextBox txtBox_e;
         private MetroLabel metroLabel20;
         private System.Windows.Forms.NumericUpDown numericUpDown1;
         private System.Windows.Forms.NumericUpDown numericUpDown2;
@@ -1236,21 +1237,21 @@ namespace DSA5Chargen
         private MetroLabel metroLabel34;
         private MetroLabel metroLabel35;
         private MetroLabel metroLabel36;
-        private MetroTextBox metroTextBox16;
-        private MetroTextBox metroTextBox17;
-        private MetroTextBox metroTextBox18;
-        private MetroTextBox metroTextBox19;
-        private MetroTextBox metroTextBox20;
-        private MetroTextBox metroTextBox21;
-        private MetroTextBox metroTextBox22;
-        private MetroTextBox metroTextBox23;
-        private MetroTextBox metroTextBox24;
-        private System.Windows.Forms.ComboBox comboBox2;
+        private MetroTextBox txtBox_f;
+        private MetroTextBox txtBox_g;
+        private MetroTextBox txtBox_h;
+        private MetroTextBox txtBox_i;
+        private MetroTextBox txtBox_j;
+        private MetroTextBox txtBox_k;
+        private MetroTextBox txtBox_l;
+        private MetroTextBox txtBox_m;
+        private MetroTextBox txtBox_n;
+        private System.Windows.Forms.ComboBox cb_Spezies;
         private MetroLabel metroLabel37;
-        private MetroTextBox metroTextBox2;
-        private MetroTextBox metroTextBox25;
-        private MetroTextBox metroTextBox26;
-        private MetroTextBox metroTextBox27;
+        private MetroTextBox txtBox_o;
+        private MetroTextBox txtBox_p;
+        private MetroTextBox txtBox_q;
+        private MetroTextBox txtBox_r;
         private MetroLabel metroLabel38;
         private MetroButton metroButton1;
     }
