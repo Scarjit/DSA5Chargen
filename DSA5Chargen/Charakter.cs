@@ -57,7 +57,7 @@
 
         public static string Gewicht;
 
-        public static Collection<string> Erfahrungsgrad;
+        public static string Erfahrungsgrad;
 
         
     }
