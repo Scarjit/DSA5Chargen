@@ -234,7 +234,7 @@
             this.metroLabel144 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel145 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel146 = new MetroFramework.Controls.MetroLabel();
-            this.btn_fischen = new System.Windows.Forms.NumericUpDown();
+            this.nud_fischen = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox27 = new MetroFramework.Controls.MetroTextBox();
             this.lbl_r_fischen = new MetroFramework.Controls.MetroLabel();
             this.metroLabel148 = new MetroFramework.Controls.MetroLabel();
@@ -509,7 +509,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.nud_überreden)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.nud_fährtensuchen)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.nud_fesseln)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.btn_fischen)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_fischen)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.nud_orientierung)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.nud_pflanzenkunde)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.nud_tierkunde)).BeginInit();
@@ -560,6 +560,7 @@
             0,
             0,
             0});
+            this.nud_körperkraft.ValueChanged += new System.EventHandler(this.nud_körperkraft_ValueChanged);
             // 
             // metroLabel27
             // 
@@ -586,6 +587,7 @@
             0,
             0,
             0});
+            this.nud_konstitution.ValueChanged += new System.EventHandler(this.nud_konstitution_ValueChanged);
             // 
             // metroLabel26
             // 
@@ -612,6 +614,7 @@
             0,
             0,
             0});
+            this.nud_geschicklichkeit.ValueChanged += new System.EventHandler(this.nud_geschicklichkeit_ValueChanged);
             // 
             // metroLabel25
             // 
@@ -638,6 +641,7 @@
             0,
             0,
             0});
+            this.nud_fingerfertigkeit.ValueChanged += new System.EventHandler(this.nud_fingerfertigkeit_ValueChanged);
             // 
             // metroLabel24
             // 
@@ -664,6 +668,7 @@
             0,
             0,
             0});
+            this.nud_charisma.ValueChanged += new System.EventHandler(this.nud_charisma_ValueChanged);
             // 
             // metroLabel23
             // 
@@ -690,6 +695,7 @@
             0,
             0,
             0});
+            this.nud_intuiton.ValueChanged += new System.EventHandler(this.nud_intuiton_ValueChanged);
             // 
             // metroLabel22
             // 
@@ -716,6 +722,7 @@
             0,
             0,
             0});
+            this.nud_klugheit.ValueChanged += new System.EventHandler(this.nud_klugheit_ValueChanged);
             // 
             // metroLabel21
             // 
@@ -742,6 +749,7 @@
             0,
             0,
             0});
+            this.nud_mut.ValueChanged += new System.EventHandler(this.nud_mut_ValueChanged);
             // 
             // metroLabel20
             // 
@@ -2398,12 +2406,12 @@
             this.metroLabel146.TabIndex = 268;
             this.metroLabel146.Text = "Fesseln";
             // 
-            // btn_fischen
+            // nud_fischen
             // 
-            this.btn_fischen.Location = new System.Drawing.Point(321, 806);
-            this.btn_fischen.Name = "btn_fischen";
-            this.btn_fischen.Size = new System.Drawing.Size(47, 20);
-            this.btn_fischen.TabIndex = 281;
+            this.nud_fischen.Location = new System.Drawing.Point(321, 806);
+            this.nud_fischen.Name = "nud_fischen";
+            this.nud_fischen.Size = new System.Drawing.Size(47, 20);
+            this.nud_fischen.TabIndex = 281;
             // 
             // metroTextBox27
             // 
@@ -4726,7 +4734,7 @@
             this.Controls.Add(this.metroLabel154);
             this.Controls.Add(this.metroLabel155);
             this.Controls.Add(this.metroLabel156);
-            this.Controls.Add(this.btn_fischen);
+            this.Controls.Add(this.nud_fischen);
             this.Controls.Add(this.metroTextBox27);
             this.Controls.Add(this.lbl_r_fischen);
             this.Controls.Add(this.metroLabel148);
@@ -4942,6 +4950,7 @@
             this.Name = "Spielwerte";
             this.Text = "Spielwerte";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Spielwerte_FormClosed);
+            this.VisibleChanged += new System.EventHandler(this.Spielwerte_VisibleChanged);
             ((System.ComponentModel.ISupportInitialize)(this.nud_körperkraft)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.nud_konstitution)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.nud_geschicklichkeit)).EndInit();
@@ -4975,7 +4984,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.nud_überreden)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.nud_fährtensuchen)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.nud_fesseln)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.btn_fischen)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_fischen)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.nud_orientierung)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.nud_pflanzenkunde)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.nud_tierkunde)).EndInit();
@@ -5221,7 +5230,7 @@
         private MetroFramework.Controls.MetroLabel metroLabel144;
         private MetroFramework.Controls.MetroLabel metroLabel145;
         private MetroFramework.Controls.MetroLabel metroLabel146;
-        private System.Windows.Forms.NumericUpDown btn_fischen;
+        private System.Windows.Forms.NumericUpDown nud_fischen;
         private MetroFramework.Controls.MetroTextBox metroTextBox27;
         private MetroFramework.Controls.MetroLabel lbl_r_fischen;
         private MetroFramework.Controls.MetroLabel metroLabel148;
