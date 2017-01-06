@@ -18,8 +18,84 @@
 
         #region Methods
 
+        /// <summary>
+        /// Verändert die AP des Charakters um den Unterschied zwischen altem und neuem Erfahrungsgrad
+        /// Des Weiteren wird dann die Textbox der verfügbaren AP angepasst.
+        /// </summary>
+        /// <param name="ap"></param>
+        private void set_ap_via_erfahrungsgrad(int ap)
+        {
+            switch (Charakter.Erfahrungsgrad)
+            {
+                case "Unerfahren":
+                    Charakter.VerfügbareAbenteurpunkte += ap - 900;
+                    break;
+                case "Durschnittlich":
+                    Charakter.VerfügbareAbenteurpunkte += ap - 1000;
+                    break;
+                case "Erfahren":
+                    Charakter.VerfügbareAbenteurpunkte += ap - 1100;
+                    break;
+                case "Kompetent":
+                    Charakter.VerfügbareAbenteurpunkte += ap - 1200;
+                    break;
+                case "Meisterlich":
+                    Charakter.VerfügbareAbenteurpunkte += ap - 1400;
+                    break;
+                case "Brilliant":
+                    Charakter.VerfügbareAbenteurpunkte += ap - 1700;
+                    break;
+                case "Legendär":
+                    Charakter.VerfügbareAbenteurpunkte += ap - 2000;
+                    break;
+                default:
+                    Charakter.VerfügbareAbenteurpunkte += ap;
+                    break;
+            }
+            this.txtBox_ap.Text = Charakter.VerfügbareAbenteurpunkte.ToString();
+        }
+
+        /// <summary>
+        /// Sorgt dafür das ein Erfahrungsgrad nur einmal gesetzt werden kann
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void cb_Erfahrungsgrad_SelectedIndexChanged(object sender, EventArgs e)
         {
+            switch (this.cb_erfahrungsgrad.Text)
+            {
+                case "Unerfahren (900)":
+                    set_ap_via_erfahrungsgrad(900);
+                    Charakter.Erfahrungsgrad = "Unerfahren";
+                    break;
+                case "Durschnittlich (1.000)":
+                    set_ap_via_erfahrungsgrad(1000);
+                    Charakter.Erfahrungsgrad = "Durschnittlich";
+                    break;
+                case "Erfahren (1.100)":
+                    set_ap_via_erfahrungsgrad(1100);
+                    Charakter.Erfahrungsgrad = "Erfahren";
+                    break;
+                case "Kompetent (1.200)":
+                    set_ap_via_erfahrungsgrad(1200);
+                    Charakter.Erfahrungsgrad = "Kompetent";
+                    break;
+                case "Meisterlich (1.400)":
+                    set_ap_via_erfahrungsgrad(1400);
+                    Charakter.Erfahrungsgrad = "Meisterlich";
+                    break;
+                case "Brilliant (1.700)":
+                    set_ap_via_erfahrungsgrad(1700);
+                    Charakter.Erfahrungsgrad = "Brilliant";
+                    break;
+                case "Legendär (2.000)":
+                    set_ap_via_erfahrungsgrad(2000);
+                    Charakter.Erfahrungsgrad = "Legendär";
+                    break;
+                default:
+                    Console.WriteLine(this.cb_erfahrungsgrad.Text);
+                    break;
+            }
         }
 
         private void metroButton1_Click(object sender, EventArgs e)

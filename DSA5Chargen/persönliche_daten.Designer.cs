@@ -607,7 +607,7 @@ namespace DSA5Chargen
             "Erfahren (1.100)",
             "Kompetent (1.200)",
             "Meisterlich (1.400)",
-            "Brillant (1.700)",
+            "Brilliant (1.700)",
             "Legendär (2.000)"});
             this.cb_erfahrungsgrad.Location = new System.Drawing.Point(741, 82);
             this.cb_erfahrungsgrad.Name = "cb_erfahrungsgrad";
@@ -631,7 +631,7 @@ namespace DSA5Chargen
             this.txtBox_ap.Name = "txtBox_ap";
             this.txtBox_ap.Size = new System.Drawing.Size(155, 20);
             this.txtBox_ap.TabIndex = 52;
-            this.txtBox_ap.Text = "1.100";
+            this.txtBox_ap.Text = "0";
             this.txtBox_ap.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // lbl_mut
