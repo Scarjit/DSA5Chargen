@@ -56,52 +56,51 @@
 
         private void txtBox_Haarfarbe_TextChanged(object sender, EventArgs e)
         {
-            Charakter.Haarfarbe = this.txtBox_Haarfarbe.Text;
+            Charakter.Haarfarbe = this.txtBox_haarfarbe.Text;
         }
 
         private void txtBox_Kultur_TextChanged(object sender, EventArgs e)
         {
-            Charakter.Kultur = this.txtBox_Kultur.Text;
+            Charakter.Kultur = this.txtBox_kultur.Text;
         }
 
         private void txtBox_Titel_TextChanged(object sender, EventArgs e)
         {
-            Charakter.Titel = this.txtBox_Titel.Text;
+            Charakter.Titel = this.txtBox_titel.Text;
         }
 
         private void txtBox_Geschlecht_TextChanged(object sender, EventArgs e)
         {
-            Charakter.Geschlecht = this.txtBox_Geschlecht.Text;
+            Charakter.Geschlecht = this.txtBox_geschlecht.Text;
         }
 
         private void txtBox_Gebort_TextChanged(object sender, EventArgs e)
         {
-            Charakter.Geburstort = txtBox_Gebort.Text;
+            Charakter.Geburstort = txtBox_geburtsort.Text;
         }
         private void txtBox_Alter_TextChanged(object sender, EventArgs e)
         {
-            Charakter.Alter = txtBox_Alter.Text;
+            Charakter.Alter = txtBox_alter.Text;
         }
         private void txtBox_Größe_TextChanged(object sender, EventArgs e)
         {
-            Charakter.Größe = txtBox_Größe.Text;
+            Charakter.Größe = txtBox_größe.Text;
         }
         private void txtBox_Augenfarbe_TextChanged(object sender, EventArgs e)
         {
-            Charakter.Augenfarbe = txtBox_Augenfarbe.Text;
+            Charakter.Augenfarbe = txtBox_augenfarbe.Text;
         }
         private void txtBox_Profession_TextChanged(object sender, EventArgs e)
         {
-            Charakter.Profession = txtBox_Profession.Text;
+            Charakter.Profession = txtBox_profession.Text;
         }
         private void txtBox_Sozialstatus_TextChanged(object sender, EventArgs e)
         {
-            Charakter.Sozialstatus = txtBox_Sozialstatus.Text;
+            Charakter.Sozialstatus = txtBox_sozialstatus.Text;
         }
         private void txtBox_Gewicht_TextChanged(object sender, EventArgs e)
         {
-            Charakter.Gewicht = txtBox_Gewicht.Text;
+            Charakter.Gewicht = txtBox_gewicht.Text;
         }
-
     }
 }
