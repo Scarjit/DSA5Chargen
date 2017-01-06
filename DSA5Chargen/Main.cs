@@ -11,7 +11,7 @@
 
         public Main()
         {
-            InitializeComponent();
+            this.InitializeComponent();
         }
 
         #endregion

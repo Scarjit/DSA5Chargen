@@ -22,7 +22,6 @@
         public static MetroForm FormSpielwerte;
 
         public static MetroForm FormZauberUndRituale;
-        
 
         #endregion
 
