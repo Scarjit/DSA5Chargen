@@ -1,7 +1,5 @@
 ﻿namespace DSA5Chargen
 {
-    using System.Collections.ObjectModel;
-
     internal static class Charakter
     {
         public static int VerfügbareAbenteurpunkte;

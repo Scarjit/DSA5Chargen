@@ -28,23 +28,23 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.numericUpDown8 = new System.Windows.Forms.NumericUpDown();
+            this.nud_körperkraft = new System.Windows.Forms.NumericUpDown();
             this.metroLabel27 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown7 = new System.Windows.Forms.NumericUpDown();
+            this.nud_konstitution = new System.Windows.Forms.NumericUpDown();
             this.metroLabel26 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown6 = new System.Windows.Forms.NumericUpDown();
+            this.nud_geschicklichkeit = new System.Windows.Forms.NumericUpDown();
             this.metroLabel25 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown5 = new System.Windows.Forms.NumericUpDown();
+            this.nud_fingerfertigkeit = new System.Windows.Forms.NumericUpDown();
             this.metroLabel24 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown4 = new System.Windows.Forms.NumericUpDown();
+            this.nud_charisma = new System.Windows.Forms.NumericUpDown();
             this.metroLabel23 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown3 = new System.Windows.Forms.NumericUpDown();
+            this.nud_intuiton = new System.Windows.Forms.NumericUpDown();
             this.metroLabel22 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown2 = new System.Windows.Forms.NumericUpDown();
+            this.nud_klugheit = new System.Windows.Forms.NumericUpDown();
             this.metroLabel21 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
+            this.nud_mut = new System.Windows.Forms.NumericUpDown();
             this.metroLabel20 = new MetroFramework.Controls.MetroLabel();
-            this.metroTextBox15 = new MetroFramework.Controls.MetroTextBox();
+            this.txtBox_ap = new MetroFramework.Controls.MetroTextBox();
             this.metroLabel19 = new MetroFramework.Controls.MetroLabel();
             this.lbl_name = new MetroFramework.Controls.MetroLabel();
             this.metroLabel1 = new MetroFramework.Controls.MetroLabel();
@@ -59,289 +59,289 @@
             this.metroLabel10 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel11 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel12 = new MetroFramework.Controls.MetroLabel();
-            this.metroLabel13 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_fliegen = new MetroFramework.Controls.MetroLabel();
             this.metroTextBox1 = new MetroFramework.Controls.MetroTextBox();
-            this.numericUpDown9 = new System.Windows.Forms.NumericUpDown();
-            this.numericUpDown10 = new System.Windows.Forms.NumericUpDown();
+            this.nud_fliegen = new System.Windows.Forms.NumericUpDown();
+            this.nud_gaukelein = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox2 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel14 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_gauckelein = new MetroFramework.Controls.MetroLabel();
             this.metroLabel15 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel16 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel17 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel18 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown11 = new System.Windows.Forms.NumericUpDown();
+            this.nud_klettern = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox3 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel28 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_klettern = new MetroFramework.Controls.MetroLabel();
             this.metroLabel29 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel30 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel31 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel32 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown12 = new System.Windows.Forms.NumericUpDown();
+            this.nud_körperbeherschung = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox4 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel33 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_körperbeherschung = new MetroFramework.Controls.MetroLabel();
             this.metroLabel34 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel35 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel36 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel37 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown13 = new System.Windows.Forms.NumericUpDown();
+            this.nud_kraftakt = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox5 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel38 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_kraftakt = new MetroFramework.Controls.MetroLabel();
             this.metroLabel39 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel40 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel41 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel42 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown14 = new System.Windows.Forms.NumericUpDown();
+            this.nud_reiten = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox6 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel43 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_reiten = new MetroFramework.Controls.MetroLabel();
             this.metroLabel44 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel45 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel46 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel47 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown15 = new System.Windows.Forms.NumericUpDown();
+            this.nud_schwimmen = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox7 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel48 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_schwimmen = new MetroFramework.Controls.MetroLabel();
             this.metroLabel49 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel50 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel51 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel52 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown16 = new System.Windows.Forms.NumericUpDown();
+            this.nud_selbstbeherschung = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox8 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel53 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_selbstbeherschung = new MetroFramework.Controls.MetroLabel();
             this.metroLabel54 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel55 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel56 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel57 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown17 = new System.Windows.Forms.NumericUpDown();
+            this.nud_singen = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox9 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel58 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_singen = new MetroFramework.Controls.MetroLabel();
             this.metroLabel59 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel60 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel61 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel62 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown18 = new System.Windows.Forms.NumericUpDown();
+            this.nud_sinneschärfe = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox10 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel63 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_sinneschärfe = new MetroFramework.Controls.MetroLabel();
             this.metroLabel64 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel65 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel66 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel67 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown19 = new System.Windows.Forms.NumericUpDown();
+            this.nud_tanzen = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox11 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel68 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_tanzen = new MetroFramework.Controls.MetroLabel();
             this.metroLabel69 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel70 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel71 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel72 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown20 = new System.Windows.Forms.NumericUpDown();
+            this.nud_taschendiebstahl = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox12 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel73 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_taschendiebstahl = new MetroFramework.Controls.MetroLabel();
             this.metroLabel74 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel75 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel76 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel77 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown21 = new System.Windows.Forms.NumericUpDown();
+            this.nud_verbergen = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox13 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel78 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_verbergen = new MetroFramework.Controls.MetroLabel();
             this.metroLabel79 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel80 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel81 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel82 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown22 = new System.Windows.Forms.NumericUpDown();
+            this.nud_zechen = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox14 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel83 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_zechen = new MetroFramework.Controls.MetroLabel();
             this.metroLabel84 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel85 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel86 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel87 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel88 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel89 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown23 = new System.Windows.Forms.NumericUpDown();
+            this.nud_bekehren = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox16 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel90 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_bekehren = new MetroFramework.Controls.MetroLabel();
             this.metroLabel91 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel92 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel93 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel94 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown24 = new System.Windows.Forms.NumericUpDown();
+            this.nud_betören = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox17 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel95 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_betören = new MetroFramework.Controls.MetroLabel();
             this.metroLabel96 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel97 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel98 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel99 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown25 = new System.Windows.Forms.NumericUpDown();
+            this.nud_einschüchtern = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox18 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel100 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_einschüchtern = new MetroFramework.Controls.MetroLabel();
             this.metroLabel101 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel102 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel103 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel104 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown26 = new System.Windows.Forms.NumericUpDown();
+            this.nud_menschenkenntnis = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox19 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel105 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_menschenkenntnis = new MetroFramework.Controls.MetroLabel();
             this.metroLabel106 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel107 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel108 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel109 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown27 = new System.Windows.Forms.NumericUpDown();
+            this.nud_gassenwissen = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox20 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel110 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_gassenwissen = new MetroFramework.Controls.MetroLabel();
             this.metroLabel111 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel112 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel113 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel114 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown28 = new System.Windows.Forms.NumericUpDown();
+            this.nud_etikette = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox21 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel115 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_etikette = new MetroFramework.Controls.MetroLabel();
             this.metroLabel116 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel117 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel118 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel119 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown29 = new System.Windows.Forms.NumericUpDown();
+            this.nud_willenskraft = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox22 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel120 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_willenskraft = new MetroFramework.Controls.MetroLabel();
             this.metroLabel121 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel122 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel123 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel124 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown30 = new System.Windows.Forms.NumericUpDown();
+            this.nud_verkleiden = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox23 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel125 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_verkleiden = new MetroFramework.Controls.MetroLabel();
             this.metroLabel126 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel127 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel128 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel129 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown31 = new System.Windows.Forms.NumericUpDown();
+            this.nud_überreden = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox24 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel130 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_überreden = new MetroFramework.Controls.MetroLabel();
             this.metroLabel131 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel132 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel133 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel134 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel135 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel136 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown32 = new System.Windows.Forms.NumericUpDown();
+            this.nud_fährtensuchen = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox25 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel137 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_fährtensuchen = new MetroFramework.Controls.MetroLabel();
             this.metroLabel138 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel139 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel140 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel141 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown33 = new System.Windows.Forms.NumericUpDown();
+            this.nud_fesseln = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox26 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel142 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_fesseln = new MetroFramework.Controls.MetroLabel();
             this.metroLabel143 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel144 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel145 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel146 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown34 = new System.Windows.Forms.NumericUpDown();
+            this.btn_fischen = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox27 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel147 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_fischen = new MetroFramework.Controls.MetroLabel();
             this.metroLabel148 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel149 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel150 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel151 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown35 = new System.Windows.Forms.NumericUpDown();
+            this.nud_orientierung = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox28 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel152 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_orientierung = new MetroFramework.Controls.MetroLabel();
             this.metroLabel153 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel154 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel155 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel156 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown36 = new System.Windows.Forms.NumericUpDown();
+            this.nud_pflanzenkunde = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox29 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel157 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_pflanzenkunde = new MetroFramework.Controls.MetroLabel();
             this.metroLabel158 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel159 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel160 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel161 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown37 = new System.Windows.Forms.NumericUpDown();
+            this.nud_tierkunde = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox30 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel162 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_tierkunde = new MetroFramework.Controls.MetroLabel();
             this.metroLabel163 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel164 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel165 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel166 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown38 = new System.Windows.Forms.NumericUpDown();
+            this.nud_wildnessleben = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox31 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel167 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_wildnessleben = new MetroFramework.Controls.MetroLabel();
             this.metroLabel168 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel169 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel170 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel171 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown42 = new System.Windows.Forms.NumericUpDown();
+            this.nud_sternkunde = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox35 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel187 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_sternkunde = new MetroFramework.Controls.MetroLabel();
             this.metroLabel188 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel189 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel190 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel191 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown43 = new System.Windows.Forms.NumericUpDown();
+            this.nud_sphären = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox36 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel192 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_spährenkunde = new MetroFramework.Controls.MetroLabel();
             this.metroLabel193 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel194 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel195 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel196 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown44 = new System.Windows.Forms.NumericUpDown();
+            this.nud_sagen = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox37 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel197 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_sagen = new MetroFramework.Controls.MetroLabel();
             this.metroLabel198 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel199 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel200 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel201 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown45 = new System.Windows.Forms.NumericUpDown();
+            this.nud_rechtskunde = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox38 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel202 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_rechtskunde = new MetroFramework.Controls.MetroLabel();
             this.metroLabel203 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel204 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel205 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel206 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown46 = new System.Windows.Forms.NumericUpDown();
+            this.nud_mechanik = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox39 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel207 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_machanik = new MetroFramework.Controls.MetroLabel();
             this.metroLabel208 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel209 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel210 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel211 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown47 = new System.Windows.Forms.NumericUpDown();
+            this.nud_magiekunde = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox40 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel212 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_magiekunde = new MetroFramework.Controls.MetroLabel();
             this.metroLabel213 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel214 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel215 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel216 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown48 = new System.Windows.Forms.NumericUpDown();
+            this.nud_kriegskunst = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox41 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel217 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_kriegskunst = new MetroFramework.Controls.MetroLabel();
             this.metroLabel218 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel219 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel220 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel221 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown49 = new System.Windows.Forms.NumericUpDown();
+            this.nud_göttern = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox42 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel222 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_götter = new MetroFramework.Controls.MetroLabel();
             this.metroLabel223 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel224 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel225 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel226 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown50 = new System.Windows.Forms.NumericUpDown();
+            this.nud_geschichtswissen = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox43 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel227 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_geschichtswissen = new MetroFramework.Controls.MetroLabel();
             this.metroLabel228 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel229 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel230 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel231 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown51 = new System.Windows.Forms.NumericUpDown();
+            this.nud_geographie = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox44 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel232 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_geographie = new MetroFramework.Controls.MetroLabel();
             this.metroLabel233 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel234 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel235 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel236 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown52 = new System.Windows.Forms.NumericUpDown();
+            this.nud_brett = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox45 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel237 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_brett = new MetroFramework.Controls.MetroLabel();
             this.metroLabel238 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel239 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel240 = new MetroFramework.Controls.MetroLabel();
@@ -357,205 +357,205 @@
             this.metroLabel250 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel172 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel173 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown39 = new System.Windows.Forms.NumericUpDown();
+            this.nud_lederbearbeitung = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox32 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel174 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_lederbearbeitung = new MetroFramework.Controls.MetroLabel();
             this.metroLabel175 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel176 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel177 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel178 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown40 = new System.Windows.Forms.NumericUpDown();
+            this.nud_lebensmittel = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox33 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel179 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_lebensmittel = new MetroFramework.Controls.MetroLabel();
             this.metroLabel180 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel181 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel182 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel183 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown41 = new System.Windows.Forms.NumericUpDown();
+            this.nud_holzbearbeitung = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox34 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel184 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_holzbearbeitung = new MetroFramework.Controls.MetroLabel();
             this.metroLabel185 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel186 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel251 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel252 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown53 = new System.Windows.Forms.NumericUpDown();
+            this.nud_heilwunden = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox46 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel253 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_heilwunden = new MetroFramework.Controls.MetroLabel();
             this.metroLabel254 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel255 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel256 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel257 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown54 = new System.Windows.Forms.NumericUpDown();
+            this.nud_heilseele = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox47 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel258 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_heilseele = new MetroFramework.Controls.MetroLabel();
             this.metroLabel259 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel260 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel261 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel262 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown55 = new System.Windows.Forms.NumericUpDown();
+            this.nud_heilkrank = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox48 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel263 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_heilkrank = new MetroFramework.Controls.MetroLabel();
             this.metroLabel264 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel265 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel266 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel267 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown56 = new System.Windows.Forms.NumericUpDown();
+            this.nud_heilgift = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox49 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel268 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_heilgift = new MetroFramework.Controls.MetroLabel();
             this.metroLabel269 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel270 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel271 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel272 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown57 = new System.Windows.Forms.NumericUpDown();
+            this.nud_handel = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox50 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel273 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_handel = new MetroFramework.Controls.MetroLabel();
             this.metroLabel274 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel275 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel276 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel277 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown58 = new System.Windows.Forms.NumericUpDown();
+            this.nud_fahrzeuge = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox51 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel278 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_fahrzeuge = new MetroFramework.Controls.MetroLabel();
             this.metroLabel279 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel280 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel281 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel282 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown59 = new System.Windows.Forms.NumericUpDown();
+            this.nud_boote = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox52 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel283 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_boote = new MetroFramework.Controls.MetroLabel();
             this.metroLabel284 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel285 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel286 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel287 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown60 = new System.Windows.Forms.NumericUpDown();
+            this.nud_alchimie = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox53 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel288 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_alchimie = new MetroFramework.Controls.MetroLabel();
             this.metroLabel289 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel290 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel291 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel292 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown66 = new System.Windows.Forms.NumericUpDown();
+            this.nud_stoffbearbeitung = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox59 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel318 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_stoffbearbeitung = new MetroFramework.Controls.MetroLabel();
             this.metroLabel319 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel320 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel321 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel322 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown67 = new System.Windows.Forms.NumericUpDown();
+            this.nud_steinbearbeitung = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox60 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel323 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_steinbearbeitung = new MetroFramework.Controls.MetroLabel();
             this.metroLabel324 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel325 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel326 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel327 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown68 = new System.Windows.Forms.NumericUpDown();
+            this.nud_schlösserknacken = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox61 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel328 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_schlösserknacken = new MetroFramework.Controls.MetroLabel();
             this.metroLabel329 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel330 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel331 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel332 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown69 = new System.Windows.Forms.NumericUpDown();
+            this.nud_musizieren = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox62 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel333 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_musizieren = new MetroFramework.Controls.MetroLabel();
             this.metroLabel334 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel335 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel336 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel337 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown70 = new System.Windows.Forms.NumericUpDown();
+            this.nud_metallbearbeitung = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox63 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel338 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_metallbearbeitung = new MetroFramework.Controls.MetroLabel();
             this.metroLabel339 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel340 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel341 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel342 = new MetroFramework.Controls.MetroLabel();
-            this.numericUpDown71 = new System.Windows.Forms.NumericUpDown();
+            this.nud_malen = new System.Windows.Forms.NumericUpDown();
             this.metroTextBox64 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLabel343 = new MetroFramework.Controls.MetroLabel();
+            this.lbl_r_malen = new MetroFramework.Controls.MetroLabel();
             this.metroLabel344 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel345 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel346 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel347 = new MetroFramework.Controls.MetroLabel();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown8)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown7)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown9)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown10)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown11)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown12)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown13)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown14)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown15)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown16)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown17)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown18)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown19)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown20)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown21)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown22)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown23)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown24)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown25)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown26)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown27)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown28)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown29)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown30)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown31)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown32)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown33)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown34)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown35)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown36)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown37)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown38)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown42)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown43)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown44)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown45)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown46)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown47)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown48)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown49)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown50)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown51)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown52)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown39)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown40)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown41)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown53)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown54)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown55)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown56)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown57)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown58)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown59)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown60)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown66)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown67)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown68)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown69)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown70)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown71)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_körperkraft)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_konstitution)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_geschicklichkeit)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_fingerfertigkeit)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_charisma)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_intuiton)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_klugheit)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_mut)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_fliegen)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_gaukelein)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_klettern)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_körperbeherschung)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_kraftakt)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_reiten)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_schwimmen)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_selbstbeherschung)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_singen)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_sinneschärfe)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_tanzen)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_taschendiebstahl)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_verbergen)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_zechen)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_bekehren)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_betören)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_einschüchtern)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_menschenkenntnis)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_gassenwissen)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_etikette)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_willenskraft)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_verkleiden)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_überreden)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_fährtensuchen)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_fesseln)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.btn_fischen)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_orientierung)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_pflanzenkunde)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_tierkunde)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_wildnessleben)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_sternkunde)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_sphären)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_sagen)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_rechtskunde)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_mechanik)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_magiekunde)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_kriegskunst)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_göttern)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_geschichtswissen)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_geographie)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_brett)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_lederbearbeitung)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_lebensmittel)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_holzbearbeitung)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_heilwunden)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_heilseele)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_heilkrank)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_heilgift)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_handel)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_fahrzeuge)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_boote)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_alchimie)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_stoffbearbeitung)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_steinbearbeitung)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_schlösserknacken)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_musizieren)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_metallbearbeitung)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_malen)).BeginInit();
             this.SuspendLayout();
             // 
-            // numericUpDown8
+            // nud_körperkraft
             // 
-            this.numericUpDown8.Location = new System.Drawing.Point(1290, 311);
-            this.numericUpDown8.Minimum = new decimal(new int[] {
+            this.nud_körperkraft.Location = new System.Drawing.Point(1290, 311);
+            this.nud_körperkraft.Minimum = new decimal(new int[] {
             8,
             0,
             0,
             0});
-            this.numericUpDown8.Name = "numericUpDown8";
-            this.numericUpDown8.Size = new System.Drawing.Size(120, 20);
-            this.numericUpDown8.TabIndex = 86;
-            this.numericUpDown8.Value = new decimal(new int[] {
+            this.nud_körperkraft.Name = "nud_körperkraft";
+            this.nud_körperkraft.Size = new System.Drawing.Size(120, 20);
+            this.nud_körperkraft.TabIndex = 86;
+            this.nud_körperkraft.Value = new decimal(new int[] {
             8,
             0,
             0,
@@ -570,18 +570,18 @@
             this.metroLabel27.TabIndex = 85;
             this.metroLabel27.Text = "KK";
             // 
-            // numericUpDown7
+            // nud_konstitution
             // 
-            this.numericUpDown7.Location = new System.Drawing.Point(1290, 285);
-            this.numericUpDown7.Minimum = new decimal(new int[] {
+            this.nud_konstitution.Location = new System.Drawing.Point(1290, 285);
+            this.nud_konstitution.Minimum = new decimal(new int[] {
             8,
             0,
             0,
             0});
-            this.numericUpDown7.Name = "numericUpDown7";
-            this.numericUpDown7.Size = new System.Drawing.Size(120, 20);
-            this.numericUpDown7.TabIndex = 84;
-            this.numericUpDown7.Value = new decimal(new int[] {
+            this.nud_konstitution.Name = "nud_konstitution";
+            this.nud_konstitution.Size = new System.Drawing.Size(120, 20);
+            this.nud_konstitution.TabIndex = 84;
+            this.nud_konstitution.Value = new decimal(new int[] {
             8,
             0,
             0,
@@ -596,18 +596,18 @@
             this.metroLabel26.TabIndex = 83;
             this.metroLabel26.Text = "KO";
             // 
-            // numericUpDown6
+            // nud_geschicklichkeit
             // 
-            this.numericUpDown6.Location = new System.Drawing.Point(1290, 259);
-            this.numericUpDown6.Minimum = new decimal(new int[] {
+            this.nud_geschicklichkeit.Location = new System.Drawing.Point(1290, 259);
+            this.nud_geschicklichkeit.Minimum = new decimal(new int[] {
             8,
             0,
             0,
             0});
-            this.numericUpDown6.Name = "numericUpDown6";
-            this.numericUpDown6.Size = new System.Drawing.Size(120, 20);
-            this.numericUpDown6.TabIndex = 82;
-            this.numericUpDown6.Value = new decimal(new int[] {
+            this.nud_geschicklichkeit.Name = "nud_geschicklichkeit";
+            this.nud_geschicklichkeit.Size = new System.Drawing.Size(120, 20);
+            this.nud_geschicklichkeit.TabIndex = 82;
+            this.nud_geschicklichkeit.Value = new decimal(new int[] {
             8,
             0,
             0,
@@ -622,18 +622,18 @@
             this.metroLabel25.TabIndex = 81;
             this.metroLabel25.Text = "GE";
             // 
-            // numericUpDown5
+            // nud_fingerfertigkeit
             // 
-            this.numericUpDown5.Location = new System.Drawing.Point(1290, 233);
-            this.numericUpDown5.Minimum = new decimal(new int[] {
+            this.nud_fingerfertigkeit.Location = new System.Drawing.Point(1290, 233);
+            this.nud_fingerfertigkeit.Minimum = new decimal(new int[] {
             8,
             0,
             0,
             0});
-            this.numericUpDown5.Name = "numericUpDown5";
-            this.numericUpDown5.Size = new System.Drawing.Size(120, 20);
-            this.numericUpDown5.TabIndex = 80;
-            this.numericUpDown5.Value = new decimal(new int[] {
+            this.nud_fingerfertigkeit.Name = "nud_fingerfertigkeit";
+            this.nud_fingerfertigkeit.Size = new System.Drawing.Size(120, 20);
+            this.nud_fingerfertigkeit.TabIndex = 80;
+            this.nud_fingerfertigkeit.Value = new decimal(new int[] {
             8,
             0,
             0,
@@ -648,18 +648,18 @@
             this.metroLabel24.TabIndex = 79;
             this.metroLabel24.Text = "FF";
             // 
-            // numericUpDown4
+            // nud_charisma
             // 
-            this.numericUpDown4.Location = new System.Drawing.Point(1290, 207);
-            this.numericUpDown4.Minimum = new decimal(new int[] {
+            this.nud_charisma.Location = new System.Drawing.Point(1290, 207);
+            this.nud_charisma.Minimum = new decimal(new int[] {
             8,
             0,
             0,
             0});
-            this.numericUpDown4.Name = "numericUpDown4";
-            this.numericUpDown4.Size = new System.Drawing.Size(120, 20);
-            this.numericUpDown4.TabIndex = 78;
-            this.numericUpDown4.Value = new decimal(new int[] {
+            this.nud_charisma.Name = "nud_charisma";
+            this.nud_charisma.Size = new System.Drawing.Size(120, 20);
+            this.nud_charisma.TabIndex = 78;
+            this.nud_charisma.Value = new decimal(new int[] {
             8,
             0,
             0,
@@ -674,18 +674,18 @@
             this.metroLabel23.TabIndex = 77;
             this.metroLabel23.Text = "CH";
             // 
-            // numericUpDown3
+            // nud_intuiton
             // 
-            this.numericUpDown3.Location = new System.Drawing.Point(1289, 181);
-            this.numericUpDown3.Minimum = new decimal(new int[] {
+            this.nud_intuiton.Location = new System.Drawing.Point(1289, 181);
+            this.nud_intuiton.Minimum = new decimal(new int[] {
             8,
             0,
             0,
             0});
-            this.numericUpDown3.Name = "numericUpDown3";
-            this.numericUpDown3.Size = new System.Drawing.Size(120, 20);
-            this.numericUpDown3.TabIndex = 76;
-            this.numericUpDown3.Value = new decimal(new int[] {
+            this.nud_intuiton.Name = "nud_intuiton";
+            this.nud_intuiton.Size = new System.Drawing.Size(120, 20);
+            this.nud_intuiton.TabIndex = 76;
+            this.nud_intuiton.Value = new decimal(new int[] {
             8,
             0,
             0,
@@ -700,18 +700,18 @@
             this.metroLabel22.TabIndex = 75;
             this.metroLabel22.Text = "IN";
             // 
-            // numericUpDown2
+            // nud_klugheit
             // 
-            this.numericUpDown2.Location = new System.Drawing.Point(1290, 155);
-            this.numericUpDown2.Minimum = new decimal(new int[] {
+            this.nud_klugheit.Location = new System.Drawing.Point(1290, 155);
+            this.nud_klugheit.Minimum = new decimal(new int[] {
             8,
             0,
             0,
             0});
-            this.numericUpDown2.Name = "numericUpDown2";
-            this.numericUpDown2.Size = new System.Drawing.Size(120, 20);
-            this.numericUpDown2.TabIndex = 74;
-            this.numericUpDown2.Value = new decimal(new int[] {
+            this.nud_klugheit.Name = "nud_klugheit";
+            this.nud_klugheit.Size = new System.Drawing.Size(120, 20);
+            this.nud_klugheit.TabIndex = 74;
+            this.nud_klugheit.Value = new decimal(new int[] {
             8,
             0,
             0,
@@ -726,18 +726,18 @@
             this.metroLabel21.TabIndex = 73;
             this.metroLabel21.Text = "KL";
             // 
-            // numericUpDown1
+            // nud_mut
             // 
-            this.numericUpDown1.Location = new System.Drawing.Point(1289, 129);
-            this.numericUpDown1.Minimum = new decimal(new int[] {
+            this.nud_mut.Location = new System.Drawing.Point(1289, 129);
+            this.nud_mut.Minimum = new decimal(new int[] {
             8,
             0,
             0,
             0});
-            this.numericUpDown1.Name = "numericUpDown1";
-            this.numericUpDown1.Size = new System.Drawing.Size(120, 20);
-            this.numericUpDown1.TabIndex = 72;
-            this.numericUpDown1.Value = new decimal(new int[] {
+            this.nud_mut.Name = "nud_mut";
+            this.nud_mut.Size = new System.Drawing.Size(120, 20);
+            this.nud_mut.TabIndex = 72;
+            this.nud_mut.Value = new decimal(new int[] {
             8,
             0,
             0,
@@ -752,15 +752,15 @@
             this.metroLabel20.TabIndex = 71;
             this.metroLabel20.Text = "MU";
             // 
-            // metroTextBox15
+            // txtBox_ap
             // 
-            this.metroTextBox15.Enabled = false;
-            this.metroTextBox15.Location = new System.Drawing.Point(1252, 92);
-            this.metroTextBox15.Name = "metroTextBox15";
-            this.metroTextBox15.Size = new System.Drawing.Size(155, 20);
-            this.metroTextBox15.TabIndex = 70;
-            this.metroTextBox15.Text = "1.100";
-            this.metroTextBox15.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.txtBox_ap.Enabled = false;
+            this.txtBox_ap.Location = new System.Drawing.Point(1252, 92);
+            this.txtBox_ap.Name = "txtBox_ap";
+            this.txtBox_ap.Size = new System.Drawing.Size(155, 20);
+            this.txtBox_ap.TabIndex = 70;
+            this.txtBox_ap.Text = "1.100";
+            this.txtBox_ap.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // metroLabel19
             // 
@@ -896,14 +896,14 @@
             this.metroLabel12.TabIndex = 99;
             this.metroLabel12.Text = "B";
             // 
-            // metroLabel13
+            // lbl_r_fliegen
             // 
-            this.metroLabel13.AutoSize = true;
-            this.metroLabel13.Location = new System.Drawing.Point(374, 104);
-            this.metroLabel13.Name = "metroLabel13";
-            this.metroLabel13.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel13.TabIndex = 100;
-            this.metroLabel13.Text = "-";
+            this.lbl_r_fliegen.AutoSize = true;
+            this.lbl_r_fliegen.Location = new System.Drawing.Point(374, 104);
+            this.lbl_r_fliegen.Name = "lbl_r_fliegen";
+            this.lbl_r_fliegen.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_fliegen.TabIndex = 100;
+            this.lbl_r_fliegen.Text = "-";
             // 
             // metroTextBox1
             // 
@@ -913,19 +913,19 @@
             this.metroTextBox1.TabIndex = 101;
             this.metroTextBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // numericUpDown9
+            // nud_fliegen
             // 
-            this.numericUpDown9.Location = new System.Drawing.Point(321, 104);
-            this.numericUpDown9.Name = "numericUpDown9";
-            this.numericUpDown9.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown9.TabIndex = 102;
+            this.nud_fliegen.Location = new System.Drawing.Point(321, 104);
+            this.nud_fliegen.Name = "nud_fliegen";
+            this.nud_fliegen.Size = new System.Drawing.Size(47, 20);
+            this.nud_fliegen.TabIndex = 102;
             // 
-            // numericUpDown10
+            // nud_gaukelein
             // 
-            this.numericUpDown10.Location = new System.Drawing.Point(321, 130);
-            this.numericUpDown10.Name = "numericUpDown10";
-            this.numericUpDown10.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown10.TabIndex = 109;
+            this.nud_gaukelein.Location = new System.Drawing.Point(321, 130);
+            this.nud_gaukelein.Name = "nud_gaukelein";
+            this.nud_gaukelein.Size = new System.Drawing.Size(47, 20);
+            this.nud_gaukelein.TabIndex = 109;
             // 
             // metroTextBox2
             // 
@@ -935,14 +935,14 @@
             this.metroTextBox2.TabIndex = 108;
             this.metroTextBox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel14
+            // lbl_r_gauckelein
             // 
-            this.metroLabel14.AutoSize = true;
-            this.metroLabel14.Location = new System.Drawing.Point(374, 130);
-            this.metroLabel14.Name = "metroLabel14";
-            this.metroLabel14.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel14.TabIndex = 107;
-            this.metroLabel14.Text = "-";
+            this.lbl_r_gauckelein.AutoSize = true;
+            this.lbl_r_gauckelein.Location = new System.Drawing.Point(374, 130);
+            this.lbl_r_gauckelein.Name = "lbl_r_gauckelein";
+            this.lbl_r_gauckelein.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_gauckelein.TabIndex = 107;
+            this.lbl_r_gauckelein.Text = "-";
             // 
             // metroLabel15
             // 
@@ -980,12 +980,12 @@
             this.metroLabel18.TabIndex = 103;
             this.metroLabel18.Text = "Gaukelein";
             // 
-            // numericUpDown11
+            // nud_klettern
             // 
-            this.numericUpDown11.Location = new System.Drawing.Point(321, 156);
-            this.numericUpDown11.Name = "numericUpDown11";
-            this.numericUpDown11.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown11.TabIndex = 116;
+            this.nud_klettern.Location = new System.Drawing.Point(321, 156);
+            this.nud_klettern.Name = "nud_klettern";
+            this.nud_klettern.Size = new System.Drawing.Size(47, 20);
+            this.nud_klettern.TabIndex = 116;
             // 
             // metroTextBox3
             // 
@@ -995,14 +995,14 @@
             this.metroTextBox3.TabIndex = 115;
             this.metroTextBox3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel28
+            // lbl_r_klettern
             // 
-            this.metroLabel28.AutoSize = true;
-            this.metroLabel28.Location = new System.Drawing.Point(374, 156);
-            this.metroLabel28.Name = "metroLabel28";
-            this.metroLabel28.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel28.TabIndex = 114;
-            this.metroLabel28.Text = "-";
+            this.lbl_r_klettern.AutoSize = true;
+            this.lbl_r_klettern.Location = new System.Drawing.Point(374, 156);
+            this.lbl_r_klettern.Name = "lbl_r_klettern";
+            this.lbl_r_klettern.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_klettern.TabIndex = 114;
+            this.lbl_r_klettern.Text = "-";
             // 
             // metroLabel29
             // 
@@ -1040,12 +1040,12 @@
             this.metroLabel32.TabIndex = 110;
             this.metroLabel32.Text = "Klettern";
             // 
-            // numericUpDown12
+            // nud_körperbeherschung
             // 
-            this.numericUpDown12.Location = new System.Drawing.Point(321, 182);
-            this.numericUpDown12.Name = "numericUpDown12";
-            this.numericUpDown12.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown12.TabIndex = 123;
+            this.nud_körperbeherschung.Location = new System.Drawing.Point(321, 182);
+            this.nud_körperbeherschung.Name = "nud_körperbeherschung";
+            this.nud_körperbeherschung.Size = new System.Drawing.Size(47, 20);
+            this.nud_körperbeherschung.TabIndex = 123;
             // 
             // metroTextBox4
             // 
@@ -1055,14 +1055,14 @@
             this.metroTextBox4.TabIndex = 122;
             this.metroTextBox4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel33
+            // lbl_r_körperbeherschung
             // 
-            this.metroLabel33.AutoSize = true;
-            this.metroLabel33.Location = new System.Drawing.Point(374, 182);
-            this.metroLabel33.Name = "metroLabel33";
-            this.metroLabel33.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel33.TabIndex = 121;
-            this.metroLabel33.Text = "-";
+            this.lbl_r_körperbeherschung.AutoSize = true;
+            this.lbl_r_körperbeherschung.Location = new System.Drawing.Point(374, 182);
+            this.lbl_r_körperbeherschung.Name = "lbl_r_körperbeherschung";
+            this.lbl_r_körperbeherschung.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_körperbeherschung.TabIndex = 121;
+            this.lbl_r_körperbeherschung.Text = "-";
             // 
             // metroLabel34
             // 
@@ -1100,12 +1100,12 @@
             this.metroLabel37.TabIndex = 117;
             this.metroLabel37.Text = "Körperbeherschung";
             // 
-            // numericUpDown13
+            // nud_kraftakt
             // 
-            this.numericUpDown13.Location = new System.Drawing.Point(321, 208);
-            this.numericUpDown13.Name = "numericUpDown13";
-            this.numericUpDown13.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown13.TabIndex = 130;
+            this.nud_kraftakt.Location = new System.Drawing.Point(321, 208);
+            this.nud_kraftakt.Name = "nud_kraftakt";
+            this.nud_kraftakt.Size = new System.Drawing.Size(47, 20);
+            this.nud_kraftakt.TabIndex = 130;
             // 
             // metroTextBox5
             // 
@@ -1115,14 +1115,14 @@
             this.metroTextBox5.TabIndex = 129;
             this.metroTextBox5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel38
+            // lbl_r_kraftakt
             // 
-            this.metroLabel38.AutoSize = true;
-            this.metroLabel38.Location = new System.Drawing.Point(374, 208);
-            this.metroLabel38.Name = "metroLabel38";
-            this.metroLabel38.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel38.TabIndex = 128;
-            this.metroLabel38.Text = "-";
+            this.lbl_r_kraftakt.AutoSize = true;
+            this.lbl_r_kraftakt.Location = new System.Drawing.Point(374, 208);
+            this.lbl_r_kraftakt.Name = "lbl_r_kraftakt";
+            this.lbl_r_kraftakt.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_kraftakt.TabIndex = 128;
+            this.lbl_r_kraftakt.Text = "-";
             // 
             // metroLabel39
             // 
@@ -1160,12 +1160,12 @@
             this.metroLabel42.TabIndex = 124;
             this.metroLabel42.Text = "Kraftakt";
             // 
-            // numericUpDown14
+            // nud_reiten
             // 
-            this.numericUpDown14.Location = new System.Drawing.Point(321, 234);
-            this.numericUpDown14.Name = "numericUpDown14";
-            this.numericUpDown14.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown14.TabIndex = 137;
+            this.nud_reiten.Location = new System.Drawing.Point(321, 234);
+            this.nud_reiten.Name = "nud_reiten";
+            this.nud_reiten.Size = new System.Drawing.Size(47, 20);
+            this.nud_reiten.TabIndex = 137;
             // 
             // metroTextBox6
             // 
@@ -1175,14 +1175,14 @@
             this.metroTextBox6.TabIndex = 136;
             this.metroTextBox6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel43
+            // lbl_r_reiten
             // 
-            this.metroLabel43.AutoSize = true;
-            this.metroLabel43.Location = new System.Drawing.Point(374, 234);
-            this.metroLabel43.Name = "metroLabel43";
-            this.metroLabel43.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel43.TabIndex = 135;
-            this.metroLabel43.Text = "-";
+            this.lbl_r_reiten.AutoSize = true;
+            this.lbl_r_reiten.Location = new System.Drawing.Point(374, 234);
+            this.lbl_r_reiten.Name = "lbl_r_reiten";
+            this.lbl_r_reiten.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_reiten.TabIndex = 135;
+            this.lbl_r_reiten.Text = "-";
             // 
             // metroLabel44
             // 
@@ -1220,12 +1220,12 @@
             this.metroLabel47.TabIndex = 131;
             this.metroLabel47.Text = "Reiten";
             // 
-            // numericUpDown15
+            // nud_schwimmen
             // 
-            this.numericUpDown15.Location = new System.Drawing.Point(321, 260);
-            this.numericUpDown15.Name = "numericUpDown15";
-            this.numericUpDown15.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown15.TabIndex = 144;
+            this.nud_schwimmen.Location = new System.Drawing.Point(321, 260);
+            this.nud_schwimmen.Name = "nud_schwimmen";
+            this.nud_schwimmen.Size = new System.Drawing.Size(47, 20);
+            this.nud_schwimmen.TabIndex = 144;
             // 
             // metroTextBox7
             // 
@@ -1235,14 +1235,14 @@
             this.metroTextBox7.TabIndex = 143;
             this.metroTextBox7.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel48
+            // lbl_r_schwimmen
             // 
-            this.metroLabel48.AutoSize = true;
-            this.metroLabel48.Location = new System.Drawing.Point(374, 260);
-            this.metroLabel48.Name = "metroLabel48";
-            this.metroLabel48.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel48.TabIndex = 142;
-            this.metroLabel48.Text = "-";
+            this.lbl_r_schwimmen.AutoSize = true;
+            this.lbl_r_schwimmen.Location = new System.Drawing.Point(374, 260);
+            this.lbl_r_schwimmen.Name = "lbl_r_schwimmen";
+            this.lbl_r_schwimmen.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_schwimmen.TabIndex = 142;
+            this.lbl_r_schwimmen.Text = "-";
             // 
             // metroLabel49
             // 
@@ -1280,12 +1280,12 @@
             this.metroLabel52.TabIndex = 138;
             this.metroLabel52.Text = "Schwimmen";
             // 
-            // numericUpDown16
+            // nud_selbstbeherschung
             // 
-            this.numericUpDown16.Location = new System.Drawing.Point(321, 286);
-            this.numericUpDown16.Name = "numericUpDown16";
-            this.numericUpDown16.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown16.TabIndex = 151;
+            this.nud_selbstbeherschung.Location = new System.Drawing.Point(321, 286);
+            this.nud_selbstbeherschung.Name = "nud_selbstbeherschung";
+            this.nud_selbstbeherschung.Size = new System.Drawing.Size(47, 20);
+            this.nud_selbstbeherschung.TabIndex = 151;
             // 
             // metroTextBox8
             // 
@@ -1295,14 +1295,14 @@
             this.metroTextBox8.TabIndex = 150;
             this.metroTextBox8.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel53
+            // lbl_r_selbstbeherschung
             // 
-            this.metroLabel53.AutoSize = true;
-            this.metroLabel53.Location = new System.Drawing.Point(374, 286);
-            this.metroLabel53.Name = "metroLabel53";
-            this.metroLabel53.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel53.TabIndex = 149;
-            this.metroLabel53.Text = "-";
+            this.lbl_r_selbstbeherschung.AutoSize = true;
+            this.lbl_r_selbstbeherschung.Location = new System.Drawing.Point(374, 286);
+            this.lbl_r_selbstbeherschung.Name = "lbl_r_selbstbeherschung";
+            this.lbl_r_selbstbeherschung.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_selbstbeherschung.TabIndex = 149;
+            this.lbl_r_selbstbeherschung.Text = "-";
             // 
             // metroLabel54
             // 
@@ -1340,12 +1340,12 @@
             this.metroLabel57.TabIndex = 145;
             this.metroLabel57.Text = "Selbstbeherschung";
             // 
-            // numericUpDown17
+            // nud_singen
             // 
-            this.numericUpDown17.Location = new System.Drawing.Point(321, 312);
-            this.numericUpDown17.Name = "numericUpDown17";
-            this.numericUpDown17.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown17.TabIndex = 158;
+            this.nud_singen.Location = new System.Drawing.Point(321, 312);
+            this.nud_singen.Name = "nud_singen";
+            this.nud_singen.Size = new System.Drawing.Size(47, 20);
+            this.nud_singen.TabIndex = 158;
             // 
             // metroTextBox9
             // 
@@ -1355,14 +1355,14 @@
             this.metroTextBox9.TabIndex = 157;
             this.metroTextBox9.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel58
+            // lbl_r_singen
             // 
-            this.metroLabel58.AutoSize = true;
-            this.metroLabel58.Location = new System.Drawing.Point(374, 312);
-            this.metroLabel58.Name = "metroLabel58";
-            this.metroLabel58.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel58.TabIndex = 156;
-            this.metroLabel58.Text = "-";
+            this.lbl_r_singen.AutoSize = true;
+            this.lbl_r_singen.Location = new System.Drawing.Point(374, 312);
+            this.lbl_r_singen.Name = "lbl_r_singen";
+            this.lbl_r_singen.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_singen.TabIndex = 156;
+            this.lbl_r_singen.Text = "-";
             // 
             // metroLabel59
             // 
@@ -1400,12 +1400,12 @@
             this.metroLabel62.TabIndex = 152;
             this.metroLabel62.Text = "Singen";
             // 
-            // numericUpDown18
+            // nud_sinneschärfe
             // 
-            this.numericUpDown18.Location = new System.Drawing.Point(321, 338);
-            this.numericUpDown18.Name = "numericUpDown18";
-            this.numericUpDown18.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown18.TabIndex = 165;
+            this.nud_sinneschärfe.Location = new System.Drawing.Point(321, 338);
+            this.nud_sinneschärfe.Name = "nud_sinneschärfe";
+            this.nud_sinneschärfe.Size = new System.Drawing.Size(47, 20);
+            this.nud_sinneschärfe.TabIndex = 165;
             // 
             // metroTextBox10
             // 
@@ -1415,14 +1415,14 @@
             this.metroTextBox10.TabIndex = 164;
             this.metroTextBox10.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel63
+            // lbl_r_sinneschärfe
             // 
-            this.metroLabel63.AutoSize = true;
-            this.metroLabel63.Location = new System.Drawing.Point(374, 338);
-            this.metroLabel63.Name = "metroLabel63";
-            this.metroLabel63.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel63.TabIndex = 163;
-            this.metroLabel63.Text = "-";
+            this.lbl_r_sinneschärfe.AutoSize = true;
+            this.lbl_r_sinneschärfe.Location = new System.Drawing.Point(374, 338);
+            this.lbl_r_sinneschärfe.Name = "lbl_r_sinneschärfe";
+            this.lbl_r_sinneschärfe.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_sinneschärfe.TabIndex = 163;
+            this.lbl_r_sinneschärfe.Text = "-";
             // 
             // metroLabel64
             // 
@@ -1460,12 +1460,12 @@
             this.metroLabel67.TabIndex = 159;
             this.metroLabel67.Text = "Sinnesschärfe";
             // 
-            // numericUpDown19
+            // nud_tanzen
             // 
-            this.numericUpDown19.Location = new System.Drawing.Point(321, 364);
-            this.numericUpDown19.Name = "numericUpDown19";
-            this.numericUpDown19.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown19.TabIndex = 172;
+            this.nud_tanzen.Location = new System.Drawing.Point(321, 364);
+            this.nud_tanzen.Name = "nud_tanzen";
+            this.nud_tanzen.Size = new System.Drawing.Size(47, 20);
+            this.nud_tanzen.TabIndex = 172;
             // 
             // metroTextBox11
             // 
@@ -1475,14 +1475,14 @@
             this.metroTextBox11.TabIndex = 171;
             this.metroTextBox11.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel68
+            // lbl_r_tanzen
             // 
-            this.metroLabel68.AutoSize = true;
-            this.metroLabel68.Location = new System.Drawing.Point(374, 364);
-            this.metroLabel68.Name = "metroLabel68";
-            this.metroLabel68.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel68.TabIndex = 170;
-            this.metroLabel68.Text = "-";
+            this.lbl_r_tanzen.AutoSize = true;
+            this.lbl_r_tanzen.Location = new System.Drawing.Point(374, 364);
+            this.lbl_r_tanzen.Name = "lbl_r_tanzen";
+            this.lbl_r_tanzen.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_tanzen.TabIndex = 170;
+            this.lbl_r_tanzen.Text = "-";
             // 
             // metroLabel69
             // 
@@ -1520,12 +1520,12 @@
             this.metroLabel72.TabIndex = 166;
             this.metroLabel72.Text = "Tanzen";
             // 
-            // numericUpDown20
+            // nud_taschendiebstahl
             // 
-            this.numericUpDown20.Location = new System.Drawing.Point(321, 390);
-            this.numericUpDown20.Name = "numericUpDown20";
-            this.numericUpDown20.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown20.TabIndex = 179;
+            this.nud_taschendiebstahl.Location = new System.Drawing.Point(321, 390);
+            this.nud_taschendiebstahl.Name = "nud_taschendiebstahl";
+            this.nud_taschendiebstahl.Size = new System.Drawing.Size(47, 20);
+            this.nud_taschendiebstahl.TabIndex = 179;
             // 
             // metroTextBox12
             // 
@@ -1535,14 +1535,14 @@
             this.metroTextBox12.TabIndex = 178;
             this.metroTextBox12.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel73
+            // lbl_r_taschendiebstahl
             // 
-            this.metroLabel73.AutoSize = true;
-            this.metroLabel73.Location = new System.Drawing.Point(374, 390);
-            this.metroLabel73.Name = "metroLabel73";
-            this.metroLabel73.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel73.TabIndex = 177;
-            this.metroLabel73.Text = "-";
+            this.lbl_r_taschendiebstahl.AutoSize = true;
+            this.lbl_r_taschendiebstahl.Location = new System.Drawing.Point(374, 390);
+            this.lbl_r_taschendiebstahl.Name = "lbl_r_taschendiebstahl";
+            this.lbl_r_taschendiebstahl.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_taschendiebstahl.TabIndex = 177;
+            this.lbl_r_taschendiebstahl.Text = "-";
             // 
             // metroLabel74
             // 
@@ -1580,12 +1580,12 @@
             this.metroLabel77.TabIndex = 173;
             this.metroLabel77.Text = "Taschendiebstahl";
             // 
-            // numericUpDown21
+            // nud_verbergen
             // 
-            this.numericUpDown21.Location = new System.Drawing.Point(321, 416);
-            this.numericUpDown21.Name = "numericUpDown21";
-            this.numericUpDown21.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown21.TabIndex = 186;
+            this.nud_verbergen.Location = new System.Drawing.Point(321, 416);
+            this.nud_verbergen.Name = "nud_verbergen";
+            this.nud_verbergen.Size = new System.Drawing.Size(47, 20);
+            this.nud_verbergen.TabIndex = 186;
             // 
             // metroTextBox13
             // 
@@ -1595,14 +1595,14 @@
             this.metroTextBox13.TabIndex = 185;
             this.metroTextBox13.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel78
+            // lbl_r_verbergen
             // 
-            this.metroLabel78.AutoSize = true;
-            this.metroLabel78.Location = new System.Drawing.Point(374, 416);
-            this.metroLabel78.Name = "metroLabel78";
-            this.metroLabel78.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel78.TabIndex = 184;
-            this.metroLabel78.Text = "-";
+            this.lbl_r_verbergen.AutoSize = true;
+            this.lbl_r_verbergen.Location = new System.Drawing.Point(374, 416);
+            this.lbl_r_verbergen.Name = "lbl_r_verbergen";
+            this.lbl_r_verbergen.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_verbergen.TabIndex = 184;
+            this.lbl_r_verbergen.Text = "-";
             // 
             // metroLabel79
             // 
@@ -1640,12 +1640,12 @@
             this.metroLabel82.TabIndex = 180;
             this.metroLabel82.Text = "Verbergen";
             // 
-            // numericUpDown22
+            // nud_zechen
             // 
-            this.numericUpDown22.Location = new System.Drawing.Point(321, 442);
-            this.numericUpDown22.Name = "numericUpDown22";
-            this.numericUpDown22.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown22.TabIndex = 193;
+            this.nud_zechen.Location = new System.Drawing.Point(321, 442);
+            this.nud_zechen.Name = "nud_zechen";
+            this.nud_zechen.Size = new System.Drawing.Size(47, 20);
+            this.nud_zechen.TabIndex = 193;
             // 
             // metroTextBox14
             // 
@@ -1655,14 +1655,14 @@
             this.metroTextBox14.TabIndex = 192;
             this.metroTextBox14.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel83
+            // lbl_r_zechen
             // 
-            this.metroLabel83.AutoSize = true;
-            this.metroLabel83.Location = new System.Drawing.Point(374, 442);
-            this.metroLabel83.Name = "metroLabel83";
-            this.metroLabel83.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel83.TabIndex = 191;
-            this.metroLabel83.Text = "-";
+            this.lbl_r_zechen.AutoSize = true;
+            this.lbl_r_zechen.Location = new System.Drawing.Point(374, 442);
+            this.lbl_r_zechen.Name = "lbl_r_zechen";
+            this.lbl_r_zechen.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_zechen.TabIndex = 191;
+            this.lbl_r_zechen.Text = "-";
             // 
             // metroLabel84
             // 
@@ -1719,12 +1719,12 @@
             this.metroLabel89.TabIndex = 194;
             this.metroLabel89.Text = "Gesellschaftstalente";
             // 
-            // numericUpDown23
+            // nud_bekehren
             // 
-            this.numericUpDown23.Location = new System.Drawing.Point(321, 494);
-            this.numericUpDown23.Name = "numericUpDown23";
-            this.numericUpDown23.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown23.TabIndex = 202;
+            this.nud_bekehren.Location = new System.Drawing.Point(321, 494);
+            this.nud_bekehren.Name = "nud_bekehren";
+            this.nud_bekehren.Size = new System.Drawing.Size(47, 20);
+            this.nud_bekehren.TabIndex = 202;
             // 
             // metroTextBox16
             // 
@@ -1734,14 +1734,14 @@
             this.metroTextBox16.TabIndex = 201;
             this.metroTextBox16.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel90
+            // lbl_r_bekehren
             // 
-            this.metroLabel90.AutoSize = true;
-            this.metroLabel90.Location = new System.Drawing.Point(374, 494);
-            this.metroLabel90.Name = "metroLabel90";
-            this.metroLabel90.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel90.TabIndex = 200;
-            this.metroLabel90.Text = "-";
+            this.lbl_r_bekehren.AutoSize = true;
+            this.lbl_r_bekehren.Location = new System.Drawing.Point(374, 494);
+            this.lbl_r_bekehren.Name = "lbl_r_bekehren";
+            this.lbl_r_bekehren.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_bekehren.TabIndex = 200;
+            this.lbl_r_bekehren.Text = "-";
             // 
             // metroLabel91
             // 
@@ -1779,12 +1779,12 @@
             this.metroLabel94.TabIndex = 196;
             this.metroLabel94.Text = "Bekehren && Überzeugen";
             // 
-            // numericUpDown24
+            // nud_betören
             // 
-            this.numericUpDown24.Location = new System.Drawing.Point(321, 520);
-            this.numericUpDown24.Name = "numericUpDown24";
-            this.numericUpDown24.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown24.TabIndex = 209;
+            this.nud_betören.Location = new System.Drawing.Point(321, 520);
+            this.nud_betören.Name = "nud_betören";
+            this.nud_betören.Size = new System.Drawing.Size(47, 20);
+            this.nud_betören.TabIndex = 209;
             // 
             // metroTextBox17
             // 
@@ -1794,14 +1794,14 @@
             this.metroTextBox17.TabIndex = 208;
             this.metroTextBox17.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel95
+            // lbl_r_betören
             // 
-            this.metroLabel95.AutoSize = true;
-            this.metroLabel95.Location = new System.Drawing.Point(374, 520);
-            this.metroLabel95.Name = "metroLabel95";
-            this.metroLabel95.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel95.TabIndex = 207;
-            this.metroLabel95.Text = "-";
+            this.lbl_r_betören.AutoSize = true;
+            this.lbl_r_betören.Location = new System.Drawing.Point(374, 520);
+            this.lbl_r_betören.Name = "lbl_r_betören";
+            this.lbl_r_betören.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_betören.TabIndex = 207;
+            this.lbl_r_betören.Text = "-";
             // 
             // metroLabel96
             // 
@@ -1839,12 +1839,12 @@
             this.metroLabel99.TabIndex = 203;
             this.metroLabel99.Text = "Betören";
             // 
-            // numericUpDown25
+            // nud_einschüchtern
             // 
-            this.numericUpDown25.Location = new System.Drawing.Point(321, 546);
-            this.numericUpDown25.Name = "numericUpDown25";
-            this.numericUpDown25.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown25.TabIndex = 216;
+            this.nud_einschüchtern.Location = new System.Drawing.Point(321, 546);
+            this.nud_einschüchtern.Name = "nud_einschüchtern";
+            this.nud_einschüchtern.Size = new System.Drawing.Size(47, 20);
+            this.nud_einschüchtern.TabIndex = 216;
             // 
             // metroTextBox18
             // 
@@ -1854,14 +1854,14 @@
             this.metroTextBox18.TabIndex = 215;
             this.metroTextBox18.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel100
+            // lbl_r_einschüchtern
             // 
-            this.metroLabel100.AutoSize = true;
-            this.metroLabel100.Location = new System.Drawing.Point(374, 546);
-            this.metroLabel100.Name = "metroLabel100";
-            this.metroLabel100.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel100.TabIndex = 214;
-            this.metroLabel100.Text = "-";
+            this.lbl_r_einschüchtern.AutoSize = true;
+            this.lbl_r_einschüchtern.Location = new System.Drawing.Point(374, 546);
+            this.lbl_r_einschüchtern.Name = "lbl_r_einschüchtern";
+            this.lbl_r_einschüchtern.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_einschüchtern.TabIndex = 214;
+            this.lbl_r_einschüchtern.Text = "-";
             // 
             // metroLabel101
             // 
@@ -1899,12 +1899,12 @@
             this.metroLabel104.TabIndex = 210;
             this.metroLabel104.Text = "Einschüchtern";
             // 
-            // numericUpDown26
+            // nud_menschenkenntnis
             // 
-            this.numericUpDown26.Location = new System.Drawing.Point(321, 624);
-            this.numericUpDown26.Name = "numericUpDown26";
-            this.numericUpDown26.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown26.TabIndex = 237;
+            this.nud_menschenkenntnis.Location = new System.Drawing.Point(321, 624);
+            this.nud_menschenkenntnis.Name = "nud_menschenkenntnis";
+            this.nud_menschenkenntnis.Size = new System.Drawing.Size(47, 20);
+            this.nud_menschenkenntnis.TabIndex = 237;
             // 
             // metroTextBox19
             // 
@@ -1914,14 +1914,14 @@
             this.metroTextBox19.TabIndex = 236;
             this.metroTextBox19.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel105
+            // lbl_r_menschenkenntnis
             // 
-            this.metroLabel105.AutoSize = true;
-            this.metroLabel105.Location = new System.Drawing.Point(374, 624);
-            this.metroLabel105.Name = "metroLabel105";
-            this.metroLabel105.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel105.TabIndex = 235;
-            this.metroLabel105.Text = "-";
+            this.lbl_r_menschenkenntnis.AutoSize = true;
+            this.lbl_r_menschenkenntnis.Location = new System.Drawing.Point(374, 624);
+            this.lbl_r_menschenkenntnis.Name = "lbl_r_menschenkenntnis";
+            this.lbl_r_menschenkenntnis.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_menschenkenntnis.TabIndex = 235;
+            this.lbl_r_menschenkenntnis.Text = "-";
             // 
             // metroLabel106
             // 
@@ -1959,12 +1959,12 @@
             this.metroLabel109.TabIndex = 231;
             this.metroLabel109.Text = "Menschenkenntnis";
             // 
-            // numericUpDown27
+            // nud_gassenwissen
             // 
-            this.numericUpDown27.Location = new System.Drawing.Point(321, 598);
-            this.numericUpDown27.Name = "numericUpDown27";
-            this.numericUpDown27.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown27.TabIndex = 230;
+            this.nud_gassenwissen.Location = new System.Drawing.Point(321, 598);
+            this.nud_gassenwissen.Name = "nud_gassenwissen";
+            this.nud_gassenwissen.Size = new System.Drawing.Size(47, 20);
+            this.nud_gassenwissen.TabIndex = 230;
             // 
             // metroTextBox20
             // 
@@ -1974,14 +1974,14 @@
             this.metroTextBox20.TabIndex = 229;
             this.metroTextBox20.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel110
+            // lbl_r_gassenwissen
             // 
-            this.metroLabel110.AutoSize = true;
-            this.metroLabel110.Location = new System.Drawing.Point(374, 598);
-            this.metroLabel110.Name = "metroLabel110";
-            this.metroLabel110.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel110.TabIndex = 228;
-            this.metroLabel110.Text = "-";
+            this.lbl_r_gassenwissen.AutoSize = true;
+            this.lbl_r_gassenwissen.Location = new System.Drawing.Point(374, 598);
+            this.lbl_r_gassenwissen.Name = "lbl_r_gassenwissen";
+            this.lbl_r_gassenwissen.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_gassenwissen.TabIndex = 228;
+            this.lbl_r_gassenwissen.Text = "-";
             // 
             // metroLabel111
             // 
@@ -2019,12 +2019,12 @@
             this.metroLabel114.TabIndex = 224;
             this.metroLabel114.Text = "Gassenwissen";
             // 
-            // numericUpDown28
+            // nud_etikette
             // 
-            this.numericUpDown28.Location = new System.Drawing.Point(321, 572);
-            this.numericUpDown28.Name = "numericUpDown28";
-            this.numericUpDown28.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown28.TabIndex = 223;
+            this.nud_etikette.Location = new System.Drawing.Point(321, 572);
+            this.nud_etikette.Name = "nud_etikette";
+            this.nud_etikette.Size = new System.Drawing.Size(47, 20);
+            this.nud_etikette.TabIndex = 223;
             // 
             // metroTextBox21
             // 
@@ -2034,14 +2034,14 @@
             this.metroTextBox21.TabIndex = 222;
             this.metroTextBox21.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel115
+            // lbl_r_etikette
             // 
-            this.metroLabel115.AutoSize = true;
-            this.metroLabel115.Location = new System.Drawing.Point(374, 572);
-            this.metroLabel115.Name = "metroLabel115";
-            this.metroLabel115.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel115.TabIndex = 221;
-            this.metroLabel115.Text = "-";
+            this.lbl_r_etikette.AutoSize = true;
+            this.lbl_r_etikette.Location = new System.Drawing.Point(374, 572);
+            this.lbl_r_etikette.Name = "lbl_r_etikette";
+            this.lbl_r_etikette.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_etikette.TabIndex = 221;
+            this.lbl_r_etikette.Text = "-";
             // 
             // metroLabel116
             // 
@@ -2079,12 +2079,12 @@
             this.metroLabel119.TabIndex = 217;
             this.metroLabel119.Text = "Etikette";
             // 
-            // numericUpDown29
+            // nud_willenskraft
             // 
-            this.numericUpDown29.Location = new System.Drawing.Point(321, 702);
-            this.numericUpDown29.Name = "numericUpDown29";
-            this.numericUpDown29.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown29.TabIndex = 258;
+            this.nud_willenskraft.Location = new System.Drawing.Point(321, 702);
+            this.nud_willenskraft.Name = "nud_willenskraft";
+            this.nud_willenskraft.Size = new System.Drawing.Size(47, 20);
+            this.nud_willenskraft.TabIndex = 258;
             // 
             // metroTextBox22
             // 
@@ -2094,14 +2094,14 @@
             this.metroTextBox22.TabIndex = 257;
             this.metroTextBox22.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel120
+            // lbl_r_willenskraft
             // 
-            this.metroLabel120.AutoSize = true;
-            this.metroLabel120.Location = new System.Drawing.Point(374, 702);
-            this.metroLabel120.Name = "metroLabel120";
-            this.metroLabel120.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel120.TabIndex = 256;
-            this.metroLabel120.Text = "-";
+            this.lbl_r_willenskraft.AutoSize = true;
+            this.lbl_r_willenskraft.Location = new System.Drawing.Point(374, 702);
+            this.lbl_r_willenskraft.Name = "lbl_r_willenskraft";
+            this.lbl_r_willenskraft.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_willenskraft.TabIndex = 256;
+            this.lbl_r_willenskraft.Text = "-";
             // 
             // metroLabel121
             // 
@@ -2139,12 +2139,12 @@
             this.metroLabel124.TabIndex = 252;
             this.metroLabel124.Text = "Willenskraft";
             // 
-            // numericUpDown30
+            // nud_verkleiden
             // 
-            this.numericUpDown30.Location = new System.Drawing.Point(321, 676);
-            this.numericUpDown30.Name = "numericUpDown30";
-            this.numericUpDown30.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown30.TabIndex = 251;
+            this.nud_verkleiden.Location = new System.Drawing.Point(321, 676);
+            this.nud_verkleiden.Name = "nud_verkleiden";
+            this.nud_verkleiden.Size = new System.Drawing.Size(47, 20);
+            this.nud_verkleiden.TabIndex = 251;
             // 
             // metroTextBox23
             // 
@@ -2154,14 +2154,14 @@
             this.metroTextBox23.TabIndex = 250;
             this.metroTextBox23.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel125
+            // lbl_r_verkleiden
             // 
-            this.metroLabel125.AutoSize = true;
-            this.metroLabel125.Location = new System.Drawing.Point(374, 676);
-            this.metroLabel125.Name = "metroLabel125";
-            this.metroLabel125.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel125.TabIndex = 249;
-            this.metroLabel125.Text = "-";
+            this.lbl_r_verkleiden.AutoSize = true;
+            this.lbl_r_verkleiden.Location = new System.Drawing.Point(374, 676);
+            this.lbl_r_verkleiden.Name = "lbl_r_verkleiden";
+            this.lbl_r_verkleiden.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_verkleiden.TabIndex = 249;
+            this.lbl_r_verkleiden.Text = "-";
             // 
             // metroLabel126
             // 
@@ -2199,12 +2199,12 @@
             this.metroLabel129.TabIndex = 245;
             this.metroLabel129.Text = "Verkleiden";
             // 
-            // numericUpDown31
+            // nud_überreden
             // 
-            this.numericUpDown31.Location = new System.Drawing.Point(321, 650);
-            this.numericUpDown31.Name = "numericUpDown31";
-            this.numericUpDown31.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown31.TabIndex = 244;
+            this.nud_überreden.Location = new System.Drawing.Point(321, 650);
+            this.nud_überreden.Name = "nud_überreden";
+            this.nud_überreden.Size = new System.Drawing.Size(47, 20);
+            this.nud_überreden.TabIndex = 244;
             // 
             // metroTextBox24
             // 
@@ -2214,14 +2214,14 @@
             this.metroTextBox24.TabIndex = 243;
             this.metroTextBox24.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel130
+            // lbl_r_überreden
             // 
-            this.metroLabel130.AutoSize = true;
-            this.metroLabel130.Location = new System.Drawing.Point(374, 650);
-            this.metroLabel130.Name = "metroLabel130";
-            this.metroLabel130.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel130.TabIndex = 242;
-            this.metroLabel130.Text = "-";
+            this.lbl_r_überreden.AutoSize = true;
+            this.lbl_r_überreden.Location = new System.Drawing.Point(374, 650);
+            this.lbl_r_überreden.Name = "lbl_r_überreden";
+            this.lbl_r_überreden.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_überreden.TabIndex = 242;
+            this.lbl_r_überreden.Text = "-";
             // 
             // metroLabel131
             // 
@@ -2278,12 +2278,12 @@
             this.metroLabel136.TabIndex = 259;
             this.metroLabel136.Text = "Naturtalente";
             // 
-            // numericUpDown32
+            // nud_fährtensuchen
             // 
-            this.numericUpDown32.Location = new System.Drawing.Point(321, 754);
-            this.numericUpDown32.Name = "numericUpDown32";
-            this.numericUpDown32.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown32.TabIndex = 267;
+            this.nud_fährtensuchen.Location = new System.Drawing.Point(321, 754);
+            this.nud_fährtensuchen.Name = "nud_fährtensuchen";
+            this.nud_fährtensuchen.Size = new System.Drawing.Size(47, 20);
+            this.nud_fährtensuchen.TabIndex = 267;
             // 
             // metroTextBox25
             // 
@@ -2293,14 +2293,14 @@
             this.metroTextBox25.TabIndex = 266;
             this.metroTextBox25.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel137
+            // lbl_r_fährtensuchen
             // 
-            this.metroLabel137.AutoSize = true;
-            this.metroLabel137.Location = new System.Drawing.Point(374, 754);
-            this.metroLabel137.Name = "metroLabel137";
-            this.metroLabel137.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel137.TabIndex = 265;
-            this.metroLabel137.Text = "-";
+            this.lbl_r_fährtensuchen.AutoSize = true;
+            this.lbl_r_fährtensuchen.Location = new System.Drawing.Point(374, 754);
+            this.lbl_r_fährtensuchen.Name = "lbl_r_fährtensuchen";
+            this.lbl_r_fährtensuchen.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_fährtensuchen.TabIndex = 265;
+            this.lbl_r_fährtensuchen.Text = "-";
             // 
             // metroLabel138
             // 
@@ -2338,12 +2338,12 @@
             this.metroLabel141.TabIndex = 261;
             this.metroLabel141.Text = "Fährtensuchen";
             // 
-            // numericUpDown33
+            // nud_fesseln
             // 
-            this.numericUpDown33.Location = new System.Drawing.Point(321, 780);
-            this.numericUpDown33.Name = "numericUpDown33";
-            this.numericUpDown33.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown33.TabIndex = 274;
+            this.nud_fesseln.Location = new System.Drawing.Point(321, 780);
+            this.nud_fesseln.Name = "nud_fesseln";
+            this.nud_fesseln.Size = new System.Drawing.Size(47, 20);
+            this.nud_fesseln.TabIndex = 274;
             // 
             // metroTextBox26
             // 
@@ -2353,14 +2353,14 @@
             this.metroTextBox26.TabIndex = 273;
             this.metroTextBox26.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel142
+            // lbl_r_fesseln
             // 
-            this.metroLabel142.AutoSize = true;
-            this.metroLabel142.Location = new System.Drawing.Point(374, 780);
-            this.metroLabel142.Name = "metroLabel142";
-            this.metroLabel142.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel142.TabIndex = 272;
-            this.metroLabel142.Text = "-";
+            this.lbl_r_fesseln.AutoSize = true;
+            this.lbl_r_fesseln.Location = new System.Drawing.Point(374, 780);
+            this.lbl_r_fesseln.Name = "lbl_r_fesseln";
+            this.lbl_r_fesseln.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_fesseln.TabIndex = 272;
+            this.lbl_r_fesseln.Text = "-";
             // 
             // metroLabel143
             // 
@@ -2398,12 +2398,12 @@
             this.metroLabel146.TabIndex = 268;
             this.metroLabel146.Text = "Fesseln";
             // 
-            // numericUpDown34
+            // btn_fischen
             // 
-            this.numericUpDown34.Location = new System.Drawing.Point(321, 806);
-            this.numericUpDown34.Name = "numericUpDown34";
-            this.numericUpDown34.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown34.TabIndex = 281;
+            this.btn_fischen.Location = new System.Drawing.Point(321, 806);
+            this.btn_fischen.Name = "btn_fischen";
+            this.btn_fischen.Size = new System.Drawing.Size(47, 20);
+            this.btn_fischen.TabIndex = 281;
             // 
             // metroTextBox27
             // 
@@ -2413,14 +2413,14 @@
             this.metroTextBox27.TabIndex = 280;
             this.metroTextBox27.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel147
+            // lbl_r_fischen
             // 
-            this.metroLabel147.AutoSize = true;
-            this.metroLabel147.Location = new System.Drawing.Point(374, 806);
-            this.metroLabel147.Name = "metroLabel147";
-            this.metroLabel147.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel147.TabIndex = 279;
-            this.metroLabel147.Text = "-";
+            this.lbl_r_fischen.AutoSize = true;
+            this.lbl_r_fischen.Location = new System.Drawing.Point(374, 806);
+            this.lbl_r_fischen.Name = "lbl_r_fischen";
+            this.lbl_r_fischen.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_fischen.TabIndex = 279;
+            this.lbl_r_fischen.Text = "-";
             // 
             // metroLabel148
             // 
@@ -2458,12 +2458,12 @@
             this.metroLabel151.TabIndex = 275;
             this.metroLabel151.Text = "Fischen && Angeln";
             // 
-            // numericUpDown35
+            // nud_orientierung
             // 
-            this.numericUpDown35.Location = new System.Drawing.Point(321, 832);
-            this.numericUpDown35.Name = "numericUpDown35";
-            this.numericUpDown35.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown35.TabIndex = 288;
+            this.nud_orientierung.Location = new System.Drawing.Point(321, 832);
+            this.nud_orientierung.Name = "nud_orientierung";
+            this.nud_orientierung.Size = new System.Drawing.Size(47, 20);
+            this.nud_orientierung.TabIndex = 288;
             // 
             // metroTextBox28
             // 
@@ -2473,14 +2473,14 @@
             this.metroTextBox28.TabIndex = 287;
             this.metroTextBox28.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel152
+            // lbl_r_orientierung
             // 
-            this.metroLabel152.AutoSize = true;
-            this.metroLabel152.Location = new System.Drawing.Point(374, 832);
-            this.metroLabel152.Name = "metroLabel152";
-            this.metroLabel152.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel152.TabIndex = 286;
-            this.metroLabel152.Text = "-";
+            this.lbl_r_orientierung.AutoSize = true;
+            this.lbl_r_orientierung.Location = new System.Drawing.Point(374, 832);
+            this.lbl_r_orientierung.Name = "lbl_r_orientierung";
+            this.lbl_r_orientierung.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_orientierung.TabIndex = 286;
+            this.lbl_r_orientierung.Text = "-";
             // 
             // metroLabel153
             // 
@@ -2518,12 +2518,12 @@
             this.metroLabel156.TabIndex = 282;
             this.metroLabel156.Text = "Orientierung";
             // 
-            // numericUpDown36
+            // nud_pflanzenkunde
             // 
-            this.numericUpDown36.Location = new System.Drawing.Point(321, 858);
-            this.numericUpDown36.Name = "numericUpDown36";
-            this.numericUpDown36.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown36.TabIndex = 295;
+            this.nud_pflanzenkunde.Location = new System.Drawing.Point(321, 858);
+            this.nud_pflanzenkunde.Name = "nud_pflanzenkunde";
+            this.nud_pflanzenkunde.Size = new System.Drawing.Size(47, 20);
+            this.nud_pflanzenkunde.TabIndex = 295;
             // 
             // metroTextBox29
             // 
@@ -2533,14 +2533,14 @@
             this.metroTextBox29.TabIndex = 294;
             this.metroTextBox29.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel157
+            // lbl_r_pflanzenkunde
             // 
-            this.metroLabel157.AutoSize = true;
-            this.metroLabel157.Location = new System.Drawing.Point(374, 858);
-            this.metroLabel157.Name = "metroLabel157";
-            this.metroLabel157.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel157.TabIndex = 293;
-            this.metroLabel157.Text = "-";
+            this.lbl_r_pflanzenkunde.AutoSize = true;
+            this.lbl_r_pflanzenkunde.Location = new System.Drawing.Point(374, 858);
+            this.lbl_r_pflanzenkunde.Name = "lbl_r_pflanzenkunde";
+            this.lbl_r_pflanzenkunde.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_pflanzenkunde.TabIndex = 293;
+            this.lbl_r_pflanzenkunde.Text = "-";
             // 
             // metroLabel158
             // 
@@ -2578,12 +2578,12 @@
             this.metroLabel161.TabIndex = 289;
             this.metroLabel161.Text = "Pflanzenkunde";
             // 
-            // numericUpDown37
+            // nud_tierkunde
             // 
-            this.numericUpDown37.Location = new System.Drawing.Point(321, 884);
-            this.numericUpDown37.Name = "numericUpDown37";
-            this.numericUpDown37.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown37.TabIndex = 302;
+            this.nud_tierkunde.Location = new System.Drawing.Point(321, 884);
+            this.nud_tierkunde.Name = "nud_tierkunde";
+            this.nud_tierkunde.Size = new System.Drawing.Size(47, 20);
+            this.nud_tierkunde.TabIndex = 302;
             // 
             // metroTextBox30
             // 
@@ -2593,14 +2593,14 @@
             this.metroTextBox30.TabIndex = 301;
             this.metroTextBox30.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel162
+            // lbl_r_tierkunde
             // 
-            this.metroLabel162.AutoSize = true;
-            this.metroLabel162.Location = new System.Drawing.Point(374, 884);
-            this.metroLabel162.Name = "metroLabel162";
-            this.metroLabel162.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel162.TabIndex = 300;
-            this.metroLabel162.Text = "-";
+            this.lbl_r_tierkunde.AutoSize = true;
+            this.lbl_r_tierkunde.Location = new System.Drawing.Point(374, 884);
+            this.lbl_r_tierkunde.Name = "lbl_r_tierkunde";
+            this.lbl_r_tierkunde.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_tierkunde.TabIndex = 300;
+            this.lbl_r_tierkunde.Text = "-";
             // 
             // metroLabel163
             // 
@@ -2638,12 +2638,12 @@
             this.metroLabel166.TabIndex = 296;
             this.metroLabel166.Text = "Tierkunde";
             // 
-            // numericUpDown38
+            // nud_wildnessleben
             // 
-            this.numericUpDown38.Location = new System.Drawing.Point(321, 910);
-            this.numericUpDown38.Name = "numericUpDown38";
-            this.numericUpDown38.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown38.TabIndex = 309;
+            this.nud_wildnessleben.Location = new System.Drawing.Point(321, 910);
+            this.nud_wildnessleben.Name = "nud_wildnessleben";
+            this.nud_wildnessleben.Size = new System.Drawing.Size(47, 20);
+            this.nud_wildnessleben.TabIndex = 309;
             // 
             // metroTextBox31
             // 
@@ -2653,14 +2653,14 @@
             this.metroTextBox31.TabIndex = 308;
             this.metroTextBox31.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel167
+            // lbl_r_wildnessleben
             // 
-            this.metroLabel167.AutoSize = true;
-            this.metroLabel167.Location = new System.Drawing.Point(374, 910);
-            this.metroLabel167.Name = "metroLabel167";
-            this.metroLabel167.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel167.TabIndex = 307;
-            this.metroLabel167.Text = "-";
+            this.lbl_r_wildnessleben.AutoSize = true;
+            this.lbl_r_wildnessleben.Location = new System.Drawing.Point(374, 910);
+            this.lbl_r_wildnessleben.Name = "lbl_r_wildnessleben";
+            this.lbl_r_wildnessleben.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_wildnessleben.TabIndex = 307;
+            this.lbl_r_wildnessleben.Text = "-";
             // 
             // metroLabel168
             // 
@@ -2698,12 +2698,12 @@
             this.metroLabel171.TabIndex = 303;
             this.metroLabel171.Text = "Wildnessleben";
             // 
-            // numericUpDown42
+            // nud_sternkunde
             // 
-            this.numericUpDown42.Location = new System.Drawing.Point(899, 365);
-            this.numericUpDown42.Name = "numericUpDown42";
-            this.numericUpDown42.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown42.TabIndex = 395;
+            this.nud_sternkunde.Location = new System.Drawing.Point(899, 365);
+            this.nud_sternkunde.Name = "nud_sternkunde";
+            this.nud_sternkunde.Size = new System.Drawing.Size(47, 20);
+            this.nud_sternkunde.TabIndex = 395;
             // 
             // metroTextBox35
             // 
@@ -2713,14 +2713,14 @@
             this.metroTextBox35.TabIndex = 394;
             this.metroTextBox35.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel187
+            // lbl_r_sternkunde
             // 
-            this.metroLabel187.AutoSize = true;
-            this.metroLabel187.Location = new System.Drawing.Point(952, 365);
-            this.metroLabel187.Name = "metroLabel187";
-            this.metroLabel187.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel187.TabIndex = 393;
-            this.metroLabel187.Text = "-";
+            this.lbl_r_sternkunde.AutoSize = true;
+            this.lbl_r_sternkunde.Location = new System.Drawing.Point(952, 365);
+            this.lbl_r_sternkunde.Name = "lbl_r_sternkunde";
+            this.lbl_r_sternkunde.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_sternkunde.TabIndex = 393;
+            this.lbl_r_sternkunde.Text = "-";
             // 
             // metroLabel188
             // 
@@ -2758,12 +2758,12 @@
             this.metroLabel191.TabIndex = 389;
             this.metroLabel191.Text = "Sternkunde";
             // 
-            // numericUpDown43
+            // nud_sphären
             // 
-            this.numericUpDown43.Location = new System.Drawing.Point(899, 339);
-            this.numericUpDown43.Name = "numericUpDown43";
-            this.numericUpDown43.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown43.TabIndex = 388;
+            this.nud_sphären.Location = new System.Drawing.Point(899, 339);
+            this.nud_sphären.Name = "nud_sphären";
+            this.nud_sphären.Size = new System.Drawing.Size(47, 20);
+            this.nud_sphären.TabIndex = 388;
             // 
             // metroTextBox36
             // 
@@ -2773,14 +2773,14 @@
             this.metroTextBox36.TabIndex = 387;
             this.metroTextBox36.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel192
+            // lbl_r_spährenkunde
             // 
-            this.metroLabel192.AutoSize = true;
-            this.metroLabel192.Location = new System.Drawing.Point(952, 339);
-            this.metroLabel192.Name = "metroLabel192";
-            this.metroLabel192.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel192.TabIndex = 386;
-            this.metroLabel192.Text = "-";
+            this.lbl_r_spährenkunde.AutoSize = true;
+            this.lbl_r_spährenkunde.Location = new System.Drawing.Point(952, 339);
+            this.lbl_r_spährenkunde.Name = "lbl_r_spährenkunde";
+            this.lbl_r_spährenkunde.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_spährenkunde.TabIndex = 386;
+            this.lbl_r_spährenkunde.Text = "-";
             // 
             // metroLabel193
             // 
@@ -2818,12 +2818,12 @@
             this.metroLabel196.TabIndex = 382;
             this.metroLabel196.Text = "Spährenkunde";
             // 
-            // numericUpDown44
+            // nud_sagen
             // 
-            this.numericUpDown44.Location = new System.Drawing.Point(899, 313);
-            this.numericUpDown44.Name = "numericUpDown44";
-            this.numericUpDown44.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown44.TabIndex = 381;
+            this.nud_sagen.Location = new System.Drawing.Point(899, 313);
+            this.nud_sagen.Name = "nud_sagen";
+            this.nud_sagen.Size = new System.Drawing.Size(47, 20);
+            this.nud_sagen.TabIndex = 381;
             // 
             // metroTextBox37
             // 
@@ -2833,14 +2833,14 @@
             this.metroTextBox37.TabIndex = 380;
             this.metroTextBox37.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel197
+            // lbl_r_sagen
             // 
-            this.metroLabel197.AutoSize = true;
-            this.metroLabel197.Location = new System.Drawing.Point(952, 313);
-            this.metroLabel197.Name = "metroLabel197";
-            this.metroLabel197.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel197.TabIndex = 379;
-            this.metroLabel197.Text = "-";
+            this.lbl_r_sagen.AutoSize = true;
+            this.lbl_r_sagen.Location = new System.Drawing.Point(952, 313);
+            this.lbl_r_sagen.Name = "lbl_r_sagen";
+            this.lbl_r_sagen.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_sagen.TabIndex = 379;
+            this.lbl_r_sagen.Text = "-";
             // 
             // metroLabel198
             // 
@@ -2878,12 +2878,12 @@
             this.metroLabel201.TabIndex = 375;
             this.metroLabel201.Text = "Sagen && Legenden";
             // 
-            // numericUpDown45
+            // nud_rechtskunde
             // 
-            this.numericUpDown45.Location = new System.Drawing.Point(899, 287);
-            this.numericUpDown45.Name = "numericUpDown45";
-            this.numericUpDown45.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown45.TabIndex = 374;
+            this.nud_rechtskunde.Location = new System.Drawing.Point(899, 287);
+            this.nud_rechtskunde.Name = "nud_rechtskunde";
+            this.nud_rechtskunde.Size = new System.Drawing.Size(47, 20);
+            this.nud_rechtskunde.TabIndex = 374;
             // 
             // metroTextBox38
             // 
@@ -2893,14 +2893,14 @@
             this.metroTextBox38.TabIndex = 373;
             this.metroTextBox38.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel202
+            // lbl_r_rechtskunde
             // 
-            this.metroLabel202.AutoSize = true;
-            this.metroLabel202.Location = new System.Drawing.Point(952, 287);
-            this.metroLabel202.Name = "metroLabel202";
-            this.metroLabel202.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel202.TabIndex = 372;
-            this.metroLabel202.Text = "-";
+            this.lbl_r_rechtskunde.AutoSize = true;
+            this.lbl_r_rechtskunde.Location = new System.Drawing.Point(952, 287);
+            this.lbl_r_rechtskunde.Name = "lbl_r_rechtskunde";
+            this.lbl_r_rechtskunde.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_rechtskunde.TabIndex = 372;
+            this.lbl_r_rechtskunde.Text = "-";
             // 
             // metroLabel203
             // 
@@ -2938,12 +2938,12 @@
             this.metroLabel206.TabIndex = 368;
             this.metroLabel206.Text = "Rechtskunde";
             // 
-            // numericUpDown46
+            // nud_mechanik
             // 
-            this.numericUpDown46.Location = new System.Drawing.Point(899, 261);
-            this.numericUpDown46.Name = "numericUpDown46";
-            this.numericUpDown46.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown46.TabIndex = 367;
+            this.nud_mechanik.Location = new System.Drawing.Point(899, 261);
+            this.nud_mechanik.Name = "nud_mechanik";
+            this.nud_mechanik.Size = new System.Drawing.Size(47, 20);
+            this.nud_mechanik.TabIndex = 367;
             // 
             // metroTextBox39
             // 
@@ -2953,14 +2953,14 @@
             this.metroTextBox39.TabIndex = 366;
             this.metroTextBox39.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel207
+            // lbl_r_machanik
             // 
-            this.metroLabel207.AutoSize = true;
-            this.metroLabel207.Location = new System.Drawing.Point(952, 261);
-            this.metroLabel207.Name = "metroLabel207";
-            this.metroLabel207.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel207.TabIndex = 365;
-            this.metroLabel207.Text = "-";
+            this.lbl_r_machanik.AutoSize = true;
+            this.lbl_r_machanik.Location = new System.Drawing.Point(952, 261);
+            this.lbl_r_machanik.Name = "lbl_r_machanik";
+            this.lbl_r_machanik.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_machanik.TabIndex = 365;
+            this.lbl_r_machanik.Text = "-";
             // 
             // metroLabel208
             // 
@@ -2998,12 +2998,12 @@
             this.metroLabel211.TabIndex = 361;
             this.metroLabel211.Text = "Mechanik";
             // 
-            // numericUpDown47
+            // nud_magiekunde
             // 
-            this.numericUpDown47.Location = new System.Drawing.Point(899, 235);
-            this.numericUpDown47.Name = "numericUpDown47";
-            this.numericUpDown47.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown47.TabIndex = 360;
+            this.nud_magiekunde.Location = new System.Drawing.Point(899, 235);
+            this.nud_magiekunde.Name = "nud_magiekunde";
+            this.nud_magiekunde.Size = new System.Drawing.Size(47, 20);
+            this.nud_magiekunde.TabIndex = 360;
             // 
             // metroTextBox40
             // 
@@ -3013,14 +3013,14 @@
             this.metroTextBox40.TabIndex = 359;
             this.metroTextBox40.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel212
+            // lbl_r_magiekunde
             // 
-            this.metroLabel212.AutoSize = true;
-            this.metroLabel212.Location = new System.Drawing.Point(952, 235);
-            this.metroLabel212.Name = "metroLabel212";
-            this.metroLabel212.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel212.TabIndex = 358;
-            this.metroLabel212.Text = "-";
+            this.lbl_r_magiekunde.AutoSize = true;
+            this.lbl_r_magiekunde.Location = new System.Drawing.Point(952, 235);
+            this.lbl_r_magiekunde.Name = "lbl_r_magiekunde";
+            this.lbl_r_magiekunde.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_magiekunde.TabIndex = 358;
+            this.lbl_r_magiekunde.Text = "-";
             // 
             // metroLabel213
             // 
@@ -3058,12 +3058,12 @@
             this.metroLabel216.TabIndex = 354;
             this.metroLabel216.Text = "Magiekunde";
             // 
-            // numericUpDown48
+            // nud_kriegskunst
             // 
-            this.numericUpDown48.Location = new System.Drawing.Point(899, 209);
-            this.numericUpDown48.Name = "numericUpDown48";
-            this.numericUpDown48.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown48.TabIndex = 353;
+            this.nud_kriegskunst.Location = new System.Drawing.Point(899, 209);
+            this.nud_kriegskunst.Name = "nud_kriegskunst";
+            this.nud_kriegskunst.Size = new System.Drawing.Size(47, 20);
+            this.nud_kriegskunst.TabIndex = 353;
             // 
             // metroTextBox41
             // 
@@ -3073,14 +3073,14 @@
             this.metroTextBox41.TabIndex = 352;
             this.metroTextBox41.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel217
+            // lbl_r_kriegskunst
             // 
-            this.metroLabel217.AutoSize = true;
-            this.metroLabel217.Location = new System.Drawing.Point(952, 209);
-            this.metroLabel217.Name = "metroLabel217";
-            this.metroLabel217.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel217.TabIndex = 351;
-            this.metroLabel217.Text = "-";
+            this.lbl_r_kriegskunst.AutoSize = true;
+            this.lbl_r_kriegskunst.Location = new System.Drawing.Point(952, 209);
+            this.lbl_r_kriegskunst.Name = "lbl_r_kriegskunst";
+            this.lbl_r_kriegskunst.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_kriegskunst.TabIndex = 351;
+            this.lbl_r_kriegskunst.Text = "-";
             // 
             // metroLabel218
             // 
@@ -3118,12 +3118,12 @@
             this.metroLabel221.TabIndex = 347;
             this.metroLabel221.Text = "Kriegskunst";
             // 
-            // numericUpDown49
+            // nud_göttern
             // 
-            this.numericUpDown49.Location = new System.Drawing.Point(899, 183);
-            this.numericUpDown49.Name = "numericUpDown49";
-            this.numericUpDown49.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown49.TabIndex = 346;
+            this.nud_göttern.Location = new System.Drawing.Point(899, 183);
+            this.nud_göttern.Name = "nud_göttern";
+            this.nud_göttern.Size = new System.Drawing.Size(47, 20);
+            this.nud_göttern.TabIndex = 346;
             // 
             // metroTextBox42
             // 
@@ -3133,14 +3133,14 @@
             this.metroTextBox42.TabIndex = 345;
             this.metroTextBox42.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel222
+            // lbl_r_götter
             // 
-            this.metroLabel222.AutoSize = true;
-            this.metroLabel222.Location = new System.Drawing.Point(952, 183);
-            this.metroLabel222.Name = "metroLabel222";
-            this.metroLabel222.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel222.TabIndex = 344;
-            this.metroLabel222.Text = "-";
+            this.lbl_r_götter.AutoSize = true;
+            this.lbl_r_götter.Location = new System.Drawing.Point(952, 183);
+            this.lbl_r_götter.Name = "lbl_r_götter";
+            this.lbl_r_götter.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_götter.TabIndex = 344;
+            this.lbl_r_götter.Text = "-";
             // 
             // metroLabel223
             // 
@@ -3178,12 +3178,12 @@
             this.metroLabel226.TabIndex = 340;
             this.metroLabel226.Text = "Götter && Kulte";
             // 
-            // numericUpDown50
+            // nud_geschichtswissen
             // 
-            this.numericUpDown50.Location = new System.Drawing.Point(899, 157);
-            this.numericUpDown50.Name = "numericUpDown50";
-            this.numericUpDown50.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown50.TabIndex = 339;
+            this.nud_geschichtswissen.Location = new System.Drawing.Point(899, 157);
+            this.nud_geschichtswissen.Name = "nud_geschichtswissen";
+            this.nud_geschichtswissen.Size = new System.Drawing.Size(47, 20);
+            this.nud_geschichtswissen.TabIndex = 339;
             // 
             // metroTextBox43
             // 
@@ -3193,14 +3193,14 @@
             this.metroTextBox43.TabIndex = 338;
             this.metroTextBox43.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel227
+            // lbl_r_geschichtswissen
             // 
-            this.metroLabel227.AutoSize = true;
-            this.metroLabel227.Location = new System.Drawing.Point(952, 157);
-            this.metroLabel227.Name = "metroLabel227";
-            this.metroLabel227.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel227.TabIndex = 337;
-            this.metroLabel227.Text = "-";
+            this.lbl_r_geschichtswissen.AutoSize = true;
+            this.lbl_r_geschichtswissen.Location = new System.Drawing.Point(952, 157);
+            this.lbl_r_geschichtswissen.Name = "lbl_r_geschichtswissen";
+            this.lbl_r_geschichtswissen.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_geschichtswissen.TabIndex = 337;
+            this.lbl_r_geschichtswissen.Text = "-";
             // 
             // metroLabel228
             // 
@@ -3238,12 +3238,12 @@
             this.metroLabel231.TabIndex = 333;
             this.metroLabel231.Text = "Geschichtswissen";
             // 
-            // numericUpDown51
+            // nud_geographie
             // 
-            this.numericUpDown51.Location = new System.Drawing.Point(899, 131);
-            this.numericUpDown51.Name = "numericUpDown51";
-            this.numericUpDown51.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown51.TabIndex = 332;
+            this.nud_geographie.Location = new System.Drawing.Point(899, 131);
+            this.nud_geographie.Name = "nud_geographie";
+            this.nud_geographie.Size = new System.Drawing.Size(47, 20);
+            this.nud_geographie.TabIndex = 332;
             // 
             // metroTextBox44
             // 
@@ -3253,14 +3253,14 @@
             this.metroTextBox44.TabIndex = 331;
             this.metroTextBox44.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel232
+            // lbl_r_geographie
             // 
-            this.metroLabel232.AutoSize = true;
-            this.metroLabel232.Location = new System.Drawing.Point(952, 131);
-            this.metroLabel232.Name = "metroLabel232";
-            this.metroLabel232.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel232.TabIndex = 330;
-            this.metroLabel232.Text = "-";
+            this.lbl_r_geographie.AutoSize = true;
+            this.lbl_r_geographie.Location = new System.Drawing.Point(952, 131);
+            this.lbl_r_geographie.Name = "lbl_r_geographie";
+            this.lbl_r_geographie.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_geographie.TabIndex = 330;
+            this.lbl_r_geographie.Text = "-";
             // 
             // metroLabel233
             // 
@@ -3298,12 +3298,12 @@
             this.metroLabel236.TabIndex = 326;
             this.metroLabel236.Text = "Geograpie";
             // 
-            // numericUpDown52
+            // nud_brett
             // 
-            this.numericUpDown52.Location = new System.Drawing.Point(899, 105);
-            this.numericUpDown52.Name = "numericUpDown52";
-            this.numericUpDown52.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown52.TabIndex = 325;
+            this.nud_brett.Location = new System.Drawing.Point(899, 105);
+            this.nud_brett.Name = "nud_brett";
+            this.nud_brett.Size = new System.Drawing.Size(47, 20);
+            this.nud_brett.TabIndex = 325;
             // 
             // metroTextBox45
             // 
@@ -3313,14 +3313,14 @@
             this.metroTextBox45.TabIndex = 324;
             this.metroTextBox45.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel237
+            // lbl_r_brett
             // 
-            this.metroLabel237.AutoSize = true;
-            this.metroLabel237.Location = new System.Drawing.Point(952, 105);
-            this.metroLabel237.Name = "metroLabel237";
-            this.metroLabel237.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel237.TabIndex = 323;
-            this.metroLabel237.Text = "-";
+            this.lbl_r_brett.AutoSize = true;
+            this.lbl_r_brett.Location = new System.Drawing.Point(952, 105);
+            this.lbl_r_brett.Name = "lbl_r_brett";
+            this.lbl_r_brett.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_brett.TabIndex = 323;
+            this.lbl_r_brett.Text = "-";
             // 
             // metroLabel238
             // 
@@ -3466,12 +3466,12 @@
             this.metroLabel173.TabIndex = 396;
             this.metroLabel173.Text = "Handwerkstalente";
             // 
-            // numericUpDown39
+            // nud_lederbearbeitung
             // 
-            this.numericUpDown39.Location = new System.Drawing.Point(899, 677);
-            this.numericUpDown39.Name = "numericUpDown39";
-            this.numericUpDown39.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown39.TabIndex = 474;
+            this.nud_lederbearbeitung.Location = new System.Drawing.Point(899, 677);
+            this.nud_lederbearbeitung.Name = "nud_lederbearbeitung";
+            this.nud_lederbearbeitung.Size = new System.Drawing.Size(47, 20);
+            this.nud_lederbearbeitung.TabIndex = 474;
             // 
             // metroTextBox32
             // 
@@ -3481,14 +3481,14 @@
             this.metroTextBox32.TabIndex = 473;
             this.metroTextBox32.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel174
+            // lbl_r_lederbearbeitung
             // 
-            this.metroLabel174.AutoSize = true;
-            this.metroLabel174.Location = new System.Drawing.Point(952, 677);
-            this.metroLabel174.Name = "metroLabel174";
-            this.metroLabel174.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel174.TabIndex = 472;
-            this.metroLabel174.Text = "-";
+            this.lbl_r_lederbearbeitung.AutoSize = true;
+            this.lbl_r_lederbearbeitung.Location = new System.Drawing.Point(952, 677);
+            this.lbl_r_lederbearbeitung.Name = "lbl_r_lederbearbeitung";
+            this.lbl_r_lederbearbeitung.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_lederbearbeitung.TabIndex = 472;
+            this.lbl_r_lederbearbeitung.Text = "-";
             // 
             // metroLabel175
             // 
@@ -3526,12 +3526,12 @@
             this.metroLabel178.TabIndex = 468;
             this.metroLabel178.Text = "Lederbearbeitung";
             // 
-            // numericUpDown40
+            // nud_lebensmittel
             // 
-            this.numericUpDown40.Location = new System.Drawing.Point(899, 651);
-            this.numericUpDown40.Name = "numericUpDown40";
-            this.numericUpDown40.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown40.TabIndex = 467;
+            this.nud_lebensmittel.Location = new System.Drawing.Point(899, 651);
+            this.nud_lebensmittel.Name = "nud_lebensmittel";
+            this.nud_lebensmittel.Size = new System.Drawing.Size(47, 20);
+            this.nud_lebensmittel.TabIndex = 467;
             // 
             // metroTextBox33
             // 
@@ -3541,14 +3541,14 @@
             this.metroTextBox33.TabIndex = 466;
             this.metroTextBox33.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel179
+            // lbl_r_lebensmittel
             // 
-            this.metroLabel179.AutoSize = true;
-            this.metroLabel179.Location = new System.Drawing.Point(952, 651);
-            this.metroLabel179.Name = "metroLabel179";
-            this.metroLabel179.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel179.TabIndex = 465;
-            this.metroLabel179.Text = "-";
+            this.lbl_r_lebensmittel.AutoSize = true;
+            this.lbl_r_lebensmittel.Location = new System.Drawing.Point(952, 651);
+            this.lbl_r_lebensmittel.Name = "lbl_r_lebensmittel";
+            this.lbl_r_lebensmittel.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_lebensmittel.TabIndex = 465;
+            this.lbl_r_lebensmittel.Text = "-";
             // 
             // metroLabel180
             // 
@@ -3586,12 +3586,12 @@
             this.metroLabel183.TabIndex = 461;
             this.metroLabel183.Text = "Lebensmittelbearbeitung";
             // 
-            // numericUpDown41
+            // nud_holzbearbeitung
             // 
-            this.numericUpDown41.Location = new System.Drawing.Point(899, 625);
-            this.numericUpDown41.Name = "numericUpDown41";
-            this.numericUpDown41.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown41.TabIndex = 460;
+            this.nud_holzbearbeitung.Location = new System.Drawing.Point(899, 625);
+            this.nud_holzbearbeitung.Name = "nud_holzbearbeitung";
+            this.nud_holzbearbeitung.Size = new System.Drawing.Size(47, 20);
+            this.nud_holzbearbeitung.TabIndex = 460;
             // 
             // metroTextBox34
             // 
@@ -3601,14 +3601,14 @@
             this.metroTextBox34.TabIndex = 459;
             this.metroTextBox34.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel184
+            // lbl_r_holzbearbeitung
             // 
-            this.metroLabel184.AutoSize = true;
-            this.metroLabel184.Location = new System.Drawing.Point(952, 625);
-            this.metroLabel184.Name = "metroLabel184";
-            this.metroLabel184.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel184.TabIndex = 458;
-            this.metroLabel184.Text = "-";
+            this.lbl_r_holzbearbeitung.AutoSize = true;
+            this.lbl_r_holzbearbeitung.Location = new System.Drawing.Point(952, 625);
+            this.lbl_r_holzbearbeitung.Name = "lbl_r_holzbearbeitung";
+            this.lbl_r_holzbearbeitung.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_holzbearbeitung.TabIndex = 458;
+            this.lbl_r_holzbearbeitung.Text = "-";
             // 
             // metroLabel185
             // 
@@ -3646,12 +3646,12 @@
             this.metroLabel252.TabIndex = 454;
             this.metroLabel252.Text = "Holzbearbeitung";
             // 
-            // numericUpDown53
+            // nud_heilwunden
             // 
-            this.numericUpDown53.Location = new System.Drawing.Point(899, 599);
-            this.numericUpDown53.Name = "numericUpDown53";
-            this.numericUpDown53.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown53.TabIndex = 453;
+            this.nud_heilwunden.Location = new System.Drawing.Point(899, 599);
+            this.nud_heilwunden.Name = "nud_heilwunden";
+            this.nud_heilwunden.Size = new System.Drawing.Size(47, 20);
+            this.nud_heilwunden.TabIndex = 453;
             // 
             // metroTextBox46
             // 
@@ -3661,14 +3661,14 @@
             this.metroTextBox46.TabIndex = 452;
             this.metroTextBox46.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel253
+            // lbl_r_heilwunden
             // 
-            this.metroLabel253.AutoSize = true;
-            this.metroLabel253.Location = new System.Drawing.Point(952, 599);
-            this.metroLabel253.Name = "metroLabel253";
-            this.metroLabel253.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel253.TabIndex = 451;
-            this.metroLabel253.Text = "-";
+            this.lbl_r_heilwunden.AutoSize = true;
+            this.lbl_r_heilwunden.Location = new System.Drawing.Point(952, 599);
+            this.lbl_r_heilwunden.Name = "lbl_r_heilwunden";
+            this.lbl_r_heilwunden.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_heilwunden.TabIndex = 451;
+            this.lbl_r_heilwunden.Text = "-";
             // 
             // metroLabel254
             // 
@@ -3706,12 +3706,12 @@
             this.metroLabel257.TabIndex = 447;
             this.metroLabel257.Text = "Heilkunde Wunden";
             // 
-            // numericUpDown54
+            // nud_heilseele
             // 
-            this.numericUpDown54.Location = new System.Drawing.Point(899, 573);
-            this.numericUpDown54.Name = "numericUpDown54";
-            this.numericUpDown54.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown54.TabIndex = 446;
+            this.nud_heilseele.Location = new System.Drawing.Point(899, 573);
+            this.nud_heilseele.Name = "nud_heilseele";
+            this.nud_heilseele.Size = new System.Drawing.Size(47, 20);
+            this.nud_heilseele.TabIndex = 446;
             // 
             // metroTextBox47
             // 
@@ -3721,14 +3721,14 @@
             this.metroTextBox47.TabIndex = 445;
             this.metroTextBox47.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel258
+            // lbl_r_heilseele
             // 
-            this.metroLabel258.AutoSize = true;
-            this.metroLabel258.Location = new System.Drawing.Point(952, 573);
-            this.metroLabel258.Name = "metroLabel258";
-            this.metroLabel258.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel258.TabIndex = 444;
-            this.metroLabel258.Text = "-";
+            this.lbl_r_heilseele.AutoSize = true;
+            this.lbl_r_heilseele.Location = new System.Drawing.Point(952, 573);
+            this.lbl_r_heilseele.Name = "lbl_r_heilseele";
+            this.lbl_r_heilseele.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_heilseele.TabIndex = 444;
+            this.lbl_r_heilseele.Text = "-";
             // 
             // metroLabel259
             // 
@@ -3766,12 +3766,12 @@
             this.metroLabel262.TabIndex = 440;
             this.metroLabel262.Text = "Heilkunde Seele";
             // 
-            // numericUpDown55
+            // nud_heilkrank
             // 
-            this.numericUpDown55.Location = new System.Drawing.Point(899, 547);
-            this.numericUpDown55.Name = "numericUpDown55";
-            this.numericUpDown55.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown55.TabIndex = 439;
+            this.nud_heilkrank.Location = new System.Drawing.Point(899, 547);
+            this.nud_heilkrank.Name = "nud_heilkrank";
+            this.nud_heilkrank.Size = new System.Drawing.Size(47, 20);
+            this.nud_heilkrank.TabIndex = 439;
             // 
             // metroTextBox48
             // 
@@ -3781,14 +3781,14 @@
             this.metroTextBox48.TabIndex = 438;
             this.metroTextBox48.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel263
+            // lbl_r_heilkrank
             // 
-            this.metroLabel263.AutoSize = true;
-            this.metroLabel263.Location = new System.Drawing.Point(952, 547);
-            this.metroLabel263.Name = "metroLabel263";
-            this.metroLabel263.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel263.TabIndex = 437;
-            this.metroLabel263.Text = "-";
+            this.lbl_r_heilkrank.AutoSize = true;
+            this.lbl_r_heilkrank.Location = new System.Drawing.Point(952, 547);
+            this.lbl_r_heilkrank.Name = "lbl_r_heilkrank";
+            this.lbl_r_heilkrank.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_heilkrank.TabIndex = 437;
+            this.lbl_r_heilkrank.Text = "-";
             // 
             // metroLabel264
             // 
@@ -3826,12 +3826,12 @@
             this.metroLabel267.TabIndex = 433;
             this.metroLabel267.Text = "Heilkunde Krankheiten";
             // 
-            // numericUpDown56
+            // nud_heilgift
             // 
-            this.numericUpDown56.Location = new System.Drawing.Point(899, 521);
-            this.numericUpDown56.Name = "numericUpDown56";
-            this.numericUpDown56.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown56.TabIndex = 432;
+            this.nud_heilgift.Location = new System.Drawing.Point(899, 521);
+            this.nud_heilgift.Name = "nud_heilgift";
+            this.nud_heilgift.Size = new System.Drawing.Size(47, 20);
+            this.nud_heilgift.TabIndex = 432;
             // 
             // metroTextBox49
             // 
@@ -3841,14 +3841,14 @@
             this.metroTextBox49.TabIndex = 431;
             this.metroTextBox49.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel268
+            // lbl_r_heilgift
             // 
-            this.metroLabel268.AutoSize = true;
-            this.metroLabel268.Location = new System.Drawing.Point(952, 521);
-            this.metroLabel268.Name = "metroLabel268";
-            this.metroLabel268.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel268.TabIndex = 430;
-            this.metroLabel268.Text = "-";
+            this.lbl_r_heilgift.AutoSize = true;
+            this.lbl_r_heilgift.Location = new System.Drawing.Point(952, 521);
+            this.lbl_r_heilgift.Name = "lbl_r_heilgift";
+            this.lbl_r_heilgift.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_heilgift.TabIndex = 430;
+            this.lbl_r_heilgift.Text = "-";
             // 
             // metroLabel269
             // 
@@ -3886,12 +3886,12 @@
             this.metroLabel272.TabIndex = 426;
             this.metroLabel272.Text = "Heilkunde Gift";
             // 
-            // numericUpDown57
+            // nud_handel
             // 
-            this.numericUpDown57.Location = new System.Drawing.Point(899, 495);
-            this.numericUpDown57.Name = "numericUpDown57";
-            this.numericUpDown57.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown57.TabIndex = 425;
+            this.nud_handel.Location = new System.Drawing.Point(899, 495);
+            this.nud_handel.Name = "nud_handel";
+            this.nud_handel.Size = new System.Drawing.Size(47, 20);
+            this.nud_handel.TabIndex = 425;
             // 
             // metroTextBox50
             // 
@@ -3901,14 +3901,14 @@
             this.metroTextBox50.TabIndex = 424;
             this.metroTextBox50.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel273
+            // lbl_r_handel
             // 
-            this.metroLabel273.AutoSize = true;
-            this.metroLabel273.Location = new System.Drawing.Point(952, 495);
-            this.metroLabel273.Name = "metroLabel273";
-            this.metroLabel273.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel273.TabIndex = 423;
-            this.metroLabel273.Text = "-";
+            this.lbl_r_handel.AutoSize = true;
+            this.lbl_r_handel.Location = new System.Drawing.Point(952, 495);
+            this.lbl_r_handel.Name = "lbl_r_handel";
+            this.lbl_r_handel.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_handel.TabIndex = 423;
+            this.lbl_r_handel.Text = "-";
             // 
             // metroLabel274
             // 
@@ -3946,12 +3946,12 @@
             this.metroLabel277.TabIndex = 419;
             this.metroLabel277.Text = "Handel";
             // 
-            // numericUpDown58
+            // nud_fahrzeuge
             // 
-            this.numericUpDown58.Location = new System.Drawing.Point(899, 469);
-            this.numericUpDown58.Name = "numericUpDown58";
-            this.numericUpDown58.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown58.TabIndex = 418;
+            this.nud_fahrzeuge.Location = new System.Drawing.Point(899, 469);
+            this.nud_fahrzeuge.Name = "nud_fahrzeuge";
+            this.nud_fahrzeuge.Size = new System.Drawing.Size(47, 20);
+            this.nud_fahrzeuge.TabIndex = 418;
             // 
             // metroTextBox51
             // 
@@ -3961,14 +3961,14 @@
             this.metroTextBox51.TabIndex = 417;
             this.metroTextBox51.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel278
+            // lbl_r_fahrzeuge
             // 
-            this.metroLabel278.AutoSize = true;
-            this.metroLabel278.Location = new System.Drawing.Point(952, 469);
-            this.metroLabel278.Name = "metroLabel278";
-            this.metroLabel278.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel278.TabIndex = 416;
-            this.metroLabel278.Text = "-";
+            this.lbl_r_fahrzeuge.AutoSize = true;
+            this.lbl_r_fahrzeuge.Location = new System.Drawing.Point(952, 469);
+            this.lbl_r_fahrzeuge.Name = "lbl_r_fahrzeuge";
+            this.lbl_r_fahrzeuge.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_fahrzeuge.TabIndex = 416;
+            this.lbl_r_fahrzeuge.Text = "-";
             // 
             // metroLabel279
             // 
@@ -4006,12 +4006,12 @@
             this.metroLabel282.TabIndex = 412;
             this.metroLabel282.Text = "Fahrzeuge";
             // 
-            // numericUpDown59
+            // nud_boote
             // 
-            this.numericUpDown59.Location = new System.Drawing.Point(899, 443);
-            this.numericUpDown59.Name = "numericUpDown59";
-            this.numericUpDown59.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown59.TabIndex = 411;
+            this.nud_boote.Location = new System.Drawing.Point(899, 443);
+            this.nud_boote.Name = "nud_boote";
+            this.nud_boote.Size = new System.Drawing.Size(47, 20);
+            this.nud_boote.TabIndex = 411;
             // 
             // metroTextBox52
             // 
@@ -4021,14 +4021,14 @@
             this.metroTextBox52.TabIndex = 410;
             this.metroTextBox52.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel283
+            // lbl_r_boote
             // 
-            this.metroLabel283.AutoSize = true;
-            this.metroLabel283.Location = new System.Drawing.Point(952, 443);
-            this.metroLabel283.Name = "metroLabel283";
-            this.metroLabel283.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel283.TabIndex = 409;
-            this.metroLabel283.Text = "-";
+            this.lbl_r_boote.AutoSize = true;
+            this.lbl_r_boote.Location = new System.Drawing.Point(952, 443);
+            this.lbl_r_boote.Name = "lbl_r_boote";
+            this.lbl_r_boote.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_boote.TabIndex = 409;
+            this.lbl_r_boote.Text = "-";
             // 
             // metroLabel284
             // 
@@ -4066,12 +4066,12 @@
             this.metroLabel287.TabIndex = 405;
             this.metroLabel287.Text = "Boote && Schiffe";
             // 
-            // numericUpDown60
+            // nud_alchimie
             // 
-            this.numericUpDown60.Location = new System.Drawing.Point(899, 417);
-            this.numericUpDown60.Name = "numericUpDown60";
-            this.numericUpDown60.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown60.TabIndex = 404;
+            this.nud_alchimie.Location = new System.Drawing.Point(899, 417);
+            this.nud_alchimie.Name = "nud_alchimie";
+            this.nud_alchimie.Size = new System.Drawing.Size(47, 20);
+            this.nud_alchimie.TabIndex = 404;
             // 
             // metroTextBox53
             // 
@@ -4081,14 +4081,14 @@
             this.metroTextBox53.TabIndex = 403;
             this.metroTextBox53.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel288
+            // lbl_r_alchimie
             // 
-            this.metroLabel288.AutoSize = true;
-            this.metroLabel288.Location = new System.Drawing.Point(952, 417);
-            this.metroLabel288.Name = "metroLabel288";
-            this.metroLabel288.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel288.TabIndex = 402;
-            this.metroLabel288.Text = "-";
+            this.lbl_r_alchimie.AutoSize = true;
+            this.lbl_r_alchimie.Location = new System.Drawing.Point(952, 417);
+            this.lbl_r_alchimie.Name = "lbl_r_alchimie";
+            this.lbl_r_alchimie.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_alchimie.TabIndex = 402;
+            this.lbl_r_alchimie.Text = "-";
             // 
             // metroLabel289
             // 
@@ -4126,12 +4126,12 @@
             this.metroLabel292.TabIndex = 398;
             this.metroLabel292.Text = "Alchimie";
             // 
-            // numericUpDown66
+            // nud_stoffbearbeitung
             // 
-            this.numericUpDown66.Location = new System.Drawing.Point(899, 834);
-            this.numericUpDown66.Name = "numericUpDown66";
-            this.numericUpDown66.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown66.TabIndex = 516;
+            this.nud_stoffbearbeitung.Location = new System.Drawing.Point(899, 834);
+            this.nud_stoffbearbeitung.Name = "nud_stoffbearbeitung";
+            this.nud_stoffbearbeitung.Size = new System.Drawing.Size(47, 20);
+            this.nud_stoffbearbeitung.TabIndex = 516;
             // 
             // metroTextBox59
             // 
@@ -4141,14 +4141,14 @@
             this.metroTextBox59.TabIndex = 515;
             this.metroTextBox59.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel318
+            // lbl_r_stoffbearbeitung
             // 
-            this.metroLabel318.AutoSize = true;
-            this.metroLabel318.Location = new System.Drawing.Point(952, 834);
-            this.metroLabel318.Name = "metroLabel318";
-            this.metroLabel318.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel318.TabIndex = 514;
-            this.metroLabel318.Text = "-";
+            this.lbl_r_stoffbearbeitung.AutoSize = true;
+            this.lbl_r_stoffbearbeitung.Location = new System.Drawing.Point(952, 834);
+            this.lbl_r_stoffbearbeitung.Name = "lbl_r_stoffbearbeitung";
+            this.lbl_r_stoffbearbeitung.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_stoffbearbeitung.TabIndex = 514;
+            this.lbl_r_stoffbearbeitung.Text = "-";
             // 
             // metroLabel319
             // 
@@ -4186,12 +4186,12 @@
             this.metroLabel322.TabIndex = 510;
             this.metroLabel322.Text = "Stoffbearbeitung";
             // 
-            // numericUpDown67
+            // nud_steinbearbeitung
             // 
-            this.numericUpDown67.Location = new System.Drawing.Point(899, 808);
-            this.numericUpDown67.Name = "numericUpDown67";
-            this.numericUpDown67.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown67.TabIndex = 509;
+            this.nud_steinbearbeitung.Location = new System.Drawing.Point(899, 808);
+            this.nud_steinbearbeitung.Name = "nud_steinbearbeitung";
+            this.nud_steinbearbeitung.Size = new System.Drawing.Size(47, 20);
+            this.nud_steinbearbeitung.TabIndex = 509;
             // 
             // metroTextBox60
             // 
@@ -4201,14 +4201,14 @@
             this.metroTextBox60.TabIndex = 508;
             this.metroTextBox60.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel323
+            // lbl_r_steinbearbeitung
             // 
-            this.metroLabel323.AutoSize = true;
-            this.metroLabel323.Location = new System.Drawing.Point(952, 808);
-            this.metroLabel323.Name = "metroLabel323";
-            this.metroLabel323.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel323.TabIndex = 507;
-            this.metroLabel323.Text = "-";
+            this.lbl_r_steinbearbeitung.AutoSize = true;
+            this.lbl_r_steinbearbeitung.Location = new System.Drawing.Point(952, 808);
+            this.lbl_r_steinbearbeitung.Name = "lbl_r_steinbearbeitung";
+            this.lbl_r_steinbearbeitung.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_steinbearbeitung.TabIndex = 507;
+            this.lbl_r_steinbearbeitung.Text = "-";
             // 
             // metroLabel324
             // 
@@ -4246,12 +4246,12 @@
             this.metroLabel327.TabIndex = 503;
             this.metroLabel327.Text = "Steinbearbeitung";
             // 
-            // numericUpDown68
+            // nud_schlösserknacken
             // 
-            this.numericUpDown68.Location = new System.Drawing.Point(899, 782);
-            this.numericUpDown68.Name = "numericUpDown68";
-            this.numericUpDown68.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown68.TabIndex = 502;
+            this.nud_schlösserknacken.Location = new System.Drawing.Point(899, 782);
+            this.nud_schlösserknacken.Name = "nud_schlösserknacken";
+            this.nud_schlösserknacken.Size = new System.Drawing.Size(47, 20);
+            this.nud_schlösserknacken.TabIndex = 502;
             // 
             // metroTextBox61
             // 
@@ -4261,14 +4261,14 @@
             this.metroTextBox61.TabIndex = 501;
             this.metroTextBox61.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel328
+            // lbl_r_schlösserknacken
             // 
-            this.metroLabel328.AutoSize = true;
-            this.metroLabel328.Location = new System.Drawing.Point(952, 782);
-            this.metroLabel328.Name = "metroLabel328";
-            this.metroLabel328.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel328.TabIndex = 500;
-            this.metroLabel328.Text = "-";
+            this.lbl_r_schlösserknacken.AutoSize = true;
+            this.lbl_r_schlösserknacken.Location = new System.Drawing.Point(952, 782);
+            this.lbl_r_schlösserknacken.Name = "lbl_r_schlösserknacken";
+            this.lbl_r_schlösserknacken.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_schlösserknacken.TabIndex = 500;
+            this.lbl_r_schlösserknacken.Text = "-";
             // 
             // metroLabel329
             // 
@@ -4306,12 +4306,12 @@
             this.metroLabel332.TabIndex = 496;
             this.metroLabel332.Text = "Schlösserknacken";
             // 
-            // numericUpDown69
+            // nud_musizieren
             // 
-            this.numericUpDown69.Location = new System.Drawing.Point(899, 756);
-            this.numericUpDown69.Name = "numericUpDown69";
-            this.numericUpDown69.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown69.TabIndex = 495;
+            this.nud_musizieren.Location = new System.Drawing.Point(899, 756);
+            this.nud_musizieren.Name = "nud_musizieren";
+            this.nud_musizieren.Size = new System.Drawing.Size(47, 20);
+            this.nud_musizieren.TabIndex = 495;
             // 
             // metroTextBox62
             // 
@@ -4321,14 +4321,14 @@
             this.metroTextBox62.TabIndex = 494;
             this.metroTextBox62.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel333
+            // lbl_r_musizieren
             // 
-            this.metroLabel333.AutoSize = true;
-            this.metroLabel333.Location = new System.Drawing.Point(952, 756);
-            this.metroLabel333.Name = "metroLabel333";
-            this.metroLabel333.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel333.TabIndex = 493;
-            this.metroLabel333.Text = "-";
+            this.lbl_r_musizieren.AutoSize = true;
+            this.lbl_r_musizieren.Location = new System.Drawing.Point(952, 756);
+            this.lbl_r_musizieren.Name = "lbl_r_musizieren";
+            this.lbl_r_musizieren.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_musizieren.TabIndex = 493;
+            this.lbl_r_musizieren.Text = "-";
             // 
             // metroLabel334
             // 
@@ -4366,12 +4366,12 @@
             this.metroLabel337.TabIndex = 489;
             this.metroLabel337.Text = "Musizieren";
             // 
-            // numericUpDown70
+            // nud_metallbearbeitung
             // 
-            this.numericUpDown70.Location = new System.Drawing.Point(899, 730);
-            this.numericUpDown70.Name = "numericUpDown70";
-            this.numericUpDown70.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown70.TabIndex = 488;
+            this.nud_metallbearbeitung.Location = new System.Drawing.Point(899, 730);
+            this.nud_metallbearbeitung.Name = "nud_metallbearbeitung";
+            this.nud_metallbearbeitung.Size = new System.Drawing.Size(47, 20);
+            this.nud_metallbearbeitung.TabIndex = 488;
             // 
             // metroTextBox63
             // 
@@ -4381,14 +4381,14 @@
             this.metroTextBox63.TabIndex = 487;
             this.metroTextBox63.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel338
+            // lbl_r_metallbearbeitung
             // 
-            this.metroLabel338.AutoSize = true;
-            this.metroLabel338.Location = new System.Drawing.Point(952, 730);
-            this.metroLabel338.Name = "metroLabel338";
-            this.metroLabel338.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel338.TabIndex = 486;
-            this.metroLabel338.Text = "-";
+            this.lbl_r_metallbearbeitung.AutoSize = true;
+            this.lbl_r_metallbearbeitung.Location = new System.Drawing.Point(952, 730);
+            this.lbl_r_metallbearbeitung.Name = "lbl_r_metallbearbeitung";
+            this.lbl_r_metallbearbeitung.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_metallbearbeitung.TabIndex = 486;
+            this.lbl_r_metallbearbeitung.Text = "-";
             // 
             // metroLabel339
             // 
@@ -4426,12 +4426,12 @@
             this.metroLabel342.TabIndex = 482;
             this.metroLabel342.Text = "Metallbearbeitung";
             // 
-            // numericUpDown71
+            // nud_malen
             // 
-            this.numericUpDown71.Location = new System.Drawing.Point(899, 704);
-            this.numericUpDown71.Name = "numericUpDown71";
-            this.numericUpDown71.Size = new System.Drawing.Size(47, 20);
-            this.numericUpDown71.TabIndex = 481;
+            this.nud_malen.Location = new System.Drawing.Point(899, 704);
+            this.nud_malen.Name = "nud_malen";
+            this.nud_malen.Size = new System.Drawing.Size(47, 20);
+            this.nud_malen.TabIndex = 481;
             // 
             // metroTextBox64
             // 
@@ -4441,14 +4441,14 @@
             this.metroTextBox64.TabIndex = 480;
             this.metroTextBox64.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // metroLabel343
+            // lbl_r_malen
             // 
-            this.metroLabel343.AutoSize = true;
-            this.metroLabel343.Location = new System.Drawing.Point(952, 704);
-            this.metroLabel343.Name = "metroLabel343";
-            this.metroLabel343.Size = new System.Drawing.Size(15, 19);
-            this.metroLabel343.TabIndex = 479;
-            this.metroLabel343.Text = "-";
+            this.lbl_r_malen.AutoSize = true;
+            this.lbl_r_malen.Location = new System.Drawing.Point(952, 704);
+            this.lbl_r_malen.Name = "lbl_r_malen";
+            this.lbl_r_malen.Size = new System.Drawing.Size(15, 19);
+            this.lbl_r_malen.TabIndex = 479;
+            this.lbl_r_malen.Text = "-";
             // 
             // metroLabel344
             // 
@@ -4491,200 +4491,200 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1433, 1006);
-            this.Controls.Add(this.numericUpDown66);
+            this.Controls.Add(this.nud_stoffbearbeitung);
             this.Controls.Add(this.metroTextBox59);
-            this.Controls.Add(this.metroLabel318);
+            this.Controls.Add(this.lbl_r_stoffbearbeitung);
             this.Controls.Add(this.metroLabel319);
             this.Controls.Add(this.metroLabel320);
             this.Controls.Add(this.metroLabel321);
             this.Controls.Add(this.metroLabel322);
-            this.Controls.Add(this.numericUpDown67);
+            this.Controls.Add(this.nud_steinbearbeitung);
             this.Controls.Add(this.metroTextBox60);
-            this.Controls.Add(this.metroLabel323);
+            this.Controls.Add(this.lbl_r_steinbearbeitung);
             this.Controls.Add(this.metroLabel324);
             this.Controls.Add(this.metroLabel325);
             this.Controls.Add(this.metroLabel326);
             this.Controls.Add(this.metroLabel327);
-            this.Controls.Add(this.numericUpDown68);
+            this.Controls.Add(this.nud_schlösserknacken);
             this.Controls.Add(this.metroTextBox61);
-            this.Controls.Add(this.metroLabel328);
+            this.Controls.Add(this.lbl_r_schlösserknacken);
             this.Controls.Add(this.metroLabel329);
             this.Controls.Add(this.metroLabel330);
             this.Controls.Add(this.metroLabel331);
             this.Controls.Add(this.metroLabel332);
-            this.Controls.Add(this.numericUpDown69);
+            this.Controls.Add(this.nud_musizieren);
             this.Controls.Add(this.metroTextBox62);
-            this.Controls.Add(this.metroLabel333);
+            this.Controls.Add(this.lbl_r_musizieren);
             this.Controls.Add(this.metroLabel334);
             this.Controls.Add(this.metroLabel335);
             this.Controls.Add(this.metroLabel336);
             this.Controls.Add(this.metroLabel337);
-            this.Controls.Add(this.numericUpDown70);
+            this.Controls.Add(this.nud_metallbearbeitung);
             this.Controls.Add(this.metroTextBox63);
-            this.Controls.Add(this.metroLabel338);
+            this.Controls.Add(this.lbl_r_metallbearbeitung);
             this.Controls.Add(this.metroLabel339);
             this.Controls.Add(this.metroLabel340);
             this.Controls.Add(this.metroLabel341);
             this.Controls.Add(this.metroLabel342);
-            this.Controls.Add(this.numericUpDown71);
+            this.Controls.Add(this.nud_malen);
             this.Controls.Add(this.metroTextBox64);
-            this.Controls.Add(this.metroLabel343);
+            this.Controls.Add(this.lbl_r_malen);
             this.Controls.Add(this.metroLabel344);
             this.Controls.Add(this.metroLabel345);
             this.Controls.Add(this.metroLabel346);
             this.Controls.Add(this.metroLabel347);
-            this.Controls.Add(this.numericUpDown39);
+            this.Controls.Add(this.nud_lederbearbeitung);
             this.Controls.Add(this.metroTextBox32);
-            this.Controls.Add(this.metroLabel174);
+            this.Controls.Add(this.lbl_r_lederbearbeitung);
             this.Controls.Add(this.metroLabel175);
             this.Controls.Add(this.metroLabel176);
             this.Controls.Add(this.metroLabel177);
             this.Controls.Add(this.metroLabel178);
-            this.Controls.Add(this.numericUpDown40);
+            this.Controls.Add(this.nud_lebensmittel);
             this.Controls.Add(this.metroTextBox33);
-            this.Controls.Add(this.metroLabel179);
+            this.Controls.Add(this.lbl_r_lebensmittel);
             this.Controls.Add(this.metroLabel180);
             this.Controls.Add(this.metroLabel181);
             this.Controls.Add(this.metroLabel182);
             this.Controls.Add(this.metroLabel183);
-            this.Controls.Add(this.numericUpDown41);
+            this.Controls.Add(this.nud_holzbearbeitung);
             this.Controls.Add(this.metroTextBox34);
-            this.Controls.Add(this.metroLabel184);
+            this.Controls.Add(this.lbl_r_holzbearbeitung);
             this.Controls.Add(this.metroLabel185);
             this.Controls.Add(this.metroLabel186);
             this.Controls.Add(this.metroLabel251);
             this.Controls.Add(this.metroLabel252);
-            this.Controls.Add(this.numericUpDown53);
+            this.Controls.Add(this.nud_heilwunden);
             this.Controls.Add(this.metroTextBox46);
-            this.Controls.Add(this.metroLabel253);
+            this.Controls.Add(this.lbl_r_heilwunden);
             this.Controls.Add(this.metroLabel254);
             this.Controls.Add(this.metroLabel255);
             this.Controls.Add(this.metroLabel256);
             this.Controls.Add(this.metroLabel257);
-            this.Controls.Add(this.numericUpDown54);
+            this.Controls.Add(this.nud_heilseele);
             this.Controls.Add(this.metroTextBox47);
-            this.Controls.Add(this.metroLabel258);
+            this.Controls.Add(this.lbl_r_heilseele);
             this.Controls.Add(this.metroLabel259);
             this.Controls.Add(this.metroLabel260);
             this.Controls.Add(this.metroLabel261);
             this.Controls.Add(this.metroLabel262);
-            this.Controls.Add(this.numericUpDown55);
+            this.Controls.Add(this.nud_heilkrank);
             this.Controls.Add(this.metroTextBox48);
-            this.Controls.Add(this.metroLabel263);
+            this.Controls.Add(this.lbl_r_heilkrank);
             this.Controls.Add(this.metroLabel264);
             this.Controls.Add(this.metroLabel265);
             this.Controls.Add(this.metroLabel266);
             this.Controls.Add(this.metroLabel267);
-            this.Controls.Add(this.numericUpDown56);
+            this.Controls.Add(this.nud_heilgift);
             this.Controls.Add(this.metroTextBox49);
-            this.Controls.Add(this.metroLabel268);
+            this.Controls.Add(this.lbl_r_heilgift);
             this.Controls.Add(this.metroLabel269);
             this.Controls.Add(this.metroLabel270);
             this.Controls.Add(this.metroLabel271);
             this.Controls.Add(this.metroLabel272);
-            this.Controls.Add(this.numericUpDown57);
+            this.Controls.Add(this.nud_handel);
             this.Controls.Add(this.metroTextBox50);
-            this.Controls.Add(this.metroLabel273);
+            this.Controls.Add(this.lbl_r_handel);
             this.Controls.Add(this.metroLabel274);
             this.Controls.Add(this.metroLabel275);
             this.Controls.Add(this.metroLabel276);
             this.Controls.Add(this.metroLabel277);
-            this.Controls.Add(this.numericUpDown58);
+            this.Controls.Add(this.nud_fahrzeuge);
             this.Controls.Add(this.metroTextBox51);
-            this.Controls.Add(this.metroLabel278);
+            this.Controls.Add(this.lbl_r_fahrzeuge);
             this.Controls.Add(this.metroLabel279);
             this.Controls.Add(this.metroLabel280);
             this.Controls.Add(this.metroLabel281);
             this.Controls.Add(this.metroLabel282);
-            this.Controls.Add(this.numericUpDown59);
+            this.Controls.Add(this.nud_boote);
             this.Controls.Add(this.metroTextBox52);
-            this.Controls.Add(this.metroLabel283);
+            this.Controls.Add(this.lbl_r_boote);
             this.Controls.Add(this.metroLabel284);
             this.Controls.Add(this.metroLabel285);
             this.Controls.Add(this.metroLabel286);
             this.Controls.Add(this.metroLabel287);
-            this.Controls.Add(this.numericUpDown60);
+            this.Controls.Add(this.nud_alchimie);
             this.Controls.Add(this.metroTextBox53);
-            this.Controls.Add(this.metroLabel288);
+            this.Controls.Add(this.lbl_r_alchimie);
             this.Controls.Add(this.metroLabel289);
             this.Controls.Add(this.metroLabel290);
             this.Controls.Add(this.metroLabel291);
             this.Controls.Add(this.metroLabel292);
             this.Controls.Add(this.metroLabel172);
             this.Controls.Add(this.metroLabel173);
-            this.Controls.Add(this.numericUpDown42);
+            this.Controls.Add(this.nud_sternkunde);
             this.Controls.Add(this.metroTextBox35);
-            this.Controls.Add(this.metroLabel187);
+            this.Controls.Add(this.lbl_r_sternkunde);
             this.Controls.Add(this.metroLabel188);
             this.Controls.Add(this.metroLabel189);
             this.Controls.Add(this.metroLabel190);
             this.Controls.Add(this.metroLabel191);
-            this.Controls.Add(this.numericUpDown43);
+            this.Controls.Add(this.nud_sphären);
             this.Controls.Add(this.metroTextBox36);
-            this.Controls.Add(this.metroLabel192);
+            this.Controls.Add(this.lbl_r_spährenkunde);
             this.Controls.Add(this.metroLabel193);
             this.Controls.Add(this.metroLabel194);
             this.Controls.Add(this.metroLabel195);
             this.Controls.Add(this.metroLabel196);
-            this.Controls.Add(this.numericUpDown44);
+            this.Controls.Add(this.nud_sagen);
             this.Controls.Add(this.metroTextBox37);
-            this.Controls.Add(this.metroLabel197);
+            this.Controls.Add(this.lbl_r_sagen);
             this.Controls.Add(this.metroLabel198);
             this.Controls.Add(this.metroLabel199);
             this.Controls.Add(this.metroLabel200);
             this.Controls.Add(this.metroLabel201);
-            this.Controls.Add(this.numericUpDown45);
+            this.Controls.Add(this.nud_rechtskunde);
             this.Controls.Add(this.metroTextBox38);
-            this.Controls.Add(this.metroLabel202);
+            this.Controls.Add(this.lbl_r_rechtskunde);
             this.Controls.Add(this.metroLabel203);
             this.Controls.Add(this.metroLabel204);
             this.Controls.Add(this.metroLabel205);
             this.Controls.Add(this.metroLabel206);
-            this.Controls.Add(this.numericUpDown46);
+            this.Controls.Add(this.nud_mechanik);
             this.Controls.Add(this.metroTextBox39);
-            this.Controls.Add(this.metroLabel207);
+            this.Controls.Add(this.lbl_r_machanik);
             this.Controls.Add(this.metroLabel208);
             this.Controls.Add(this.metroLabel209);
             this.Controls.Add(this.metroLabel210);
             this.Controls.Add(this.metroLabel211);
-            this.Controls.Add(this.numericUpDown47);
+            this.Controls.Add(this.nud_magiekunde);
             this.Controls.Add(this.metroTextBox40);
-            this.Controls.Add(this.metroLabel212);
+            this.Controls.Add(this.lbl_r_magiekunde);
             this.Controls.Add(this.metroLabel213);
             this.Controls.Add(this.metroLabel214);
             this.Controls.Add(this.metroLabel215);
             this.Controls.Add(this.metroLabel216);
-            this.Controls.Add(this.numericUpDown48);
+            this.Controls.Add(this.nud_kriegskunst);
             this.Controls.Add(this.metroTextBox41);
-            this.Controls.Add(this.metroLabel217);
+            this.Controls.Add(this.lbl_r_kriegskunst);
             this.Controls.Add(this.metroLabel218);
             this.Controls.Add(this.metroLabel219);
             this.Controls.Add(this.metroLabel220);
             this.Controls.Add(this.metroLabel221);
-            this.Controls.Add(this.numericUpDown49);
+            this.Controls.Add(this.nud_göttern);
             this.Controls.Add(this.metroTextBox42);
-            this.Controls.Add(this.metroLabel222);
+            this.Controls.Add(this.lbl_r_götter);
             this.Controls.Add(this.metroLabel223);
             this.Controls.Add(this.metroLabel224);
             this.Controls.Add(this.metroLabel225);
             this.Controls.Add(this.metroLabel226);
-            this.Controls.Add(this.numericUpDown50);
+            this.Controls.Add(this.nud_geschichtswissen);
             this.Controls.Add(this.metroTextBox43);
-            this.Controls.Add(this.metroLabel227);
+            this.Controls.Add(this.lbl_r_geschichtswissen);
             this.Controls.Add(this.metroLabel228);
             this.Controls.Add(this.metroLabel229);
             this.Controls.Add(this.metroLabel230);
             this.Controls.Add(this.metroLabel231);
-            this.Controls.Add(this.numericUpDown51);
+            this.Controls.Add(this.nud_geographie);
             this.Controls.Add(this.metroTextBox44);
-            this.Controls.Add(this.metroLabel232);
+            this.Controls.Add(this.lbl_r_geographie);
             this.Controls.Add(this.metroLabel233);
             this.Controls.Add(this.metroLabel234);
             this.Controls.Add(this.metroLabel235);
             this.Controls.Add(this.metroLabel236);
-            this.Controls.Add(this.numericUpDown52);
+            this.Controls.Add(this.nud_brett);
             this.Controls.Add(this.metroTextBox45);
-            this.Controls.Add(this.metroLabel237);
+            this.Controls.Add(this.lbl_r_brett);
             this.Controls.Add(this.metroLabel238);
             this.Controls.Add(this.metroLabel239);
             this.Controls.Add(this.metroLabel240);
@@ -4698,216 +4698,216 @@
             this.Controls.Add(this.metroLabel248);
             this.Controls.Add(this.metroLabel249);
             this.Controls.Add(this.metroLabel250);
-            this.Controls.Add(this.numericUpDown38);
+            this.Controls.Add(this.nud_wildnessleben);
             this.Controls.Add(this.metroTextBox31);
-            this.Controls.Add(this.metroLabel167);
+            this.Controls.Add(this.lbl_r_wildnessleben);
             this.Controls.Add(this.metroLabel168);
             this.Controls.Add(this.metroLabel169);
             this.Controls.Add(this.metroLabel170);
             this.Controls.Add(this.metroLabel171);
-            this.Controls.Add(this.numericUpDown37);
+            this.Controls.Add(this.nud_tierkunde);
             this.Controls.Add(this.metroTextBox30);
-            this.Controls.Add(this.metroLabel162);
+            this.Controls.Add(this.lbl_r_tierkunde);
             this.Controls.Add(this.metroLabel163);
             this.Controls.Add(this.metroLabel164);
             this.Controls.Add(this.metroLabel165);
             this.Controls.Add(this.metroLabel166);
-            this.Controls.Add(this.numericUpDown36);
+            this.Controls.Add(this.nud_pflanzenkunde);
             this.Controls.Add(this.metroTextBox29);
-            this.Controls.Add(this.metroLabel157);
+            this.Controls.Add(this.lbl_r_pflanzenkunde);
             this.Controls.Add(this.metroLabel158);
             this.Controls.Add(this.metroLabel159);
             this.Controls.Add(this.metroLabel160);
             this.Controls.Add(this.metroLabel161);
-            this.Controls.Add(this.numericUpDown35);
+            this.Controls.Add(this.nud_orientierung);
             this.Controls.Add(this.metroTextBox28);
-            this.Controls.Add(this.metroLabel152);
+            this.Controls.Add(this.lbl_r_orientierung);
             this.Controls.Add(this.metroLabel153);
             this.Controls.Add(this.metroLabel154);
             this.Controls.Add(this.metroLabel155);
             this.Controls.Add(this.metroLabel156);
-            this.Controls.Add(this.numericUpDown34);
+            this.Controls.Add(this.btn_fischen);
             this.Controls.Add(this.metroTextBox27);
-            this.Controls.Add(this.metroLabel147);
+            this.Controls.Add(this.lbl_r_fischen);
             this.Controls.Add(this.metroLabel148);
             this.Controls.Add(this.metroLabel149);
             this.Controls.Add(this.metroLabel150);
             this.Controls.Add(this.metroLabel151);
-            this.Controls.Add(this.numericUpDown33);
+            this.Controls.Add(this.nud_fesseln);
             this.Controls.Add(this.metroTextBox26);
-            this.Controls.Add(this.metroLabel142);
+            this.Controls.Add(this.lbl_r_fesseln);
             this.Controls.Add(this.metroLabel143);
             this.Controls.Add(this.metroLabel144);
             this.Controls.Add(this.metroLabel145);
             this.Controls.Add(this.metroLabel146);
-            this.Controls.Add(this.numericUpDown32);
+            this.Controls.Add(this.nud_fährtensuchen);
             this.Controls.Add(this.metroTextBox25);
-            this.Controls.Add(this.metroLabel137);
+            this.Controls.Add(this.lbl_r_fährtensuchen);
             this.Controls.Add(this.metroLabel138);
             this.Controls.Add(this.metroLabel139);
             this.Controls.Add(this.metroLabel140);
             this.Controls.Add(this.metroLabel141);
             this.Controls.Add(this.metroLabel135);
             this.Controls.Add(this.metroLabel136);
-            this.Controls.Add(this.numericUpDown29);
+            this.Controls.Add(this.nud_willenskraft);
             this.Controls.Add(this.metroTextBox22);
-            this.Controls.Add(this.metroLabel120);
+            this.Controls.Add(this.lbl_r_willenskraft);
             this.Controls.Add(this.metroLabel121);
             this.Controls.Add(this.metroLabel122);
             this.Controls.Add(this.metroLabel123);
             this.Controls.Add(this.metroLabel124);
-            this.Controls.Add(this.numericUpDown30);
+            this.Controls.Add(this.nud_verkleiden);
             this.Controls.Add(this.metroTextBox23);
-            this.Controls.Add(this.metroLabel125);
+            this.Controls.Add(this.lbl_r_verkleiden);
             this.Controls.Add(this.metroLabel126);
             this.Controls.Add(this.metroLabel127);
             this.Controls.Add(this.metroLabel128);
             this.Controls.Add(this.metroLabel129);
-            this.Controls.Add(this.numericUpDown31);
+            this.Controls.Add(this.nud_überreden);
             this.Controls.Add(this.metroTextBox24);
-            this.Controls.Add(this.metroLabel130);
+            this.Controls.Add(this.lbl_r_überreden);
             this.Controls.Add(this.metroLabel131);
             this.Controls.Add(this.metroLabel132);
             this.Controls.Add(this.metroLabel133);
             this.Controls.Add(this.metroLabel134);
-            this.Controls.Add(this.numericUpDown26);
+            this.Controls.Add(this.nud_menschenkenntnis);
             this.Controls.Add(this.metroTextBox19);
-            this.Controls.Add(this.metroLabel105);
+            this.Controls.Add(this.lbl_r_menschenkenntnis);
             this.Controls.Add(this.metroLabel106);
             this.Controls.Add(this.metroLabel107);
             this.Controls.Add(this.metroLabel108);
             this.Controls.Add(this.metroLabel109);
-            this.Controls.Add(this.numericUpDown27);
+            this.Controls.Add(this.nud_gassenwissen);
             this.Controls.Add(this.metroTextBox20);
-            this.Controls.Add(this.metroLabel110);
+            this.Controls.Add(this.lbl_r_gassenwissen);
             this.Controls.Add(this.metroLabel111);
             this.Controls.Add(this.metroLabel112);
             this.Controls.Add(this.metroLabel113);
             this.Controls.Add(this.metroLabel114);
-            this.Controls.Add(this.numericUpDown28);
+            this.Controls.Add(this.nud_etikette);
             this.Controls.Add(this.metroTextBox21);
-            this.Controls.Add(this.metroLabel115);
+            this.Controls.Add(this.lbl_r_etikette);
             this.Controls.Add(this.metroLabel116);
             this.Controls.Add(this.metroLabel117);
             this.Controls.Add(this.metroLabel118);
             this.Controls.Add(this.metroLabel119);
-            this.Controls.Add(this.numericUpDown25);
+            this.Controls.Add(this.nud_einschüchtern);
             this.Controls.Add(this.metroTextBox18);
-            this.Controls.Add(this.metroLabel100);
+            this.Controls.Add(this.lbl_r_einschüchtern);
             this.Controls.Add(this.metroLabel101);
             this.Controls.Add(this.metroLabel102);
             this.Controls.Add(this.metroLabel103);
             this.Controls.Add(this.metroLabel104);
-            this.Controls.Add(this.numericUpDown24);
+            this.Controls.Add(this.nud_betören);
             this.Controls.Add(this.metroTextBox17);
-            this.Controls.Add(this.metroLabel95);
+            this.Controls.Add(this.lbl_r_betören);
             this.Controls.Add(this.metroLabel96);
             this.Controls.Add(this.metroLabel97);
             this.Controls.Add(this.metroLabel98);
             this.Controls.Add(this.metroLabel99);
-            this.Controls.Add(this.numericUpDown23);
+            this.Controls.Add(this.nud_bekehren);
             this.Controls.Add(this.metroTextBox16);
-            this.Controls.Add(this.metroLabel90);
+            this.Controls.Add(this.lbl_r_bekehren);
             this.Controls.Add(this.metroLabel91);
             this.Controls.Add(this.metroLabel92);
             this.Controls.Add(this.metroLabel93);
             this.Controls.Add(this.metroLabel94);
             this.Controls.Add(this.metroLabel88);
             this.Controls.Add(this.metroLabel89);
-            this.Controls.Add(this.numericUpDown22);
+            this.Controls.Add(this.nud_zechen);
             this.Controls.Add(this.metroTextBox14);
-            this.Controls.Add(this.metroLabel83);
+            this.Controls.Add(this.lbl_r_zechen);
             this.Controls.Add(this.metroLabel84);
             this.Controls.Add(this.metroLabel85);
             this.Controls.Add(this.metroLabel86);
             this.Controls.Add(this.metroLabel87);
-            this.Controls.Add(this.numericUpDown21);
+            this.Controls.Add(this.nud_verbergen);
             this.Controls.Add(this.metroTextBox13);
-            this.Controls.Add(this.metroLabel78);
+            this.Controls.Add(this.lbl_r_verbergen);
             this.Controls.Add(this.metroLabel79);
             this.Controls.Add(this.metroLabel80);
             this.Controls.Add(this.metroLabel81);
             this.Controls.Add(this.metroLabel82);
-            this.Controls.Add(this.numericUpDown20);
+            this.Controls.Add(this.nud_taschendiebstahl);
             this.Controls.Add(this.metroTextBox12);
-            this.Controls.Add(this.metroLabel73);
+            this.Controls.Add(this.lbl_r_taschendiebstahl);
             this.Controls.Add(this.metroLabel74);
             this.Controls.Add(this.metroLabel75);
             this.Controls.Add(this.metroLabel76);
             this.Controls.Add(this.metroLabel77);
-            this.Controls.Add(this.numericUpDown19);
+            this.Controls.Add(this.nud_tanzen);
             this.Controls.Add(this.metroTextBox11);
-            this.Controls.Add(this.metroLabel68);
+            this.Controls.Add(this.lbl_r_tanzen);
             this.Controls.Add(this.metroLabel69);
             this.Controls.Add(this.metroLabel70);
             this.Controls.Add(this.metroLabel71);
             this.Controls.Add(this.metroLabel72);
-            this.Controls.Add(this.numericUpDown18);
+            this.Controls.Add(this.nud_sinneschärfe);
             this.Controls.Add(this.metroTextBox10);
-            this.Controls.Add(this.metroLabel63);
+            this.Controls.Add(this.lbl_r_sinneschärfe);
             this.Controls.Add(this.metroLabel64);
             this.Controls.Add(this.metroLabel65);
             this.Controls.Add(this.metroLabel66);
             this.Controls.Add(this.metroLabel67);
-            this.Controls.Add(this.numericUpDown17);
+            this.Controls.Add(this.nud_singen);
             this.Controls.Add(this.metroTextBox9);
-            this.Controls.Add(this.metroLabel58);
+            this.Controls.Add(this.lbl_r_singen);
             this.Controls.Add(this.metroLabel59);
             this.Controls.Add(this.metroLabel60);
             this.Controls.Add(this.metroLabel61);
             this.Controls.Add(this.metroLabel62);
-            this.Controls.Add(this.numericUpDown16);
+            this.Controls.Add(this.nud_selbstbeherschung);
             this.Controls.Add(this.metroTextBox8);
-            this.Controls.Add(this.metroLabel53);
+            this.Controls.Add(this.lbl_r_selbstbeherschung);
             this.Controls.Add(this.metroLabel54);
             this.Controls.Add(this.metroLabel55);
             this.Controls.Add(this.metroLabel56);
             this.Controls.Add(this.metroLabel57);
-            this.Controls.Add(this.numericUpDown15);
+            this.Controls.Add(this.nud_schwimmen);
             this.Controls.Add(this.metroTextBox7);
-            this.Controls.Add(this.metroLabel48);
+            this.Controls.Add(this.lbl_r_schwimmen);
             this.Controls.Add(this.metroLabel49);
             this.Controls.Add(this.metroLabel50);
             this.Controls.Add(this.metroLabel51);
             this.Controls.Add(this.metroLabel52);
-            this.Controls.Add(this.numericUpDown14);
+            this.Controls.Add(this.nud_reiten);
             this.Controls.Add(this.metroTextBox6);
-            this.Controls.Add(this.metroLabel43);
+            this.Controls.Add(this.lbl_r_reiten);
             this.Controls.Add(this.metroLabel44);
             this.Controls.Add(this.metroLabel45);
             this.Controls.Add(this.metroLabel46);
             this.Controls.Add(this.metroLabel47);
-            this.Controls.Add(this.numericUpDown13);
+            this.Controls.Add(this.nud_kraftakt);
             this.Controls.Add(this.metroTextBox5);
-            this.Controls.Add(this.metroLabel38);
+            this.Controls.Add(this.lbl_r_kraftakt);
             this.Controls.Add(this.metroLabel39);
             this.Controls.Add(this.metroLabel40);
             this.Controls.Add(this.metroLabel41);
             this.Controls.Add(this.metroLabel42);
-            this.Controls.Add(this.numericUpDown12);
+            this.Controls.Add(this.nud_körperbeherschung);
             this.Controls.Add(this.metroTextBox4);
-            this.Controls.Add(this.metroLabel33);
+            this.Controls.Add(this.lbl_r_körperbeherschung);
             this.Controls.Add(this.metroLabel34);
             this.Controls.Add(this.metroLabel35);
             this.Controls.Add(this.metroLabel36);
             this.Controls.Add(this.metroLabel37);
-            this.Controls.Add(this.numericUpDown11);
+            this.Controls.Add(this.nud_klettern);
             this.Controls.Add(this.metroTextBox3);
-            this.Controls.Add(this.metroLabel28);
+            this.Controls.Add(this.lbl_r_klettern);
             this.Controls.Add(this.metroLabel29);
             this.Controls.Add(this.metroLabel30);
             this.Controls.Add(this.metroLabel31);
             this.Controls.Add(this.metroLabel32);
-            this.Controls.Add(this.numericUpDown10);
+            this.Controls.Add(this.nud_gaukelein);
             this.Controls.Add(this.metroTextBox2);
-            this.Controls.Add(this.metroLabel14);
+            this.Controls.Add(this.lbl_r_gauckelein);
             this.Controls.Add(this.metroLabel15);
             this.Controls.Add(this.metroLabel16);
             this.Controls.Add(this.metroLabel17);
             this.Controls.Add(this.metroLabel18);
-            this.Controls.Add(this.numericUpDown9);
+            this.Controls.Add(this.nud_fliegen);
             this.Controls.Add(this.metroTextBox1);
-            this.Controls.Add(this.metroLabel13);
+            this.Controls.Add(this.lbl_r_fliegen);
             this.Controls.Add(this.metroLabel12);
             this.Controls.Add(this.metroLabel11);
             this.Controls.Add(this.metroLabel10);
@@ -4921,93 +4921,93 @@
             this.Controls.Add(this.metroLabel2);
             this.Controls.Add(this.metroLabel1);
             this.Controls.Add(this.lbl_name);
-            this.Controls.Add(this.numericUpDown8);
+            this.Controls.Add(this.nud_körperkraft);
             this.Controls.Add(this.metroLabel27);
-            this.Controls.Add(this.numericUpDown7);
+            this.Controls.Add(this.nud_konstitution);
             this.Controls.Add(this.metroLabel26);
-            this.Controls.Add(this.numericUpDown6);
+            this.Controls.Add(this.nud_geschicklichkeit);
             this.Controls.Add(this.metroLabel25);
-            this.Controls.Add(this.numericUpDown5);
+            this.Controls.Add(this.nud_fingerfertigkeit);
             this.Controls.Add(this.metroLabel24);
-            this.Controls.Add(this.numericUpDown4);
+            this.Controls.Add(this.nud_charisma);
             this.Controls.Add(this.metroLabel23);
-            this.Controls.Add(this.numericUpDown3);
+            this.Controls.Add(this.nud_intuiton);
             this.Controls.Add(this.metroLabel22);
-            this.Controls.Add(this.numericUpDown2);
+            this.Controls.Add(this.nud_klugheit);
             this.Controls.Add(this.metroLabel21);
-            this.Controls.Add(this.numericUpDown1);
+            this.Controls.Add(this.nud_mut);
             this.Controls.Add(this.metroLabel20);
-            this.Controls.Add(this.metroTextBox15);
+            this.Controls.Add(this.txtBox_ap);
             this.Controls.Add(this.metroLabel19);
             this.Name = "Spielwerte";
             this.Text = "Spielwerte";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Spielwerte_FormClosed);
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown8)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown7)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown9)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown10)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown11)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown12)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown13)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown14)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown15)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown16)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown17)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown18)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown19)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown20)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown21)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown22)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown23)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown24)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown25)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown26)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown27)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown28)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown29)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown30)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown31)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown32)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown33)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown34)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown35)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown36)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown37)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown38)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown42)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown43)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown44)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown45)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown46)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown47)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown48)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown49)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown50)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown51)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown52)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown39)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown40)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown41)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown53)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown54)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown55)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown56)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown57)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown58)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown59)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown60)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown66)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown67)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown68)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown69)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown70)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown71)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_körperkraft)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_konstitution)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_geschicklichkeit)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_fingerfertigkeit)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_charisma)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_intuiton)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_klugheit)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_mut)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_fliegen)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_gaukelein)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_klettern)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_körperbeherschung)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_kraftakt)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_reiten)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_schwimmen)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_selbstbeherschung)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_singen)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_sinneschärfe)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_tanzen)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_taschendiebstahl)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_verbergen)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_zechen)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_bekehren)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_betören)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_einschüchtern)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_menschenkenntnis)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_gassenwissen)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_etikette)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_willenskraft)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_verkleiden)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_überreden)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_fährtensuchen)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_fesseln)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.btn_fischen)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_orientierung)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_pflanzenkunde)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_tierkunde)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_wildnessleben)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_sternkunde)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_sphären)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_sagen)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_rechtskunde)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_mechanik)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_magiekunde)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_kriegskunst)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_göttern)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_geschichtswissen)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_geographie)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_brett)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_lederbearbeitung)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_lebensmittel)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_holzbearbeitung)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_heilwunden)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_heilseele)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_heilkrank)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_heilgift)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_handel)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_fahrzeuge)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_boote)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_alchimie)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_stoffbearbeitung)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_steinbearbeitung)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_schlösserknacken)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_musizieren)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_metallbearbeitung)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nud_malen)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -5015,23 +5015,23 @@
 
         #endregion
 
-        private System.Windows.Forms.NumericUpDown numericUpDown8;
+        private System.Windows.Forms.NumericUpDown nud_körperkraft;
         private MetroFramework.Controls.MetroLabel metroLabel27;
-        private System.Windows.Forms.NumericUpDown numericUpDown7;
+        private System.Windows.Forms.NumericUpDown nud_konstitution;
         private MetroFramework.Controls.MetroLabel metroLabel26;
-        private System.Windows.Forms.NumericUpDown numericUpDown6;
+        private System.Windows.Forms.NumericUpDown nud_geschicklichkeit;
         private MetroFramework.Controls.MetroLabel metroLabel25;
-        private System.Windows.Forms.NumericUpDown numericUpDown5;
+        private System.Windows.Forms.NumericUpDown nud_fingerfertigkeit;
         private MetroFramework.Controls.MetroLabel metroLabel24;
-        private System.Windows.Forms.NumericUpDown numericUpDown4;
+        private System.Windows.Forms.NumericUpDown nud_charisma;
         private MetroFramework.Controls.MetroLabel metroLabel23;
-        private System.Windows.Forms.NumericUpDown numericUpDown3;
+        private System.Windows.Forms.NumericUpDown nud_intuiton;
         private MetroFramework.Controls.MetroLabel metroLabel22;
-        private System.Windows.Forms.NumericUpDown numericUpDown2;
+        private System.Windows.Forms.NumericUpDown nud_klugheit;
         private MetroFramework.Controls.MetroLabel metroLabel21;
-        private System.Windows.Forms.NumericUpDown numericUpDown1;
+        private System.Windows.Forms.NumericUpDown nud_mut;
         private MetroFramework.Controls.MetroLabel metroLabel20;
-        private MetroFramework.Controls.MetroTextBox metroTextBox15;
+        private MetroFramework.Controls.MetroTextBox txtBox_ap;
         private MetroFramework.Controls.MetroLabel metroLabel19;
         private MetroFramework.Controls.MetroLabel lbl_name;
         private MetroFramework.Controls.MetroLabel metroLabel1;
@@ -5046,289 +5046,289 @@
         private MetroFramework.Controls.MetroLabel metroLabel10;
         private MetroFramework.Controls.MetroLabel metroLabel11;
         private MetroFramework.Controls.MetroLabel metroLabel12;
-        private MetroFramework.Controls.MetroLabel metroLabel13;
+        private MetroFramework.Controls.MetroLabel lbl_r_fliegen;
         private MetroFramework.Controls.MetroTextBox metroTextBox1;
-        private System.Windows.Forms.NumericUpDown numericUpDown9;
-        private System.Windows.Forms.NumericUpDown numericUpDown10;
+        private System.Windows.Forms.NumericUpDown nud_fliegen;
+        private System.Windows.Forms.NumericUpDown nud_gaukelein;
         private MetroFramework.Controls.MetroTextBox metroTextBox2;
-        private MetroFramework.Controls.MetroLabel metroLabel14;
+        private MetroFramework.Controls.MetroLabel lbl_r_gauckelein;
         private MetroFramework.Controls.MetroLabel metroLabel15;
         private MetroFramework.Controls.MetroLabel metroLabel16;
         private MetroFramework.Controls.MetroLabel metroLabel17;
         private MetroFramework.Controls.MetroLabel metroLabel18;
-        private System.Windows.Forms.NumericUpDown numericUpDown11;
+        private System.Windows.Forms.NumericUpDown nud_klettern;
         private MetroFramework.Controls.MetroTextBox metroTextBox3;
-        private MetroFramework.Controls.MetroLabel metroLabel28;
+        private MetroFramework.Controls.MetroLabel lbl_r_klettern;
         private MetroFramework.Controls.MetroLabel metroLabel29;
         private MetroFramework.Controls.MetroLabel metroLabel30;
         private MetroFramework.Controls.MetroLabel metroLabel31;
         private MetroFramework.Controls.MetroLabel metroLabel32;
-        private System.Windows.Forms.NumericUpDown numericUpDown12;
+        private System.Windows.Forms.NumericUpDown nud_körperbeherschung;
         private MetroFramework.Controls.MetroTextBox metroTextBox4;
-        private MetroFramework.Controls.MetroLabel metroLabel33;
+        private MetroFramework.Controls.MetroLabel lbl_r_körperbeherschung;
         private MetroFramework.Controls.MetroLabel metroLabel34;
         private MetroFramework.Controls.MetroLabel metroLabel35;
         private MetroFramework.Controls.MetroLabel metroLabel36;
         private MetroFramework.Controls.MetroLabel metroLabel37;
-        private System.Windows.Forms.NumericUpDown numericUpDown13;
+        private System.Windows.Forms.NumericUpDown nud_kraftakt;
         private MetroFramework.Controls.MetroTextBox metroTextBox5;
-        private MetroFramework.Controls.MetroLabel metroLabel38;
+        private MetroFramework.Controls.MetroLabel lbl_r_kraftakt;
         private MetroFramework.Controls.MetroLabel metroLabel39;
         private MetroFramework.Controls.MetroLabel metroLabel40;
         private MetroFramework.Controls.MetroLabel metroLabel41;
         private MetroFramework.Controls.MetroLabel metroLabel42;
-        private System.Windows.Forms.NumericUpDown numericUpDown14;
+        private System.Windows.Forms.NumericUpDown nud_reiten;
         private MetroFramework.Controls.MetroTextBox metroTextBox6;
-        private MetroFramework.Controls.MetroLabel metroLabel43;
+        private MetroFramework.Controls.MetroLabel lbl_r_reiten;
         private MetroFramework.Controls.MetroLabel metroLabel44;
         private MetroFramework.Controls.MetroLabel metroLabel45;
         private MetroFramework.Controls.MetroLabel metroLabel46;
         private MetroFramework.Controls.MetroLabel metroLabel47;
-        private System.Windows.Forms.NumericUpDown numericUpDown15;
+        private System.Windows.Forms.NumericUpDown nud_schwimmen;
         private MetroFramework.Controls.MetroTextBox metroTextBox7;
-        private MetroFramework.Controls.MetroLabel metroLabel48;
+        private MetroFramework.Controls.MetroLabel lbl_r_schwimmen;
         private MetroFramework.Controls.MetroLabel metroLabel49;
         private MetroFramework.Controls.MetroLabel metroLabel50;
         private MetroFramework.Controls.MetroLabel metroLabel51;
         private MetroFramework.Controls.MetroLabel metroLabel52;
-        private System.Windows.Forms.NumericUpDown numericUpDown16;
+        private System.Windows.Forms.NumericUpDown nud_selbstbeherschung;
         private MetroFramework.Controls.MetroTextBox metroTextBox8;
-        private MetroFramework.Controls.MetroLabel metroLabel53;
+        private MetroFramework.Controls.MetroLabel lbl_r_selbstbeherschung;
         private MetroFramework.Controls.MetroLabel metroLabel54;
         private MetroFramework.Controls.MetroLabel metroLabel55;
         private MetroFramework.Controls.MetroLabel metroLabel56;
         private MetroFramework.Controls.MetroLabel metroLabel57;
-        private System.Windows.Forms.NumericUpDown numericUpDown17;
+        private System.Windows.Forms.NumericUpDown nud_singen;
         private MetroFramework.Controls.MetroTextBox metroTextBox9;
-        private MetroFramework.Controls.MetroLabel metroLabel58;
+        private MetroFramework.Controls.MetroLabel lbl_r_singen;
         private MetroFramework.Controls.MetroLabel metroLabel59;
         private MetroFramework.Controls.MetroLabel metroLabel60;
         private MetroFramework.Controls.MetroLabel metroLabel61;
         private MetroFramework.Controls.MetroLabel metroLabel62;
-        private System.Windows.Forms.NumericUpDown numericUpDown18;
+        private System.Windows.Forms.NumericUpDown nud_sinneschärfe;
         private MetroFramework.Controls.MetroTextBox metroTextBox10;
-        private MetroFramework.Controls.MetroLabel metroLabel63;
+        private MetroFramework.Controls.MetroLabel lbl_r_sinneschärfe;
         private MetroFramework.Controls.MetroLabel metroLabel64;
         private MetroFramework.Controls.MetroLabel metroLabel65;
         private MetroFramework.Controls.MetroLabel metroLabel66;
         private MetroFramework.Controls.MetroLabel metroLabel67;
-        private System.Windows.Forms.NumericUpDown numericUpDown19;
+        private System.Windows.Forms.NumericUpDown nud_tanzen;
         private MetroFramework.Controls.MetroTextBox metroTextBox11;
-        private MetroFramework.Controls.MetroLabel metroLabel68;
+        private MetroFramework.Controls.MetroLabel lbl_r_tanzen;
         private MetroFramework.Controls.MetroLabel metroLabel69;
         private MetroFramework.Controls.MetroLabel metroLabel70;
         private MetroFramework.Controls.MetroLabel metroLabel71;
         private MetroFramework.Controls.MetroLabel metroLabel72;
-        private System.Windows.Forms.NumericUpDown numericUpDown20;
+        private System.Windows.Forms.NumericUpDown nud_taschendiebstahl;
         private MetroFramework.Controls.MetroTextBox metroTextBox12;
-        private MetroFramework.Controls.MetroLabel metroLabel73;
+        private MetroFramework.Controls.MetroLabel lbl_r_taschendiebstahl;
         private MetroFramework.Controls.MetroLabel metroLabel74;
         private MetroFramework.Controls.MetroLabel metroLabel75;
         private MetroFramework.Controls.MetroLabel metroLabel76;
         private MetroFramework.Controls.MetroLabel metroLabel77;
-        private System.Windows.Forms.NumericUpDown numericUpDown21;
+        private System.Windows.Forms.NumericUpDown nud_verbergen;
         private MetroFramework.Controls.MetroTextBox metroTextBox13;
-        private MetroFramework.Controls.MetroLabel metroLabel78;
+        private MetroFramework.Controls.MetroLabel lbl_r_verbergen;
         private MetroFramework.Controls.MetroLabel metroLabel79;
         private MetroFramework.Controls.MetroLabel metroLabel80;
         private MetroFramework.Controls.MetroLabel metroLabel81;
         private MetroFramework.Controls.MetroLabel metroLabel82;
-        private System.Windows.Forms.NumericUpDown numericUpDown22;
+        private System.Windows.Forms.NumericUpDown nud_zechen;
         private MetroFramework.Controls.MetroTextBox metroTextBox14;
-        private MetroFramework.Controls.MetroLabel metroLabel83;
+        private MetroFramework.Controls.MetroLabel lbl_r_zechen;
         private MetroFramework.Controls.MetroLabel metroLabel84;
         private MetroFramework.Controls.MetroLabel metroLabel85;
         private MetroFramework.Controls.MetroLabel metroLabel86;
         private MetroFramework.Controls.MetroLabel metroLabel87;
         private MetroFramework.Controls.MetroLabel metroLabel88;
         private MetroFramework.Controls.MetroLabel metroLabel89;
-        private System.Windows.Forms.NumericUpDown numericUpDown23;
+        private System.Windows.Forms.NumericUpDown nud_bekehren;
         private MetroFramework.Controls.MetroTextBox metroTextBox16;
-        private MetroFramework.Controls.MetroLabel metroLabel90;
+        private MetroFramework.Controls.MetroLabel lbl_r_bekehren;
         private MetroFramework.Controls.MetroLabel metroLabel91;
         private MetroFramework.Controls.MetroLabel metroLabel92;
         private MetroFramework.Controls.MetroLabel metroLabel93;
         private MetroFramework.Controls.MetroLabel metroLabel94;
-        private System.Windows.Forms.NumericUpDown numericUpDown24;
+        private System.Windows.Forms.NumericUpDown nud_betören;
         private MetroFramework.Controls.MetroTextBox metroTextBox17;
-        private MetroFramework.Controls.MetroLabel metroLabel95;
+        private MetroFramework.Controls.MetroLabel lbl_r_betören;
         private MetroFramework.Controls.MetroLabel metroLabel96;
         private MetroFramework.Controls.MetroLabel metroLabel97;
         private MetroFramework.Controls.MetroLabel metroLabel98;
         private MetroFramework.Controls.MetroLabel metroLabel99;
-        private System.Windows.Forms.NumericUpDown numericUpDown25;
+        private System.Windows.Forms.NumericUpDown nud_einschüchtern;
         private MetroFramework.Controls.MetroTextBox metroTextBox18;
-        private MetroFramework.Controls.MetroLabel metroLabel100;
+        private MetroFramework.Controls.MetroLabel lbl_r_einschüchtern;
         private MetroFramework.Controls.MetroLabel metroLabel101;
         private MetroFramework.Controls.MetroLabel metroLabel102;
         private MetroFramework.Controls.MetroLabel metroLabel103;
         private MetroFramework.Controls.MetroLabel metroLabel104;
-        private System.Windows.Forms.NumericUpDown numericUpDown26;
+        private System.Windows.Forms.NumericUpDown nud_menschenkenntnis;
         private MetroFramework.Controls.MetroTextBox metroTextBox19;
-        private MetroFramework.Controls.MetroLabel metroLabel105;
+        private MetroFramework.Controls.MetroLabel lbl_r_menschenkenntnis;
         private MetroFramework.Controls.MetroLabel metroLabel106;
         private MetroFramework.Controls.MetroLabel metroLabel107;
         private MetroFramework.Controls.MetroLabel metroLabel108;
         private MetroFramework.Controls.MetroLabel metroLabel109;
-        private System.Windows.Forms.NumericUpDown numericUpDown27;
+        private System.Windows.Forms.NumericUpDown nud_gassenwissen;
         private MetroFramework.Controls.MetroTextBox metroTextBox20;
-        private MetroFramework.Controls.MetroLabel metroLabel110;
+        private MetroFramework.Controls.MetroLabel lbl_r_gassenwissen;
         private MetroFramework.Controls.MetroLabel metroLabel111;
         private MetroFramework.Controls.MetroLabel metroLabel112;
         private MetroFramework.Controls.MetroLabel metroLabel113;
         private MetroFramework.Controls.MetroLabel metroLabel114;
-        private System.Windows.Forms.NumericUpDown numericUpDown28;
+        private System.Windows.Forms.NumericUpDown nud_etikette;
         private MetroFramework.Controls.MetroTextBox metroTextBox21;
-        private MetroFramework.Controls.MetroLabel metroLabel115;
+        private MetroFramework.Controls.MetroLabel lbl_r_etikette;
         private MetroFramework.Controls.MetroLabel metroLabel116;
         private MetroFramework.Controls.MetroLabel metroLabel117;
         private MetroFramework.Controls.MetroLabel metroLabel118;
         private MetroFramework.Controls.MetroLabel metroLabel119;
-        private System.Windows.Forms.NumericUpDown numericUpDown29;
+        private System.Windows.Forms.NumericUpDown nud_willenskraft;
         private MetroFramework.Controls.MetroTextBox metroTextBox22;
-        private MetroFramework.Controls.MetroLabel metroLabel120;
+        private MetroFramework.Controls.MetroLabel lbl_r_willenskraft;
         private MetroFramework.Controls.MetroLabel metroLabel121;
         private MetroFramework.Controls.MetroLabel metroLabel122;
         private MetroFramework.Controls.MetroLabel metroLabel123;
         private MetroFramework.Controls.MetroLabel metroLabel124;
-        private System.Windows.Forms.NumericUpDown numericUpDown30;
+        private System.Windows.Forms.NumericUpDown nud_verkleiden;
         private MetroFramework.Controls.MetroTextBox metroTextBox23;
-        private MetroFramework.Controls.MetroLabel metroLabel125;
+        private MetroFramework.Controls.MetroLabel lbl_r_verkleiden;
         private MetroFramework.Controls.MetroLabel metroLabel126;
         private MetroFramework.Controls.MetroLabel metroLabel127;
         private MetroFramework.Controls.MetroLabel metroLabel128;
         private MetroFramework.Controls.MetroLabel metroLabel129;
-        private System.Windows.Forms.NumericUpDown numericUpDown31;
+        private System.Windows.Forms.NumericUpDown nud_überreden;
         private MetroFramework.Controls.MetroTextBox metroTextBox24;
-        private MetroFramework.Controls.MetroLabel metroLabel130;
+        private MetroFramework.Controls.MetroLabel lbl_r_überreden;
         private MetroFramework.Controls.MetroLabel metroLabel131;
         private MetroFramework.Controls.MetroLabel metroLabel132;
         private MetroFramework.Controls.MetroLabel metroLabel133;
         private MetroFramework.Controls.MetroLabel metroLabel134;
         private MetroFramework.Controls.MetroLabel metroLabel135;
         private MetroFramework.Controls.MetroLabel metroLabel136;
-        private System.Windows.Forms.NumericUpDown numericUpDown32;
+        private System.Windows.Forms.NumericUpDown nud_fährtensuchen;
         private MetroFramework.Controls.MetroTextBox metroTextBox25;
-        private MetroFramework.Controls.MetroLabel metroLabel137;
+        private MetroFramework.Controls.MetroLabel lbl_r_fährtensuchen;
         private MetroFramework.Controls.MetroLabel metroLabel138;
         private MetroFramework.Controls.MetroLabel metroLabel139;
         private MetroFramework.Controls.MetroLabel metroLabel140;
         private MetroFramework.Controls.MetroLabel metroLabel141;
-        private System.Windows.Forms.NumericUpDown numericUpDown33;
+        private System.Windows.Forms.NumericUpDown nud_fesseln;
         private MetroFramework.Controls.MetroTextBox metroTextBox26;
-        private MetroFramework.Controls.MetroLabel metroLabel142;
+        private MetroFramework.Controls.MetroLabel lbl_r_fesseln;
         private MetroFramework.Controls.MetroLabel metroLabel143;
         private MetroFramework.Controls.MetroLabel metroLabel144;
         private MetroFramework.Controls.MetroLabel metroLabel145;
         private MetroFramework.Controls.MetroLabel metroLabel146;
-        private System.Windows.Forms.NumericUpDown numericUpDown34;
+        private System.Windows.Forms.NumericUpDown btn_fischen;
         private MetroFramework.Controls.MetroTextBox metroTextBox27;
-        private MetroFramework.Controls.MetroLabel metroLabel147;
+        private MetroFramework.Controls.MetroLabel lbl_r_fischen;
         private MetroFramework.Controls.MetroLabel metroLabel148;
         private MetroFramework.Controls.MetroLabel metroLabel149;
         private MetroFramework.Controls.MetroLabel metroLabel150;
         private MetroFramework.Controls.MetroLabel metroLabel151;
-        private System.Windows.Forms.NumericUpDown numericUpDown35;
+        private System.Windows.Forms.NumericUpDown nud_orientierung;
         private MetroFramework.Controls.MetroTextBox metroTextBox28;
-        private MetroFramework.Controls.MetroLabel metroLabel152;
+        private MetroFramework.Controls.MetroLabel lbl_r_orientierung;
         private MetroFramework.Controls.MetroLabel metroLabel153;
         private MetroFramework.Controls.MetroLabel metroLabel154;
         private MetroFramework.Controls.MetroLabel metroLabel155;
         private MetroFramework.Controls.MetroLabel metroLabel156;
-        private System.Windows.Forms.NumericUpDown numericUpDown36;
+        private System.Windows.Forms.NumericUpDown nud_pflanzenkunde;
         private MetroFramework.Controls.MetroTextBox metroTextBox29;
-        private MetroFramework.Controls.MetroLabel metroLabel157;
+        private MetroFramework.Controls.MetroLabel lbl_r_pflanzenkunde;
         private MetroFramework.Controls.MetroLabel metroLabel158;
         private MetroFramework.Controls.MetroLabel metroLabel159;
         private MetroFramework.Controls.MetroLabel metroLabel160;
         private MetroFramework.Controls.MetroLabel metroLabel161;
-        private System.Windows.Forms.NumericUpDown numericUpDown37;
+        private System.Windows.Forms.NumericUpDown nud_tierkunde;
         private MetroFramework.Controls.MetroTextBox metroTextBox30;
-        private MetroFramework.Controls.MetroLabel metroLabel162;
+        private MetroFramework.Controls.MetroLabel lbl_r_tierkunde;
         private MetroFramework.Controls.MetroLabel metroLabel163;
         private MetroFramework.Controls.MetroLabel metroLabel164;
         private MetroFramework.Controls.MetroLabel metroLabel165;
         private MetroFramework.Controls.MetroLabel metroLabel166;
-        private System.Windows.Forms.NumericUpDown numericUpDown38;
+        private System.Windows.Forms.NumericUpDown nud_wildnessleben;
         private MetroFramework.Controls.MetroTextBox metroTextBox31;
-        private MetroFramework.Controls.MetroLabel metroLabel167;
+        private MetroFramework.Controls.MetroLabel lbl_r_wildnessleben;
         private MetroFramework.Controls.MetroLabel metroLabel168;
         private MetroFramework.Controls.MetroLabel metroLabel169;
         private MetroFramework.Controls.MetroLabel metroLabel170;
         private MetroFramework.Controls.MetroLabel metroLabel171;
-        private System.Windows.Forms.NumericUpDown numericUpDown42;
+        private System.Windows.Forms.NumericUpDown nud_sternkunde;
         private MetroFramework.Controls.MetroTextBox metroTextBox35;
-        private MetroFramework.Controls.MetroLabel metroLabel187;
+        private MetroFramework.Controls.MetroLabel lbl_r_sternkunde;
         private MetroFramework.Controls.MetroLabel metroLabel188;
         private MetroFramework.Controls.MetroLabel metroLabel189;
         private MetroFramework.Controls.MetroLabel metroLabel190;
         private MetroFramework.Controls.MetroLabel metroLabel191;
-        private System.Windows.Forms.NumericUpDown numericUpDown43;
+        private System.Windows.Forms.NumericUpDown nud_sphären;
         private MetroFramework.Controls.MetroTextBox metroTextBox36;
-        private MetroFramework.Controls.MetroLabel metroLabel192;
+        private MetroFramework.Controls.MetroLabel lbl_r_spährenkunde;
         private MetroFramework.Controls.MetroLabel metroLabel193;
         private MetroFramework.Controls.MetroLabel metroLabel194;
         private MetroFramework.Controls.MetroLabel metroLabel195;
         private MetroFramework.Controls.MetroLabel metroLabel196;
-        private System.Windows.Forms.NumericUpDown numericUpDown44;
+        private System.Windows.Forms.NumericUpDown nud_sagen;
         private MetroFramework.Controls.MetroTextBox metroTextBox37;
-        private MetroFramework.Controls.MetroLabel metroLabel197;
+        private MetroFramework.Controls.MetroLabel lbl_r_sagen;
         private MetroFramework.Controls.MetroLabel metroLabel198;
         private MetroFramework.Controls.MetroLabel metroLabel199;
         private MetroFramework.Controls.MetroLabel metroLabel200;
         private MetroFramework.Controls.MetroLabel metroLabel201;
-        private System.Windows.Forms.NumericUpDown numericUpDown45;
+        private System.Windows.Forms.NumericUpDown nud_rechtskunde;
         private MetroFramework.Controls.MetroTextBox metroTextBox38;
-        private MetroFramework.Controls.MetroLabel metroLabel202;
+        private MetroFramework.Controls.MetroLabel lbl_r_rechtskunde;
         private MetroFramework.Controls.MetroLabel metroLabel203;
         private MetroFramework.Controls.MetroLabel metroLabel204;
         private MetroFramework.Controls.MetroLabel metroLabel205;
         private MetroFramework.Controls.MetroLabel metroLabel206;
-        private System.Windows.Forms.NumericUpDown numericUpDown46;
+        private System.Windows.Forms.NumericUpDown nud_mechanik;
         private MetroFramework.Controls.MetroTextBox metroTextBox39;
-        private MetroFramework.Controls.MetroLabel metroLabel207;
+        private MetroFramework.Controls.MetroLabel lbl_r_machanik;
         private MetroFramework.Controls.MetroLabel metroLabel208;
         private MetroFramework.Controls.MetroLabel metroLabel209;
         private MetroFramework.Controls.MetroLabel metroLabel210;
         private MetroFramework.Controls.MetroLabel metroLabel211;
-        private System.Windows.Forms.NumericUpDown numericUpDown47;
+        private System.Windows.Forms.NumericUpDown nud_magiekunde;
         private MetroFramework.Controls.MetroTextBox metroTextBox40;
-        private MetroFramework.Controls.MetroLabel metroLabel212;
+        private MetroFramework.Controls.MetroLabel lbl_r_magiekunde;
         private MetroFramework.Controls.MetroLabel metroLabel213;
         private MetroFramework.Controls.MetroLabel metroLabel214;
         private MetroFramework.Controls.MetroLabel metroLabel215;
         private MetroFramework.Controls.MetroLabel metroLabel216;
-        private System.Windows.Forms.NumericUpDown numericUpDown48;
+        private System.Windows.Forms.NumericUpDown nud_kriegskunst;
         private MetroFramework.Controls.MetroTextBox metroTextBox41;
-        private MetroFramework.Controls.MetroLabel metroLabel217;
+        private MetroFramework.Controls.MetroLabel lbl_r_kriegskunst;
         private MetroFramework.Controls.MetroLabel metroLabel218;
         private MetroFramework.Controls.MetroLabel metroLabel219;
         private MetroFramework.Controls.MetroLabel metroLabel220;
         private MetroFramework.Controls.MetroLabel metroLabel221;
-        private System.Windows.Forms.NumericUpDown numericUpDown49;
+        private System.Windows.Forms.NumericUpDown nud_göttern;
         private MetroFramework.Controls.MetroTextBox metroTextBox42;
-        private MetroFramework.Controls.MetroLabel metroLabel222;
+        private MetroFramework.Controls.MetroLabel lbl_r_götter;
         private MetroFramework.Controls.MetroLabel metroLabel223;
         private MetroFramework.Controls.MetroLabel metroLabel224;
         private MetroFramework.Controls.MetroLabel metroLabel225;
         private MetroFramework.Controls.MetroLabel metroLabel226;
-        private System.Windows.Forms.NumericUpDown numericUpDown50;
+        private System.Windows.Forms.NumericUpDown nud_geschichtswissen;
         private MetroFramework.Controls.MetroTextBox metroTextBox43;
-        private MetroFramework.Controls.MetroLabel metroLabel227;
+        private MetroFramework.Controls.MetroLabel lbl_r_geschichtswissen;
         private MetroFramework.Controls.MetroLabel metroLabel228;
         private MetroFramework.Controls.MetroLabel metroLabel229;
         private MetroFramework.Controls.MetroLabel metroLabel230;
         private MetroFramework.Controls.MetroLabel metroLabel231;
-        private System.Windows.Forms.NumericUpDown numericUpDown51;
+        private System.Windows.Forms.NumericUpDown nud_geographie;
         private MetroFramework.Controls.MetroTextBox metroTextBox44;
-        private MetroFramework.Controls.MetroLabel metroLabel232;
+        private MetroFramework.Controls.MetroLabel lbl_r_geographie;
         private MetroFramework.Controls.MetroLabel metroLabel233;
         private MetroFramework.Controls.MetroLabel metroLabel234;
         private MetroFramework.Controls.MetroLabel metroLabel235;
         private MetroFramework.Controls.MetroLabel metroLabel236;
-        private System.Windows.Forms.NumericUpDown numericUpDown52;
+        private System.Windows.Forms.NumericUpDown nud_brett;
         private MetroFramework.Controls.MetroTextBox metroTextBox45;
-        private MetroFramework.Controls.MetroLabel metroLabel237;
+        private MetroFramework.Controls.MetroLabel lbl_r_brett;
         private MetroFramework.Controls.MetroLabel metroLabel238;
         private MetroFramework.Controls.MetroLabel metroLabel239;
         private MetroFramework.Controls.MetroLabel metroLabel240;
@@ -5344,121 +5344,121 @@
         private MetroFramework.Controls.MetroLabel metroLabel250;
         private MetroFramework.Controls.MetroLabel metroLabel172;
         private MetroFramework.Controls.MetroLabel metroLabel173;
-        private System.Windows.Forms.NumericUpDown numericUpDown39;
+        private System.Windows.Forms.NumericUpDown nud_lederbearbeitung;
         private MetroFramework.Controls.MetroTextBox metroTextBox32;
-        private MetroFramework.Controls.MetroLabel metroLabel174;
+        private MetroFramework.Controls.MetroLabel lbl_r_lederbearbeitung;
         private MetroFramework.Controls.MetroLabel metroLabel175;
         private MetroFramework.Controls.MetroLabel metroLabel176;
         private MetroFramework.Controls.MetroLabel metroLabel177;
         private MetroFramework.Controls.MetroLabel metroLabel178;
-        private System.Windows.Forms.NumericUpDown numericUpDown40;
+        private System.Windows.Forms.NumericUpDown nud_lebensmittel;
         private MetroFramework.Controls.MetroTextBox metroTextBox33;
-        private MetroFramework.Controls.MetroLabel metroLabel179;
+        private MetroFramework.Controls.MetroLabel lbl_r_lebensmittel;
         private MetroFramework.Controls.MetroLabel metroLabel180;
         private MetroFramework.Controls.MetroLabel metroLabel181;
         private MetroFramework.Controls.MetroLabel metroLabel182;
         private MetroFramework.Controls.MetroLabel metroLabel183;
-        private System.Windows.Forms.NumericUpDown numericUpDown41;
+        private System.Windows.Forms.NumericUpDown nud_holzbearbeitung;
         private MetroFramework.Controls.MetroTextBox metroTextBox34;
-        private MetroFramework.Controls.MetroLabel metroLabel184;
+        private MetroFramework.Controls.MetroLabel lbl_r_holzbearbeitung;
         private MetroFramework.Controls.MetroLabel metroLabel185;
         private MetroFramework.Controls.MetroLabel metroLabel186;
         private MetroFramework.Controls.MetroLabel metroLabel251;
         private MetroFramework.Controls.MetroLabel metroLabel252;
-        private System.Windows.Forms.NumericUpDown numericUpDown53;
+        private System.Windows.Forms.NumericUpDown nud_heilwunden;
         private MetroFramework.Controls.MetroTextBox metroTextBox46;
-        private MetroFramework.Controls.MetroLabel metroLabel253;
+        private MetroFramework.Controls.MetroLabel lbl_r_heilwunden;
         private MetroFramework.Controls.MetroLabel metroLabel254;
         private MetroFramework.Controls.MetroLabel metroLabel255;
         private MetroFramework.Controls.MetroLabel metroLabel256;
         private MetroFramework.Controls.MetroLabel metroLabel257;
-        private System.Windows.Forms.NumericUpDown numericUpDown54;
+        private System.Windows.Forms.NumericUpDown nud_heilseele;
         private MetroFramework.Controls.MetroTextBox metroTextBox47;
-        private MetroFramework.Controls.MetroLabel metroLabel258;
+        private MetroFramework.Controls.MetroLabel lbl_r_heilseele;
         private MetroFramework.Controls.MetroLabel metroLabel259;
         private MetroFramework.Controls.MetroLabel metroLabel260;
         private MetroFramework.Controls.MetroLabel metroLabel261;
         private MetroFramework.Controls.MetroLabel metroLabel262;
-        private System.Windows.Forms.NumericUpDown numericUpDown55;
+        private System.Windows.Forms.NumericUpDown nud_heilkrank;
         private MetroFramework.Controls.MetroTextBox metroTextBox48;
-        private MetroFramework.Controls.MetroLabel metroLabel263;
+        private MetroFramework.Controls.MetroLabel lbl_r_heilkrank;
         private MetroFramework.Controls.MetroLabel metroLabel264;
         private MetroFramework.Controls.MetroLabel metroLabel265;
         private MetroFramework.Controls.MetroLabel metroLabel266;
         private MetroFramework.Controls.MetroLabel metroLabel267;
-        private System.Windows.Forms.NumericUpDown numericUpDown56;
+        private System.Windows.Forms.NumericUpDown nud_heilgift;
         private MetroFramework.Controls.MetroTextBox metroTextBox49;
-        private MetroFramework.Controls.MetroLabel metroLabel268;
+        private MetroFramework.Controls.MetroLabel lbl_r_heilgift;
         private MetroFramework.Controls.MetroLabel metroLabel269;
         private MetroFramework.Controls.MetroLabel metroLabel270;
         private MetroFramework.Controls.MetroLabel metroLabel271;
         private MetroFramework.Controls.MetroLabel metroLabel272;
-        private System.Windows.Forms.NumericUpDown numericUpDown57;
+        private System.Windows.Forms.NumericUpDown nud_handel;
         private MetroFramework.Controls.MetroTextBox metroTextBox50;
-        private MetroFramework.Controls.MetroLabel metroLabel273;
+        private MetroFramework.Controls.MetroLabel lbl_r_handel;
         private MetroFramework.Controls.MetroLabel metroLabel274;
         private MetroFramework.Controls.MetroLabel metroLabel275;
         private MetroFramework.Controls.MetroLabel metroLabel276;
         private MetroFramework.Controls.MetroLabel metroLabel277;
-        private System.Windows.Forms.NumericUpDown numericUpDown58;
+        private System.Windows.Forms.NumericUpDown nud_fahrzeuge;
         private MetroFramework.Controls.MetroTextBox metroTextBox51;
-        private MetroFramework.Controls.MetroLabel metroLabel278;
+        private MetroFramework.Controls.MetroLabel lbl_r_fahrzeuge;
         private MetroFramework.Controls.MetroLabel metroLabel279;
         private MetroFramework.Controls.MetroLabel metroLabel280;
         private MetroFramework.Controls.MetroLabel metroLabel281;
         private MetroFramework.Controls.MetroLabel metroLabel282;
-        private System.Windows.Forms.NumericUpDown numericUpDown59;
+        private System.Windows.Forms.NumericUpDown nud_boote;
         private MetroFramework.Controls.MetroTextBox metroTextBox52;
-        private MetroFramework.Controls.MetroLabel metroLabel283;
+        private MetroFramework.Controls.MetroLabel lbl_r_boote;
         private MetroFramework.Controls.MetroLabel metroLabel284;
         private MetroFramework.Controls.MetroLabel metroLabel285;
         private MetroFramework.Controls.MetroLabel metroLabel286;
         private MetroFramework.Controls.MetroLabel metroLabel287;
-        private System.Windows.Forms.NumericUpDown numericUpDown60;
+        private System.Windows.Forms.NumericUpDown nud_alchimie;
         private MetroFramework.Controls.MetroTextBox metroTextBox53;
-        private MetroFramework.Controls.MetroLabel metroLabel288;
+        private MetroFramework.Controls.MetroLabel lbl_r_alchimie;
         private MetroFramework.Controls.MetroLabel metroLabel289;
         private MetroFramework.Controls.MetroLabel metroLabel290;
         private MetroFramework.Controls.MetroLabel metroLabel291;
         private MetroFramework.Controls.MetroLabel metroLabel292;
-        private System.Windows.Forms.NumericUpDown numericUpDown66;
+        private System.Windows.Forms.NumericUpDown nud_stoffbearbeitung;
         private MetroFramework.Controls.MetroTextBox metroTextBox59;
-        private MetroFramework.Controls.MetroLabel metroLabel318;
+        private MetroFramework.Controls.MetroLabel lbl_r_stoffbearbeitung;
         private MetroFramework.Controls.MetroLabel metroLabel319;
         private MetroFramework.Controls.MetroLabel metroLabel320;
         private MetroFramework.Controls.MetroLabel metroLabel321;
         private MetroFramework.Controls.MetroLabel metroLabel322;
-        private System.Windows.Forms.NumericUpDown numericUpDown67;
+        private System.Windows.Forms.NumericUpDown nud_steinbearbeitung;
         private MetroFramework.Controls.MetroTextBox metroTextBox60;
-        private MetroFramework.Controls.MetroLabel metroLabel323;
+        private MetroFramework.Controls.MetroLabel lbl_r_steinbearbeitung;
         private MetroFramework.Controls.MetroLabel metroLabel324;
         private MetroFramework.Controls.MetroLabel metroLabel325;
         private MetroFramework.Controls.MetroLabel metroLabel326;
         private MetroFramework.Controls.MetroLabel metroLabel327;
-        private System.Windows.Forms.NumericUpDown numericUpDown68;
+        private System.Windows.Forms.NumericUpDown nud_schlösserknacken;
         private MetroFramework.Controls.MetroTextBox metroTextBox61;
-        private MetroFramework.Controls.MetroLabel metroLabel328;
+        private MetroFramework.Controls.MetroLabel lbl_r_schlösserknacken;
         private MetroFramework.Controls.MetroLabel metroLabel329;
         private MetroFramework.Controls.MetroLabel metroLabel330;
         private MetroFramework.Controls.MetroLabel metroLabel331;
         private MetroFramework.Controls.MetroLabel metroLabel332;
-        private System.Windows.Forms.NumericUpDown numericUpDown69;
+        private System.Windows.Forms.NumericUpDown nud_musizieren;
         private MetroFramework.Controls.MetroTextBox metroTextBox62;
-        private MetroFramework.Controls.MetroLabel metroLabel333;
+        private MetroFramework.Controls.MetroLabel lbl_r_musizieren;
         private MetroFramework.Controls.MetroLabel metroLabel334;
         private MetroFramework.Controls.MetroLabel metroLabel335;
         private MetroFramework.Controls.MetroLabel metroLabel336;
         private MetroFramework.Controls.MetroLabel metroLabel337;
-        private System.Windows.Forms.NumericUpDown numericUpDown70;
+        private System.Windows.Forms.NumericUpDown nud_metallbearbeitung;
         private MetroFramework.Controls.MetroTextBox metroTextBox63;
-        private MetroFramework.Controls.MetroLabel metroLabel338;
+        private MetroFramework.Controls.MetroLabel lbl_r_metallbearbeitung;
         private MetroFramework.Controls.MetroLabel metroLabel339;
         private MetroFramework.Controls.MetroLabel metroLabel340;
         private MetroFramework.Controls.MetroLabel metroLabel341;
         private MetroFramework.Controls.MetroLabel metroLabel342;
-        private System.Windows.Forms.NumericUpDown numericUpDown71;
+        private System.Windows.Forms.NumericUpDown nud_malen;
         private MetroFramework.Controls.MetroTextBox metroTextBox64;
-        private MetroFramework.Controls.MetroLabel metroLabel343;
+        private MetroFramework.Controls.MetroLabel lbl_r_malen;
         private MetroFramework.Controls.MetroLabel metroLabel344;
         private MetroFramework.Controls.MetroLabel metroLabel345;
         private MetroFramework.Controls.MetroLabel metroLabel346;
