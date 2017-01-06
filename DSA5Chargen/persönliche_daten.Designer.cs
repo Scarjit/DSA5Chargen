@@ -149,6 +149,7 @@ namespace DSA5Chargen
             this.txtBox_name.Name = "txtBox_name";
             this.txtBox_name.Size = new System.Drawing.Size(231, 20);
             this.txtBox_name.TabIndex = 1;
+            this.txtBox_name.TextChanged += new System.EventHandler(this.txtBox_name_TextChanged);
             // 
             // lbl_familie
             // 
@@ -165,6 +166,7 @@ namespace DSA5Chargen
             this.txtBox_familie.Name = "txtBox_familie";
             this.txtBox_familie.Size = new System.Drawing.Size(231, 20);
             this.txtBox_familie.TabIndex = 3;
+            this.txtBox_familie.TextChanged += new System.EventHandler(this.txtBox_familie_TextChanged);
             // 
             // txtBox_gebdatum
             // 
@@ -172,6 +174,7 @@ namespace DSA5Chargen
             this.txtBox_gebdatum.Name = "txtBox_gebdatum";
             this.txtBox_gebdatum.Size = new System.Drawing.Size(231, 20);
             this.txtBox_gebdatum.TabIndex = 5;
+            this.txtBox_gebdatum.TextChanged += new System.EventHandler(this.txtBox_gebdatum_TextChanged);
             // 
             // lbl_gebdate
             // 
@@ -197,6 +200,7 @@ namespace DSA5Chargen
             this.txtBox_Haarfarbe.Name = "txtBox_Haarfarbe";
             this.txtBox_Haarfarbe.Size = new System.Drawing.Size(231, 20);
             this.txtBox_Haarfarbe.TabIndex = 9;
+            this.txtBox_Haarfarbe.TextChanged += new System.EventHandler(this.txtBox_Haarfarbe_TextChanged);
             // 
             // metroLabel3
             // 
@@ -213,6 +217,7 @@ namespace DSA5Chargen
             this.txtBox_Kultur.Name = "txtBox_Kultur";
             this.txtBox_Kultur.Size = new System.Drawing.Size(231, 20);
             this.txtBox_Kultur.TabIndex = 11;
+            this.txtBox_Kultur.TextChanged += new System.EventHandler(this.txtBox_Kultur_TextChanged);
             // 
             // metroLabel4
             // 
@@ -229,6 +234,7 @@ namespace DSA5Chargen
             this.txtBox_Titel.Name = "txtBox_Titel";
             this.txtBox_Titel.Size = new System.Drawing.Size(231, 20);
             this.txtBox_Titel.TabIndex = 13;
+            this.txtBox_Titel.TextChanged += new System.EventHandler(this.txtBox_Titel_TextChanged);
             // 
             // metroLabel5
             // 
@@ -245,6 +251,7 @@ namespace DSA5Chargen
             this.txtBox_Gebort.Name = "txtBox_Gebort";
             this.txtBox_Gebort.Size = new System.Drawing.Size(231, 20);
             this.txtBox_Gebort.TabIndex = 15;
+            this.txtBox_Gebort.TextChanged += new System.EventHandler(this.txtBox_Gebort_TextChanged);
             // 
             // metroLabel6
             // 
@@ -261,6 +268,7 @@ namespace DSA5Chargen
             this.txtBox_Alter.Name = "txtBox_Alter";
             this.txtBox_Alter.Size = new System.Drawing.Size(231, 20);
             this.txtBox_Alter.TabIndex = 17;
+            this.txtBox_Alter.TextChanged += new System.EventHandler(this.txtBox_Alter_TextChanged);
             // 
             // metroLabel7
             // 
@@ -277,6 +285,7 @@ namespace DSA5Chargen
             this.txtBox_Größe.Name = "txtBox_Größe";
             this.txtBox_Größe.Size = new System.Drawing.Size(231, 20);
             this.txtBox_Größe.TabIndex = 19;
+            this.txtBox_Größe.TextChanged += new System.EventHandler(this.txtBox_Größe_TextChanged);
             // 
             // metroLabel8
             // 
@@ -293,6 +302,7 @@ namespace DSA5Chargen
             this.txtBox_Augenfarbe.Name = "txtBox_Augenfarbe";
             this.txtBox_Augenfarbe.Size = new System.Drawing.Size(231, 20);
             this.txtBox_Augenfarbe.TabIndex = 21;
+            this.txtBox_Augenfarbe.TextChanged += new System.EventHandler(this.txtBox_Augenfarbe_TextChanged);
             // 
             // metroLabel9
             // 
@@ -309,6 +319,7 @@ namespace DSA5Chargen
             this.txtBox_Profession.Name = "txtBox_Profession";
             this.txtBox_Profession.Size = new System.Drawing.Size(231, 20);
             this.txtBox_Profession.TabIndex = 23;
+            this.txtBox_Profession.TextChanged += new System.EventHandler(this.txtBox_Profession_TextChanged);
             // 
             // metroLabel10
             // 
@@ -325,6 +336,7 @@ namespace DSA5Chargen
             this.txtBox_Sozialstatus.Name = "txtBox_Sozialstatus";
             this.txtBox_Sozialstatus.Size = new System.Drawing.Size(231, 20);
             this.txtBox_Sozialstatus.TabIndex = 25;
+            this.txtBox_Sozialstatus.TextChanged += new System.EventHandler(this.txtBox_Sozialstatus_TextChanged);
             // 
             // metroLabel11
             // 
@@ -341,6 +353,7 @@ namespace DSA5Chargen
             this.txtBox_Gewicht.Name = "txtBox_Gewicht";
             this.txtBox_Gewicht.Size = new System.Drawing.Size(231, 20);
             this.txtBox_Gewicht.TabIndex = 27;
+            this.txtBox_Gewicht.TextChanged += new System.EventHandler(this.txtBox_Gewicht_TextChanged);
             // 
             // metroLabel12
             // 
@@ -357,6 +370,7 @@ namespace DSA5Chargen
             this.txtBox_Geschlecht.Name = "txtBox_Geschlecht";
             this.txtBox_Geschlecht.Size = new System.Drawing.Size(231, 20);
             this.txtBox_Geschlecht.TabIndex = 29;
+            this.txtBox_Geschlecht.TextChanged += new System.EventHandler(this.txtBox_Geschlecht_TextChanged);
             // 
             // metroLabel1
             // 
@@ -599,6 +613,7 @@ namespace DSA5Chargen
             this.cb_Erfahrungsgrad.Name = "cb_Erfahrungsgrad";
             this.cb_Erfahrungsgrad.Size = new System.Drawing.Size(155, 29);
             this.cb_Erfahrungsgrad.TabIndex = 50;
+            this.cb_Erfahrungsgrad.SelectedIndexChanged += new System.EventHandler(this.cb_Erfahrungsgrad_SelectedIndexChanged);
             // 
             // metroLabel19
             // 
@@ -983,6 +998,7 @@ namespace DSA5Chargen
             this.cb_Spezies.Name = "cb_Spezies";
             this.cb_Spezies.Size = new System.Drawing.Size(231, 21);
             this.cb_Spezies.TabIndex = 87;
+            this.cb_Spezies.TextChanged += new System.EventHandler(this.cb_Spezies_TextChanged);
             // 
             // metroLabel37
             // 
@@ -1144,7 +1160,7 @@ namespace DSA5Chargen
             this.ShowIcon = false;
             this.Text = "Persönliche Daten";
             this.TopMost = true;
-            this.VisibleChanged += new System.EventHandler(this.persönliche_daten_VisibleChanged);
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.persönliche_daten_FormClosed);
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown3)).EndInit();

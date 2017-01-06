@@ -1,21 +1,27 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-using MetroFramework.Forms;
-
-namespace DSA5Chargen
+﻿namespace DSA5Chargen
 {
+    using System.Windows.Forms;
+
+    using MetroFramework.Forms;
+
     public partial class Spielwerte : MetroForm
     {
+        #region Constructors and Destructors
+
         public Spielwerte()
         {
-            InitializeComponent();
+            this.InitializeComponent();
         }
+
+        #endregion
+
+        #region Methods
+
+        private void Spielwerte_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Program.OnCloseCleanup();
+        }
+
+        #endregion
     }
 }

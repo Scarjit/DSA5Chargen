@@ -1,20 +1,109 @@
-﻿using System;
-using System.Windows.Forms;
-
-namespace DSA5Chargen
+﻿namespace DSA5Chargen
 {
+    using System;
+    using System.Windows.Forms;
+
     using MetroFramework.Forms;
 
     internal static class Program
     {
+        #region Static Fields
 
-        public static MetroForm form_besitz;
-        public static MetroForm form_kampf;
-        public static MetroForm form_liturgien_und_zermonien;
-        public static MetroForm form_persönliche_daten;
-        public static MetroForm form_spielwerte;
-        public static MetroForm form_zauber_und_rituale;
-        public static MetroForm form_main;
+        public static MetroForm FormBesitz;
+
+        public static MetroForm FormKampf;
+
+        public static MetroForm FormLiturgienUndZermonien;
+
+        public static MetroForm FormMain;
+
+        public static MetroForm FormPersönlicheDaten;
+
+        public static MetroForm FormSpielwerte;
+
+        public static MetroForm FormZauberUndRituale;
+
+        #endregion
+
+        #region Enums
+
+        public enum Pages
+        {
+            Besitz,
+
+            Kampf,
+
+            Geweiht,
+
+            Persona,
+
+            Spielwerte,
+
+            Magie,
+
+            Main
+        }
+
+        #endregion
+
+        #region Public Methods and Operators
+
+        public static void CycleTo(Pages page)
+        {
+            //form_besitz.Hide();
+            //form_kampf.Hide();
+            //form_liturgien_und_zermonien.Hide();
+            FormPersönlicheDaten.Hide();
+            FormSpielwerte.Hide();
+            //form_zauber_und_rituale.Hide();
+            FormMain.Hide();
+
+            switch (page)
+            {
+                case Pages.Besitz:
+                    FormBesitz.Show();
+                    FormBesitz.BringToFront();
+                    break;
+                case Pages.Kampf:
+                    FormKampf.Show();
+                    FormKampf.BringToFront();
+                    break;
+                case Pages.Geweiht:
+                    FormLiturgienUndZermonien.Show();
+                    FormLiturgienUndZermonien.BringToFront();
+                    break;
+                case Pages.Persona:
+                    FormPersönlicheDaten.Show();
+                    FormPersönlicheDaten.BringToFront();
+                    break;
+                case Pages.Spielwerte:
+                    FormSpielwerte.Show();
+                    FormSpielwerte.BringToFront();
+                    break;
+                case Pages.Magie:
+                    FormZauberUndRituale.Show();
+                    FormZauberUndRituale.BringToFront();
+                    break;
+                case Pages.Main:
+                    FormMain.Show();
+                    FormMain.BringToFront();
+                    break;
+                default:
+                    FormMain.Show();
+                    FormMain.BringToFront();
+                    break;
+            }
+        }
+
+        public static void OnCloseCleanup()
+        {
+            MessageBox.Show("Cleanup");
+            Application.Exit();
+        }
+
+        #endregion
+
+        #region Methods
 
         /// <summary>
         ///     The main entry point for the application.
@@ -24,70 +113,13 @@ namespace DSA5Chargen
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            
-            form_persönliche_daten = new persönliche_daten();
-            form_spielwerte = new Spielwerte();
-            form_main = new Main();
-            Application.Run(form_main);
+
+            FormPersönlicheDaten = new persönliche_daten();
+            FormSpielwerte = new Spielwerte();
+            FormMain = new Main();
+            Application.Run(FormMain);
         }
 
-        public enum Pages
-        {
-            Besitz,
-            Kampf,
-            Geweiht,
-            Persona,
-            Spielwerte,
-            Magie,
-            Main
-        }
-        
-        public static void CycleTo(Pages page)
-        {
-            //form_besitz.Hide();
-            //form_kampf.Hide();
-            //form_liturgien_und_zermonien.Hide();
-            form_persönliche_daten.Hide();
-            form_spielwerte.Hide();
-            //form_zauber_und_rituale.Hide();
-            form_main.Hide();
-
-            switch (page)
-            {
-                case Pages.Besitz:
-                    form_besitz.Show();
-                    form_besitz.BringToFront();
-                    break;
-                case Pages.Kampf:
-                    form_kampf.Show();
-                    form_kampf.BringToFront();
-                    break;
-                case Pages.Geweiht:
-                    form_liturgien_und_zermonien.Show();
-                    form_liturgien_und_zermonien.BringToFront();
-                    break;
-                case Pages.Persona:
-                    form_persönliche_daten.Show();
-                    form_persönliche_daten.BringToFront();
-                    break;
-                case Pages.Spielwerte:
-                    form_spielwerte.Show();
-                    form_spielwerte.BringToFront();
-                    break;
-                case Pages.Magie:
-                    form_zauber_und_rituale.Show();
-                    form_zauber_und_rituale.BringToFront();
-                    break;
-                case Pages.Main:
-                    form_main.Show();
-                    form_main.BringToFront();
-                    break;
-                default:
-                    form_main.Show();
-                    form_main.BringToFront();
-                    break;
-            }
-
-        }
+        #endregion
     }
 }

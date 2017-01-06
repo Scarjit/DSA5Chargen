@@ -54,6 +54,7 @@ namespace DSA5Chargen
             this.Name = "Main";
             this.ShowIcon = false;
             this.Text = "Main";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Main_FormClosed);
             this.ResumeLayout(false);
 
         }
