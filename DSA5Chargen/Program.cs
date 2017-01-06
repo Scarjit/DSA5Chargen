@@ -115,7 +115,7 @@
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-            FormPersönlicheDaten = new persönliche_daten();
+            FormPersönlicheDaten = new PersönlicheDaten();
             FormSpielwerte = new Spielwerte();
             FormMain = new Main();
             Application.Run(FormMain);

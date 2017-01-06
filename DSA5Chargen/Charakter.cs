@@ -22,43 +22,101 @@ namespace DSA5Chargen
 
         public static int Körperkraft;
 
-        //Persönliche Daten
+        #region persönliche Daten
+
+        /// <summary>
+        /// Der Charaktername (Vorname) als String
+        /// </summary>
         public static string Name;
 
+        /// <summary>
+        /// Der Familienname des Charakters (Nachname) als String
+        /// </summary>
         public static string Familie;
 
+        /// <summary>
+        /// Das Geburtsdatum des Charakters als String
+        /// </summary>
         public static string Geburstdatum;
 
+        /// <summary>
+        /// Die Spezies des Charakters als String
+        /// </summary>
         public static string Spezies;
 
+        /// <summary>
+        /// Die Hautfarbe des Charakters als String
+        /// </summary>
         public static string Haarfarbe;
 
+        /// <summary>
+        /// Die Kultur des Charakters als String
+        /// </summary>
         public static string Kultur;
 
+        /// <summary>
+        /// Der Titel des Charakters als String
+        /// </summary>
         public static string Titel;
 
+        /// <summary>
+        /// Das Geschlecht des Charakters (Apache) als String
+        /// </summary>
         public static string Geschlecht;
 
+        /// <summary>
+        /// Die Charakteristika des Charakters als String
+        /// </summary>
         public static string Charaktersitika;
 
+        /// <summary>
+        /// Sonstiges als String
+        /// </summary>
         public static string Sonstiges;
 
+        /// <summary>
+        /// Der Geburtsort des Charakters als String
+        /// </summary>
         public static string Geburstort;
 
+        //Todo: Warum kein Integer?
+        /// <summary>
+        /// Das Alter des Charakters als String
+        /// </summary>
         public static string Alter;
 
+        //Todo: Warum kein Integer?
+        /// <summary>
+        /// Die Größe des Charakters als String
+        /// </summary>
         public static string Größe;
 
+        /// <summary>
+        /// Die Augenfarbe des Charakters als String
+        /// </summary>
         public static string Augenfarbe;
 
+        /// <summary>
+        /// Die Profession des Charakters als String
+        /// </summary>
         public static string Profession;
 
+        /// <summary>
+        /// Der Sozialstatus des Charakters als String
+        /// </summary>
         public static string Sozialstatus;
 
+        //Todo: Warum kein Integer?
+        /// <summary>
+        /// Das Gewicht des Charakters als String
+        /// </summary>
         public static string Gewicht;
 
+        /// <summary>
+        /// Der Erfahrungsgrad des Charakters als String
+        /// </summary>
         public static string Erfahrungsgrad;
-
+        #endregion
 
         public static int CalculateSkillCost(string stg, int from, int to)
         {

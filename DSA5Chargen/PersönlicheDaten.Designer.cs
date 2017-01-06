@@ -2,7 +2,7 @@
 
 namespace DSA5Chargen
 {
-    partial class persönliche_daten
+    partial class PersönlicheDaten
     {
         /// <summary>
         /// Required designer variable.
@@ -1053,7 +1053,7 @@ namespace DSA5Chargen
             this.btn_spielwerte.Size = new System.Drawing.Size(103, 23);
             this.btn_spielwerte.TabIndex = 94;
             this.btn_spielwerte.Text = "Spielwerte";
-            this.btn_spielwerte.Click += new System.EventHandler(this.metroButton1_Click);
+            this.btn_spielwerte.Click += new System.EventHandler(this.brn_spielwerte_Click);
             // 
             // persönliche_daten
             // 
@@ -1156,7 +1156,7 @@ namespace DSA5Chargen
             this.Controls.Add(this.lbl_name);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
-            this.Name = "persönliche_daten";
+            this.Name = "PersönlicheDaten";
             this.ShowIcon = false;
             this.Text = "Persönliche Daten";
             this.TopMost = true;

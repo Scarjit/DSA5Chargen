@@ -5,13 +5,13 @@
 
     using MetroFramework.Forms;
 
-    public partial class persönliche_daten : MetroForm
+    public partial class PersönlicheDaten : MetroForm
     {
         #region Constructors and Destructors
 
-        public persönliche_daten()
+        public PersönlicheDaten()
         {
-            this.InitializeComponent();
+            InitializeComponent();
         }
 
         #endregion
@@ -52,7 +52,7 @@
                     Charakter.VerfügbareAbenteurpunkte += ap;
                     break;
             }
-            this.txtBox_ap.Text = Charakter.VerfügbareAbenteurpunkte.ToString();
+            txtBox_ap.Text = Charakter.VerfügbareAbenteurpunkte.ToString();
         }
 
         /// <summary>
@@ -62,7 +62,7 @@
         /// <param name="e"></param>
         private void cb_Erfahrungsgrad_SelectedIndexChanged(object sender, EventArgs e)
         {
-            switch (this.cb_erfahrungsgrad.Text)
+            switch (cb_erfahrungsgrad.Text)
             {
                 case "Unerfahren (900)":
                     set_ap_via_erfahrungsgrad(900);
@@ -92,13 +92,10 @@
                     set_ap_via_erfahrungsgrad(2000);
                     Charakter.Erfahrungsgrad = "Legendär";
                     break;
-                default:
-                    Console.WriteLine(this.cb_erfahrungsgrad.Text);
-                    break;
             }
         }
 
-        private void metroButton1_Click(object sender, EventArgs e)
+        private void brn_spielwerte_Click(object sender, EventArgs e)
         {
             Program.CycleTo(Program.Pages.Spielwerte);
         }
@@ -112,42 +109,42 @@
 
         private void txtBox_name_TextChanged(object sender, EventArgs e)
         {
-            Charakter.Name = this.txtBox_name.Text;
+            Charakter.Name = txtBox_name.Text;
         }
 
         private void txtBox_familie_TextChanged(object sender, EventArgs e)
         {
-            Charakter.Familie = this.txtBox_familie.Text;
+            Charakter.Familie = txtBox_familie.Text;
         }
 
         private void txtBox_gebdatum_TextChanged(object sender, EventArgs e)
         {
-            Charakter.Geburstdatum = this.txtBox_gebdatum.Text;
+            Charakter.Geburstdatum = txtBox_gebdatum.Text;
         }
 
         private void cb_Spezies_TextChanged(object sender, EventArgs e)
         {
-            Charakter.Spezies = this.cb_Spezies.Text;
+            Charakter.Spezies = cb_Spezies.Text;
         }
 
         private void txtBox_Haarfarbe_TextChanged(object sender, EventArgs e)
         {
-            Charakter.Haarfarbe = this.txtBox_haarfarbe.Text;
+            Charakter.Haarfarbe = txtBox_haarfarbe.Text;
         }
 
         private void txtBox_Kultur_TextChanged(object sender, EventArgs e)
         {
-            Charakter.Kultur = this.txtBox_kultur.Text;
+            Charakter.Kultur = txtBox_kultur.Text;
         }
 
         private void txtBox_Titel_TextChanged(object sender, EventArgs e)
         {
-            Charakter.Titel = this.txtBox_titel.Text;
+            Charakter.Titel = txtBox_titel.Text;
         }
 
         private void txtBox_Geschlecht_TextChanged(object sender, EventArgs e)
         {
-            Charakter.Geschlecht = this.txtBox_geschlecht.Text;
+            Charakter.Geschlecht = txtBox_geschlecht.Text;
         }
 
         private void txtBox_Gebort_TextChanged(object sender, EventArgs e)

@@ -66,11 +66,11 @@
     <Compile Include="Main.Designer.cs">
       <DependentUpon>Main.cs</DependentUpon>
     </Compile>
-    <Compile Include="persönliche_daten.cs">
+    <Compile Include="PersönlicheDaten.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="persönliche_daten.Designer.cs">
-      <DependentUpon>persönliche_daten.cs</DependentUpon>
+    <Compile Include="PersönlicheDaten.Designer.cs">
+      <DependentUpon>PersönlicheDaten.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -83,8 +83,8 @@
     <EmbeddedResource Include="Main.resx">
       <DependentUpon>Main.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="persönliche_daten.resx">
-      <DependentUpon>persönliche_daten.cs</DependentUpon>
+    <EmbeddedResource Include="PersönlicheDaten.resx">
+      <DependentUpon>PersönlicheDaten.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
