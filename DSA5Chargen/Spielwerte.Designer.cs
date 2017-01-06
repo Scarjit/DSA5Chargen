@@ -4941,6 +4941,7 @@
             this.Controls.Add(this.metroLabel19);
             this.Name = "Spielwerte";
             this.Text = "Spielwerte";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Spielwerte_FormClosed);
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown8)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown7)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown6)).EndInit();
