@@ -56,7 +56,7 @@
         }
 
         /// <summary>
-        /// Sorgt dafür das ein Erfahrungsgrad nur einmal gesetzt werden kann
+        /// Lässt den richtigen AP Stand berechnen und setzt Charakter.Erfahrungsgrad
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
@@ -95,7 +95,7 @@
             }
         }
 
-        private void brn_spielwerte_Click(object sender, EventArgs e)
+        private void btn_spielwerte_Click(object sender, EventArgs e)
         {
             Program.CycleTo(Program.Pages.Spielwerte);
         }
@@ -104,8 +104,6 @@
         {
             Program.OnCloseCleanup();
         }
-
-        #endregion
 
         private void txtBox_name_TextChanged(object sender, EventArgs e)
         {
@@ -151,29 +149,36 @@
         {
             Charakter.Geburstort = txtBox_geburtsort.Text;
         }
+
         private void txtBox_Alter_TextChanged(object sender, EventArgs e)
         {
             Charakter.Alter = txtBox_alter.Text;
         }
+
         private void txtBox_Größe_TextChanged(object sender, EventArgs e)
         {
             Charakter.Größe = txtBox_größe.Text;
         }
+
         private void txtBox_Augenfarbe_TextChanged(object sender, EventArgs e)
         {
             Charakter.Augenfarbe = txtBox_augenfarbe.Text;
         }
+
         private void txtBox_Profession_TextChanged(object sender, EventArgs e)
         {
             Charakter.Profession = txtBox_profession.Text;
         }
+
         private void txtBox_Sozialstatus_TextChanged(object sender, EventArgs e)
         {
             Charakter.Sozialstatus = txtBox_sozialstatus.Text;
         }
+
         private void txtBox_Gewicht_TextChanged(object sender, EventArgs e)
         {
             Charakter.Gewicht = txtBox_gewicht.Text;
         }
+        #endregion
     }
 }

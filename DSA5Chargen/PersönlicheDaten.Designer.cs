@@ -1053,7 +1053,7 @@ namespace DSA5Chargen
             this.btn_spielwerte.Size = new System.Drawing.Size(103, 23);
             this.btn_spielwerte.TabIndex = 94;
             this.btn_spielwerte.Text = "Spielwerte";
-            this.btn_spielwerte.Click += new System.EventHandler(this.brn_spielwerte_Click);
+            this.btn_spielwerte.Click += new System.EventHandler(this.btn_spielwerte_Click);
             // 
             // persönliche_daten
             // 
